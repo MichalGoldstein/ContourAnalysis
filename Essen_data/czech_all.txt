@@ -1,0 +1,2869 @@
+!!!OTL: Graf und Nonne (Die Nonne) Du hast gesagt, du nehmest mich,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Kremnitz, Kuneschau
+!!!ARD1: Europa%Osteuropa%Tschechoslowakei@Kremnitz:Kuneschau!?
+!!!ARL1: ? / ?
+!!!ARD2: Europa%Osteuropa%Slovensko@Kremnitz:
+!!!ARL2: 48.70/18.91:
+!!!YOR: 8, S. 288
+!!    1938 gedruckt in Pressburg (ca.)
+!!!SCT: Q0155D.
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{8d
+=1
+8b
+8b
+8a
+8a
+=2
+8g
+8d
+8d}
+{8d
+=3
+8b
+8b
+8a
+8a
+=4
+4b
+8r}
+{16g
+16a
+=5
+8b
+8b
+8b
+8b
+=6
+4dd
+8cc}
+{8b
+=7
+8b
+8a
+8a
+8a
+=8
+4ee
+8dd}
+{8cc
+=9
+8b
+8b
+8a
+8a
+=10
+4g
+8r}
+==
+!!!AGN: Ballade, Standesunterschied, vergebliche Werbung, Liebes - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Graf und Nonne (Die Nonne) Ich stand auf hohem Berge
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Sudetenland, Zips
+!!!ARD1: Europa%Osteuropa%Deutschland@Sudetenland#Zips:?
+!!!ARL1: 49.78/11.58:?
+!!!ARD2: Europa%Osteuropa%Ceska Republika@Sudetenland#
+!!!ARL2: 49.75/15.00#
+!!!YOR: 8, S. 287
+!!    1924 gedruckt
+!!!SCT: Q01556
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-e-]
+*g:
+{8d
+=1
+4b-
+8b-
+4a
+8a
+=2
+4.g
+4fn}
+{8fn
+=3
+4b-
+8b-
+4cc
+8cc
+=4
+4.dd
+4r}
+{8dd
+=5
+4gg
+8dd
+4ee-
+8cc
+=6
+4.dd
+4g}
+{8a
+=7
+8b-
+8b-
+8b-
+4a
+8a
+=8
+4.g
+4r}
+{8a
+=9
+8b-
+8b-
+8b-
+4a
+8a
+=10
+4.g
+4r}
+==
+!!!AGN: Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Verschlafener Jaeger Ein Jaeger ging spazieren,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Sudetenland
+!!!ARD: Europa%Osteuropa%Ceska Republika@Sudetenland#
+!!!ARL: 49.75/15.00#
+!!!YOR: 7, S. 220
+!!    1943 gedruckt in Kassel
+!!!SCT: Q0152S
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4b
+4b
+4dd
+4b
+=2
+2a
+4cc}
+{4d
+=3
+4cc
+4cc
+4ee
+4cc
+=4
+2b
+4dd}
+{4g
+=5
+2ee
+4ee
+4ee
+=6
+2dd
+4b}
+{4dd
+=7
+4dd
+4cc
+4ee
+4dd
+=8
+2b
+4r}
+==
+!!!AGN: Ballade, Verfuehrung, verlorene Ehre
+!! Zugehoerigkeit zu dieser Balladengruppe ungeklaert.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Graf und Nonne (Die Nonne) Einst stand ich auf hohen Felsen
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Boehmen, Egerland, Hostau, Muttersdorf
+!!!ARD: Europa%Osteuropa%Ceska Republika@Boehmen#Egerland#Hostau:Muttersdorf!
+!!!ARL: 49.55/12.75!
+!!!YOR: 8, S. 102
+!!    1960 aufgezeichnet
+!!!SCT: Q0155n
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#c#g#d#]
+*E:
+{8B
+=1
+8g#
+8f#
+8e
+8e
+8d#
+8e
+=2
+8f#
+4f#
+4r}
+{8B
+=3
+8a
+8g#
+8f#
+8f#
+8e
+8f#
+=4
+4.g#
+4r}
+{8B
+=5
+8g#
+8f#
+8e
+8e
+8d#
+8e
+=6
+4c#
+8a
+8a
+8g#}
+{8f#
+=7
+8e
+8d#
+8e
+8g#
+8f#
+8f#
+=8
+4.e
+4r}
+{8B
+=9
+8g#
+8f#
+8e
+8e
+8d#
+8e
+=10
+4c#
+8a
+8a
+8g#}
+{8f#
+=11
+8e
+8d#
+8e
+8g#
+8f#
+8f#
+=12
+4.e
+4r}
+==
+!!!AGN: Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage, Tod
+!! Pause in der vierten und letzten Zeile ergaenzt.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Rheinbraut Es war einmal ein Wassermann,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Ost - Boehmen
+!!!ARD1: Europa%Osteuropa%Tschechoslowakei@Ost-Boehmen#?
+!!!ARL1: ? / ?
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL2: 49.75/15.00@
+!!!YOR: 2, S. 187
+!!    1907 aufgezeichnet
+!!!SCT: Q0047H
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{8cc
+=1
+8ff
+8ff
+8ee
+8dd
+=2
+8dd
+8cc
+8cc}
+{8cc
+=3
+8ff
+8cc
+8cc
+8b-
+=4
+8b-
+8a
+8a}
+{8g
+=5
+4a
+4b-
+=6
+8cc
+8ff
+8dd
+8b-
+=7
+4a
+4g
+=8
+4f
+8r}
+==
+!!!AGN: Ballade, Braut - Werbung, Todesahnung, Tod
+!! Pause im Schlusstakt korrigiert.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Unbestechliche Es reit' ein Reiter wohlgemut,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Maehren, Dt. Proben, Kremnitz
+!!!ARD: Europa%Osteuropa%Slovensko@Maehren#Dt. Proben:Kremnitz!
+!!!ARL: 48.70/18.91!
+!!!YOR: 7, S. 29
+!!    1943 gedruckt in Kassel
+!!!SCT: Q0144
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{4d
+=1
+4g
+4b
+=2
+4.a
+8dd
+=3
+8cc
+8b
+8a}
+{8g
+=4
+8g
+8b
+8a
+8g
+=5
+8f#
+8e
+8d}
+{16d
+16d
+=6
+8g
+8b
+8a
+8g
+=7
+4cc
+8cc
+8a
+=8
+4g}
+==
+!!!AGN: Ballade, Liebes - Handel
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Der grausame Bruder Es reit' ein Reiter wohlgemut,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Sudetenland, Deutsch - Proben, Gaidel
+!!!ARD1: Europa%Osteuropa%Slovensko@Sudetenland#Deutsch-Proben:
+!!!ARL1: 48.86/18.63:
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@Sudetenland#Deutsch-Proben:Gaidel!?
+!!!ARL2: ? / ?
+!!!YOR: 3, S. 258
+!!    ????
+!!!SCT: Q1068F
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{4d
+=1
+4g
+4b
+=2
+4.a
+8dd
+=3
+8cc
+8b
+8a}
+{8g
+=4
+8g
+8b
+8a
+8g
+=5
+8f#
+8e
+8d}
+{16d
+16d
+=6
+8g
+8b
+8a
+8g
+=7
+4b
+8cc
+8a
+=8
+4g}
+==
+!!!AGN: ???
+!! Melodievergleich zu Q0068A, anderes Lied "Der Gluecksjaeger" .
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Totenamt Grossmechtiger ewiger got,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Boehmen
+!!!ARD1: Europa%Osteuropa%Tschechoslowakei@Boehmen#?
+!!!ARL1: ? / ?
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL2: 49.75/15@
+!!!YOR: 3, S. 162
+!!    1531 gedruckt
+!!!SCT: Q1061C
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[b-e-]
+*g:
+{8fn
+=1
+4g
+4g
+4fn
+4g
+=2
+4b-
+4b-
+2a}
+{8g
+=3
+4a
+4dd
+4dd
+4cc
+=4
+4cc
+4b-
+2a}
+{8b-
+=5
+4cc
+4a
+4b-
+4g
+=6
+4b-
+4a
+2g}
+{8g
+=7
+4d
+4fn
+4g
+4a
+=8
+4b-
+4a
+1g}
+==
+!!!AGN: geistlich
+!! Melodievergleich zu Q0061, anderes Lied. Taktart in "FREI" geaendert.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Vater und Tochter Schoenes Maedchen, was machst du hier,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Unterzips
+!!!ARD1: Europa%Osteuropa%Tschechoslowakei@Unterzips#?
+!!!ARL1: ? / ?
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL2: 49.75/15.00@
+!!!YOR: 7, S. 20
+!!    1844 aufgezeichnet
+!!!SCT: Q0142B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+=1
+{8g
+8g
+8d
+16d
+16d
+=2
+8e
+8e
+4d}
+=3
+{8d
+8d
+8e
+8f#
+=4
+4g
+4r}
+=5
+{8g
+8g
+8d
+16d
+16d
+=6
+8e
+8e
+4d}
+=7
+{8d
+8d
+8e
+8f#
+=8
+4g
+4r}
+=9
+{8f#
+8a
+8a
+8a
+=10
+8a
+8b
+4a}
+=11
+{8b
+8g
+8g
+8e
+=12
+8d
+8e
+4d}
+=13
+{8d
+8d
+8e
+8f#
+=14
+8g
+8b
+4dd}
+=15
+{8b
+8d
+8b
+8a
+=16
+4g
+4r}
+=17
+{8f#
+8a
+8a
+8a
+=18
+8a
+8b
+4a}
+=19
+{8b
+8g
+8g
+8e
+=20
+8d
+8e
+4d}
+=21
+{8d
+8d
+8e
+8f#
+=22
+8g
+8b
+4dd}
+=23
+{8b
+8d
+8b
+8a
+=24
+4g
+4r}
+==
+!!!AGN: Ballade, Verfuehrung, Verwechslung
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Rheinbraut Ach Mutter, liebe Mutter mein,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, sudetendeutsch
+!!!ARD: Europa%Osteuropa%Tschechoslowakei@sudetendeutsch#
+!!!ARL: ? / ?
+!!!YOR: 2, S. 187
+!!    1865 gedruckt in Troppau
+!!!SCT: Q0047I
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#c#]
+*D:
+{4d
+=1
+4d
+4f#
+4f#
+4a
+=2
+4a
+4a
+4b}
+{4a
+=3
+4a
+4g
+4g
+4f#
+=4
+8b
+8a
+4b
+4a}
+{8g
+8e
+=5
+4d
+8f#
+8a
+4g
+4e
+=6
+4f#
+4e
+4d}
+==
+!!!AGN: Ballade, Braut - Werbung, Todesahnung, Tod
+!! Pause im Schlusstakt korrigiert (weggelassen) .
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Ritter und Magd Ein Koenigssohn und eine Koenigstochter
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Sudetenland
+!!!ARD: Europa%Osteuropa%Ceska Republika@Sudetenland#
+!!!ARL: 49.75/15.00#
+!!!YOR: 3, S. 61
+!!    1908 gedruckt in Wien
+!!!SCT: Q0055c
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#c#]
+*D:
+{8A
+=1
+8.f#
+16f#
+16f#
+16f#
+16e
+16e
+=2
+8.d
+16d
+8d
+8A}
+=3
+{8.d
+16d
+8g
+8f#
+=4
+4f#
+8e}
+{8A
+=5
+8e
+16e
+16e
+8e
+8d
+=6
+8.c#
+16c#
+8c#}
+{8B
+=7
+8A
+8A
+8f#
+8e
+=8
+4e
+8d}
+==
+!!!AGN: Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd
+!! Grundton in der zweigestrichenen Oktave.
+!!    Dritte Zeile = Refrain auf sinnfreie Silben.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Brombeerpflueckerin Es soll ein Maedel fruh aufstehn
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Slowakei, Dt. Proben, Kremnitz,
+!!    Glaserhaeu
+!!!ARD1: Europa%Osteuropa%Tschechoslowakei@Dt. Proben:Kremnitz!Glaserhaeu!?
+!!!ARL1: ? / ?
+!!!ARD2: Europa%Osteuropa%Slovensko@Dt. Proben:Kremnitz!
+!!!ARL2: 48.70/18.91!
+!!!YOR: 7, S. 77
+!!    1930 aufgezeichnet
+!!!SCT: Q0147D
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#c#]
+*D:
+{8f#
+=1
+4a
+8a
+4a
+8b
+=2
+4a
+8g
+4f#}
+{8a
+=3
+4dd
+8dd
+4cc#
+8b
+=4
+4g
+4.r}
+{8cc#
+=5
+8ee
+8dd
+8b
+8ee
+8dd
+8b
+=6
+4a
+8dd
+4a}
+{8dd
+=7
+4cc#
+8b
+8a
+8g
+8a
+=8
+4f#
+4.r}
+{8a
+=9
+8ee
+8dd
+8b
+8ee
+8dd
+8b
+=10
+4a
+8dd
+4a}
+{8dd
+=11
+4cc#
+8b
+8a
+8g
+8a
+=12
+4f#
+4.r}
+==
+!!!AGN: Ballade, Verfuehrung, Schwangerschaft
+!! Vierte und siebte Zeile refrainartig.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Unbestechliche Es reit' ein Reit'r auch wohlgemut,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Slowakei
+!!!ARD: Europa%Osteuropa%Tschechoslowakei@Slowakei#
+!!!ARL: ? / ?
+!!!YOR: 7, S. 36
+!!    1969 gedruckt in Freiburg
+!!!SCT: Q0144C
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  4/4; 2/4
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4g
+4g
+4.a
+16dd
+16dd
+=2
+*M2/4
+8cc
+8b
+8a}
+{8g
+=3
+8g
+8b
+8a
+16g
+16g
+=4
+8f#
+8e
+8d}
+{8d
+=5
+*M4/4
+4g
+4g
+4.a
+16g
+16g
+=6
+4b
+12cc
+6f#
+4g}
+==
+!!!AGN: Ballade, Liebes - Handel
+!! Transkription einer Tonaufnahme. Viele Verzierungen (Vor- und
+!!    Nachschlaege) . Schlusspause gestrichen.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Ritter und Magd Ach Herre Gott, mich treibt die Not,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Boehmen
+!!!ARD1: Europa%Osteuropa%Tschechoslowakei@Boehmen#?
+!!!ARL1: ? / ?
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL2: 49.75/15@
+!!!YOR: 3, S. 51
+!!    1595 gedruckt
+!!!SCT: Q1055M
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/2
+*k[f#]
+*G:
+{4g
+4g
+4g
+=1
+2.cc
+4a
+4b
+4cc
+=2
+2dd
+4r}
+{4dd
+4dd
+4dd
+=3
+2gg
+4ee
+4ff#
+2ee
+=4
+2dd
+4r}
+{4dd
+4dd
+4dd
+=5
+2.ee
+4dd
+4cc
+4b
+=6
+2a
+4r}
+{4dd
+4dd
+4dd
+=7
+2cc
+4dd
+4b
+2a
+=8
+2.g}
+==
+!!!AGN: geistlich
+!! Melodievergleich zu Q0055B, D, und E; anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Koenigstochter im Heeresdienst Pasol mili ouce na zel'enej luce,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Slowakei
+!!!ARD: Europa%Osteuropa%Tschechoslowakei@Slowakei#
+!!!ARL: ? / ?
+!!!YOR: 5, S. 86
+!!    ????
+!!!SCT: Q3095H
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+=1
+{8g
+8b
+8dd
+8cc
+=2
+8b
+4.a
+=3
+8a
+8b
+8cc
+8b
+=4
+8g
+4a
+8r}
+=5
+{8g
+8dd
+8dd
+8cc
+=6
+8b
+4.g
+=7
+8cc
+8b
+4a
+=8
+8b
+8a
+4g}
+==
+!!!AGN: ???
+!! Melodievergleich zu Q0095, anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Der Nachtjaeger Der Jaeger, er jagte ein wueldes, wueldes Schwein,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Boehmerwald, Muttersdorf
+!!!ARD: Europa%Osteuropa%Ceska Republika@Boehmerwald#Muttersdorf:
+!!!ARL: 49.55/12.75:
+!!!YOR: 6, S. 168
+!!    1961 aufgezeichnet
+!!!SCT: Q0133E
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{8dd
+=1
+4dd
+8b
+8gg
+4gg
+8.ff#
+16ee
+=2
+8.ee
+16dd
+8dd
+8gg
+4dd
+8r}
+{8b
+=3
+8.b
+16a
+8a
+8ee
+4ee
+8dd
+8a
+=4
+8.cc
+16b
+8b
+8ee
+4dd
+8r}
+{8dd
+=5
+8.gg
+16gg
+8gg
+8bb
+8aa
+8bb
+8ccc
+8aa
+=6
+8ff#
+8dd
+8ee
+8ff#
+4gg
+8r}
+==
+!!!AGN: Ballade, Jagd, Flucht, Vergewaltigung, Tod
+!! Verzierungen (Glissandi) .
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Maedchen und Hasel Es geht ein' Frau in gruenen Wald
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Deutsch - Proben, Sprachinsel
+!!    Kremnitz, Glaserhaeu
+!!!ARD1: Europa%Osteuropa%Tschechoslowakei@Deutsch-Proben:Sprachinsel Kremnitz!Glaserhaeu!?
+!!!ARL1: ? / ?
+!!!ARD2: Europa%Osteuropa%Slovensko@Deutsch-Proben:Sprachinsel Kremnitz!?
+!!!ARL2: 48.70/18.91!?
+!!!ARD3: Europa%Osteuropa%Slovensko@Deutsch-Proben:
+!!!ARL3: 48.86/18.63:
+!!!YOR: 6, S. 245
+!!    1930 aufgezeichnet
+!!!SCT: Q0138C
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  3/4; 4/4
+*M3/4
+*k[f#]
+*e:
+{8e
+8e
+8gn
+=1
+4.b
+8a#
+8b
+8ccn
+=2
+*M4/4
+4a
+4r}
+{8ddn
+8cc#
+8ddn
+8ee
+=3
+*M3/4
+4ddn
+4b}
+{8.b
+16b
+=4
+4.ddn
+8b
+8.ddn
+16ddn
+=5
+4.gn}
+{8a
+8b
+8b
+=6
+4.gn
+8b
+8a
+8gn
+=7
+4e
+8r}
+==
+!!!AGN: Ballade, verlorene Unschuld, Moral
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Maedchen als Stallknecht Buhin, buhin? Zum Tor hinaus,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Slowakei
+!!!ARD: Europa%Osteuropa%Tschechoslowakei@Slowakei#
+!!!ARL: ? / ?
+!!!YOR: 5, S. 127
+!!    ????
+!!!SCT: Q1100K
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*G:
+{4b
+=1
+2dd
+4b
+=2
+2dd
+4ee
+=3
+2dd
+4cc
+=4
+2b}
+{4d
+=5
+2g
+4a
+=6
+2b
+4cc
+=7
+2b
+4a
+=8
+2g}
+==
+!!!AGN: ???
+!! Melodievariante zu Q0100, anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die brave Stiefmutter Ajvim ja lucku zelenu,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Maehren
+!!!ARD1: Europa%Osteuropa%Deutschland@Maehren:?
+!!!ARL1: 50.53/7.91:?
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL2: 49.75/15@
+!!!YOR: 5, S. 326
+!!    ????
+!!!SCT: Q3121A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*F:
+{4f
+=1
+2cc
+8b-
+8a
+=2
+2g
+4a
+=3
+2b-
+8a
+8g
+=4
+2.g}
+=5
+{4g
+4g
+4f
+=6
+4e
+2g
+=7
+4e
+4d
+4e
+=8
+2.c}
+=9
+{4c
+4d
+4e
+=10
+2f
+4b-
+=11
+4a
+4g
+4a
+=12
+2f}
+==
+!!!AGN: geistlich
+!! Melodievergleich zu Q0121, anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Der Vorwirt Es ritt ein Herr ueber den geweihten Kirchhof,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Nord - Maehren
+!!!ARD1: Europa%Osteuropa%Tschechoslowakei@Nord-Maehren#?
+!!!ARL1: ? / ?
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL2: 49.75/15.00@
+!!!YOR: 5, S. 16
+!!    1927 gedruckt
+!!!SCT: Q0089F
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4dd
+=1
+4gg
+8ff#
+8ee
+4dd
+16dd
+16dd
+16dd
+16ff#
+=2
+8ee
+8ee
+4ee
+4dd}
+{4cc
+=3
+4b
+4dd
+4gg
+8gg
+8b
+=4
+4dd
+4cc
+4b}
+==
+!!!AGN: Ballade, Mord, Grab, Auferstehen, Geist
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die verkaufte Muellerin Es wollt' ein Muellner in Walde fahren,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Dt. Proben, Sprachinsel Kremnitz, Gaidel
+!!!ARD1: Europa%Osteuropa%Tschechoslowakei@Dt. Proben#Sprachinsel Kremnitz:Gaidel!?
+!!!ARL1: ? / ?
+!!!ARD2: Europa%Osteuropa%Slovensko@Sprachinsel Kremnitz:
+!!!ARL2: 48.70/18.91:
+!!!YOR: 4, S. 321
+!!    1930 aufgezeichnet
+!!!SCT: Q0086B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! 3+2 metric grouping
+*M5/4
+*k[f#c#]
+*D:
+{4d
+4f#
+4f#
+=1
+2e
+8d
+8d
+4a
+4a
+=2
+4g
+4e}
+{4d
+4a
+8f#
+8f#
+=3
+2e
+8d
+8d
+4f#
+4e
+=4
+2e}
+==
+!!!AGN: Ballade, Menschenhandel, Rettung, Hinrichtung
+!! Verzierung (Glissando) in der ersten Zeile.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quintuple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die elfjaehrige Markgraefin Es wohnt ein' Witfrau in Oesterreich,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Sudetenland, Zips, Einsiedel
+!!    bei Goellnitz
+!!!ARD: Europa%Osteuropa%Slovensko@Einsiedel bei Goellnitz:
+!!!ARL: 48.80/20.80:
+!!!YOR: 2, S. 284
+!!    1923 aufgezeichnet
+!!!SCT: Q0053C
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/4
+*k[b-e-]
+*B-:
+{4dd
+=1
+2ff
+4ff
+4cc
+4dd
+4ee-
+=2
+2dd
+4a
+2b-}
+{4b-
+=3
+2gg
+4gg
+4bb-
+4aa
+4gg
+=4
+2ff
+4cc
+2dd}
+{4ff
+=5
+4bb-
+4bb-
+4bb-
+4ff
+4aa-
+4aa-
+=6
+4gg
+4ee-
+2.r}
+{4gg
+=7
+4gg
+4gg
+4gg
+4ff
+4ff
+4ff
+=8
+2ee-
+4ff
+2dd}
+==
+!!!AGN: Ballade, Braut - Werbung, Hochzeit, Minderjaehrige, Tod
+!! Grundton in der kleinen Oktave. Modulation.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Der Vorwirt Es ritt ein Herr mit seinem Ross
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Oesterreich - Schlesien
+!!!ARD1: Europa%Osteuropa%Ceska Republika@Oesterreich-Schlesien#?
+!!!ARL1: 50.16/17.00#?
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL2: 49.75/15.00@
+!!!YOR: 5, S. 16
+!!    1865 gedruckt in Troppau
+!!!SCT: Q0089E
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*G:
+{8d
+=1
+8g
+8g
+8b
+8a
+4g
+=2
+8a
+8b
+4g
+8r}
+{8g
+=3
+8b
+16dd
+16ee
+8dd
+8cc
+4b
+=4
+16dd
+16dd
+8cc
+4b
+8r}
+{8b
+=5
+8dd
+16dd
+16ee
+8dd
+8cc
+4b
+=6
+8cc
+8b
+4a
+8r}
+{8g
+=7
+8b
+16dd
+16ee
+8dd
+8cc
+4b
+=8
+8dd
+8cc
+4b
+8r}
+==
+!!!AGN: Ballade, Mord, Grab, Auferstehen, Geist
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Rabenmutter Ich geh' in Wald um Roeselein,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Slowakei
+!!!ARD: Europa%Osteuropa%Tschechoslowakei@Slowakei#
+!!!ARL: ? / ?
+!!!YOR: 5, S. 272
+!!    ????
+!!!SCT: Q0114d
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[f#]
+*G:
+{4d
+4g
+4a
+=1
+4g
+4d
+4g
+4a
+=2
+4b}
+{4cc
+4b
+4a
+=3
+4g
+4cc
+4b
+4a
+=4
+4g}
+==
+!!!AGN: Ballade, Kinds - Mord, Strafe
+!! Vom Hg. als Vierzeiler klassifizert.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Der heimkehrende Braeutigam 'Zottelbock, wo gehst du hin?'
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Sudetenland, Schoenhengstgau
+!!!ARD: Europa%Osteuropa%Ceska Republika@Sudetenland#Schoenhengstgau#
+!!!ARL: 49.83/16.66#
+!!!YOR: 5, S. 144
+!!    1938 gedruckt in Kassel
+!!!SCT: Q1102G
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+=1
+{4.dd
+8cc
+4.b
+8cc
+=2
+4.dd
+8ee
+4dd
+4r}
+=3
+{4.dd
+8cc
+4.b
+8cc
+=4
+4.dd
+8ee
+4dd
+4r}
+=5
+{4.dd
+8cc
+4.b
+8cc
+=6
+4.dd
+8cc
+4.b}
+{8cc
+=7
+4.dd
+8cc
+4.b
+8cc
+=8
+4.dd
+8cc
+4b
+4r}
+==
+!!!AGN: Kinder - Lied
+!! Melodievergleich zu Q0102F, anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Der Hammerschmiedssohn 'Annele, du sollst ni borwes giehn,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Sudetenland, Kuhlaendchen
+!!!ARD: Europa%Osteuropa%Ceska Republika@Kuhlaendchen#
+!!!ARL: 49.66/18.00#
+!!!YOR: 4, S. 360
+!!    1938 gedruckt in Reichenberg
+!!!SCT: Q0088H
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+=1
+{8cc
+16b-
+16b-
+8a
+8b-
+=2
+8cc
+8a
+4f}
+=3
+{8g
+16f
+16f
+8e
+8f
+=4
+8g
+8e
+8c}
+{8c
+=5
+8b-
+8a
+8g
+8f
+=6
+4g
+4e
+=7
+4f
+8r}
+{8f
+=8
+8b-
+8a
+8g
+8f
+=9
+4g
+4e
+=10
+4f
+4r}
+==
+!!!AGN: Ballade, Verfuehrung, Schwangerschaft, Mord
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Naehterin 's sass a Naehterin und sie naeht,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Sudetenland, Kuhlaendchen
+!!!ARD: Europa%Osteuropa%Ceska Republika@Kuhlaendchen#
+!!!ARL: 49.66/18.00#
+!!!YOR: 1, S. 75
+!!    1840 gedruckt in Berlin
+!!!SCT: Q0008A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+=1
+{8g
+8g
+16g
+16g
+8g
+=2
+4cc
+4a
+=3
+4b
+4r}
+=4
+{8cc
+8dd
+16ee
+16ee
+8dd
+=5
+8cc
+8cc
+8cc}
+{8fn
+=6
+8g
+8a
+8b
+8dd
+=7
+8.a
+16a
+4fn
+=8
+4g
+8r}
+{8dd
+=9
+8.cc
+16cc
+4fn
+=10
+4g
+4r}
+==
+!!!AGN: Ballade, Geburt, Tod, Moral, Entfuehrung
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Todesbraut Da geht das Dirnderl uebern Mist
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Sudetenland, Boehmerwald, Heiligenkreuz
+!!!ARD: Europa%Osteuropa%Ceska Republika@Heiligenkreuz:
+!!!ARL: 49.56/15.58:
+!!!YOR: 2, S. 219
+!!    ???? gedruckt in Wien
+!!!SCT: Q0049
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  3/2; 2/2
+*M2/2
+*k[f#]
+*G:
+{4b
+4g
+4b
+=1
+2g
+2b
+4cc
+4cc
+=2
+4a}
+{4cc
+4a
+4cc
+=3
+*M3/2
+2a
+2cc
+4b
+4a
+=4
+2g
+4r}
+==
+!!!AGN: Ballade, Hochzeit, Unfall, Tod
+!! Fuenfertakt?
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Hauptmannstochter Jesli te, ma mila, hlava boli
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Maehren
+!!!ARD1: Europa%Osteuropa%Deutschland@Maehren:?
+!!!ARL1: 50.53/7.91:?
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL2: 49.75/15@
+!!!YOR: 5, S. 138
+!!    1895 gedruckt in Prag (vor)
+!!!SCT: Q3101E
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[b-e-]
+*g:
+=1
+{8.g
+16g
+8a
+=2
+8.b-
+16a
+8cc
+=3
+16b-
+16a
+4g
+=4
+4fn
+8r}
+=5
+{8.b-
+16b-
+8cc
+=6
+8.dd
+16dd
+8b-
+=7
+16ee
+16dd
+4cc
+=8
+4b-
+8r}
+=9
+{8.dd
+16cc
+8a
+=10
+8cc
+16b-
+16a
+8g
+=11
+16b-
+16a
+4g
+=12
+8.a
+16a
+8d}
+=13
+{8.g
+16g
+8a
+=14
+8b-
+8a
+8b-
+=15
+16cc
+16b-
+4a
+=16
+4g
+8r}
+==
+!!!AGN: ???
+!! Melodievergleich zu Q0101D, anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Koenigskinder Elissko mila srdeczna
+!!!ARE: Europa, Osteuropa, Tschechoslowakei
+!!!ARD: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL: 49.75/15.00@
+!!!YOR: 1, S. 217
+!!    15?? Handschrift
+!!!SCT: Q2020F
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/4
+*k[b-e-]
+*g:
+=1
+{2g
+4b-
+2a
+4g
+=2
+2a
+4a
+2dd}
+{4dd
+=3
+2g
+4a
+2b-
+4g
+=4
+2.fn
+2.r}
+=5
+{2a
+4a
+2cc
+4cc
+=6
+2g
+4g
+2b-}
+{4a
+=7
+2g
+4e
+2d
+4fn
+=8
+2.g
+2.r}
+==
+!!!AGN: Ballade, Liebe, Trennung, Tod
+!! Eingeklammerte Pausen gespielt.
+!!    Die"Elslein"-Melodie wird in direkten Zusammenhang zur Balladengruppe
+!!    gestellt.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Mordeltern Es warn einmal zwei Bauerssoehn
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Zips
+!!!ARD1: Europa%Osteuropa%Deutschland@Zips:?
+!!!ARL1: 49.78/11.58:?
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL2: 49.75/15.00@
+!!!YOR: 4, S. 308
+!!    ????
+!!!SCT: Q0085L
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[b-e-]
+*g:
+{4d
+=1
+4g
+4g
+4g
+4a
+=2
+4b-
+4a
+4g}
+{4a
+=3
+4b-
+4fn
+4fn
+4g
+=4
+4fn
+4e-
+4d}
+{4fn
+=5
+4e-
+4d
+4c
+4g
+=6
+4fn
+4e-
+4d}
+{4b-
+=7
+4a
+4g
+4cc
+4b-
+=8
+2a
+4g}
+==
+!!!AGN: Ballade, Habgier, Mord, Reue, Selbstmord
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Mordeltern Es warn einmal zwei Bauerssoehn,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Ober - Zips
+!!!ARD1: Europa%Osteuropa%Tschechoslowakei@Ober-Zips#?
+!!!ARL1: ? / ?
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL2: 49.75/15.00@
+!!!YOR: 4, S. 313
+!!    ????
+!!!SCT: Q0085p
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[b-e-]
+*g:
+{4d
+=1
+4g
+4f#
+2g
+4dd
+=2
+4dd
+4b-
+2.a}
+{4a
+=3
+4b-
+4a
+2b-
+4dd
+=4
+4dd
+4b-
+2.a}
+{4ee-
+=5
+2dd
+4cc#
+2dd
+4b-
+=6
+4a
+2g
+2r}
+{4ee-
+=7
+2dd
+4cc#
+2dd
+4b-
+=8
+4a
+2g
+2r}
+==
+!!!AGN: Ballade, Habgier, Mord, Reue, Selbstmord
+!! Verzierungen (Glissandi) in den letzten beiden Zeilen.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die dienende Schwester Es wohnt ein Markgraf uebern Rhein,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Sudetenland, Zips
+!!!ARD1: Europa%Osteuropa%Deutschland@Sudetenland#Zips:?
+!!!ARL1: 49.78/11.58:?
+!!!ARD2: Europa%Osteuropa%Ceska Republika@Sudetenland#
+!!!ARL2: 49.75/15.00#
+!!!YOR: 4, S. 120
+!!    1943 gedruckt in Kassel
+!!!SCT: Q0075z
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*F:
+{8ff
+8cc
+8a
+=1
+4f
+4dd
+8dd
+8cc
+=2
+8cc
+8a
+8r}
+{8ff
+8ee
+8ff
+=3
+4gg
+4cc
+8ff
+8ee
+=4
+8dd
+8cc
+8r}
+==
+!!!AGN: Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die entfuehrte Graserin Es graste eine Jungfrau huebsch und fein
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Boehmen, Deutsch - Gabel
+!!!ARD: Europa%Osteuropa%Ceska Republika@Deutsch-Gabel:
+!!!ARL: 50.76/14.78:
+!!!YOR: 2, S. 147
+!!    1911 gedruckt
+!!!SCT: Q0045
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+8.g
+16g
+8g
+8g
+4b
+8dd
+8b
+=2
+4.a
+8g
+4g}
+{4a
+=3
+8b
+8a
+8g
+8f#
+4e
+8f#
+8g
+=4
+4f#
+4e
+4d}
+{4d
+=5
+4g
+4g
+4a
+8b
+8dd
+=6
+4.a
+8g
+4g}
+==
+!!!AGN: Ballade, Pastorelle, Entfuehrung, Tod
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Mordeltern Es woen amol zwie Pauersien,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Sudetenland, Kuhlaendchen
+!!!ARD: Europa%Osteuropa%Ceska Republika@Kuhlaendchen#
+!!!ARL: 49.66/18.00#
+!!!YOR: 4, S. 308
+!!    1938 gedruckt in Reichenberg
+!!!SCT: Q0085I
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*g:
+{4d
+=1
+8d
+8f#
+4.g
+8a
+=2
+8b-
+8b-
+4.fn}
+{8b-
+=3
+8b-
+8b-
+4a
+4g
+=4
+8d
+8e-
+4.fn}
+{8g
+=5
+8fn
+8e-
+4d
+4e-
+=6
+4fn
+4d
+8r}
+{8b-
+=7
+8a
+8b-
+4a
+4g
+=8
+4f#
+4g}
+==
+!!!AGN: Ballade, Habgier, Mord, Reue, Selbstmord
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Das Bauerntoechterlein Trau, faines Maedelein, trau nie zu sehr
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Sudetenland, Kuhlaendchen
+!!!ARD: Europa%Osteuropa%Ceska Republika@Kuhlaendchen#
+!!!ARL: 49.66/18.00#
+!!!YOR: 2, S. 266
+!!    ????
+!!!SCT: Q1051I
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{8d
+=1
+4g
+8g
+8f#
+8.e
+16e
+4e
+=2
+4a
+8a
+8f#
+4d
+8r}
+{8d
+=3
+4g
+8g
+8a
+4b
+8b
+8g
+=4
+8b
+8a
+8a
+8f#
+4g
+8r}
+==
+!!!AGN: ???
+!! Melodievergleich zu Q0051H, anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Schlangenkoechin Ohne Text
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Boehmen
+!!!ARD1: Europa%Osteuropa%Tschechoslowakei@Boehmen#?
+!!!ARL1: ? / ?
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL2: 49.75/15@
+!!!YOR: 4, S. 206
+!!    1505 gedruckt
+!!!SCT: Q1079D
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#c#]
+*D:
+=1
+{4d
+8d
+4f#
+8g
+=2
+4a
+8a
+4.a}
+=3
+{4b
+8cc#
+4dd
+8cc#
+=4
+4.b
+4.a}
+=5
+{4dd
+8dd
+4a
+8a
+=6
+4b
+8b
+4.a}
+=7
+{4.a
+4.a
+=8
+4b
+8b
+4.a}
+=9
+{4a
+8g
+4f#
+8e
+=10
+4.d
+4.d}
+==
+!!!AGN: geistlich; Reigen - Tanz
+!! Melodievergleich zu Q0079E ff, anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Schlangenkoechin A ked' ty nam umres,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Maehren, Sued - Walachei, Tichov
+!!!ARD: Europa%Osteuropa%Ceska Republika@Maehren#Sued-Walachei#Tichov:
+!!!ARL: 49.18/17.98:
+!!!YOR: 4, S. 206
+!!    1949 aufgezeichnet
+!!!SCT: Q2079G
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#c#]
+*D:
+=1
+{8d
+8e
+8f#
+8g
+=2
+4a
+4g}
+=3
+{8a
+8b
+8ccn
+8b
+=4
+4a
+4r}
+=5
+{4dd
+4ccn
+=6
+8b
+8a
+8g
+8f#
+=7
+8g
+8g
+4d}
+=8
+{8g
+8b
+8a
+8g
+=9
+12f#
+12g
+12f#
+4e
+=10
+4d
+4r}
+==
+!!!AGN: Ballade, Mord; Reigen - Tanz, antiphonal
+!! Maehrische Fassung der Ballade. Verzierungen (Nachschlaege) und
+!!    Quintole. Quintole in Triole plus Viertelnote geaendert.
+!!    Zweite und vierte Zeile = Refrain.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Der Maedchenmoerder (Halewijn - Ulinger) Mel se Hermanek zeniti,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Maehren
+!!!ARD1: Europa%Osteuropa%Deutschland@Maehren:?
+!!!ARL1: 50.53/7.91:?
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL2: 49.75/15@
+!!!YOR: 2, S. 106
+!!    1901 gedruckt
+!!!SCT: Q2048N
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#c#]
+*D:
+=1
+{8d
+8d
+8d
+4d
+8e
+=2
+8d
+8cn
+8B
+4A
+8r}
+=3
+{8B
+8cn
+8d
+4A
+8B
+=4
+4A
+8G
+4Fn
+8r}
+=5
+{8d
+8e
+8fn
+4d
+8e
+=6
+8cn
+8B
+8cn
+4d
+8r}
+==
+!!!AGN: Ballade, Hochzeit, Mord / Unfall, Tod
+!! Melodievariante zu Q0041H: anderes Lied, maehrische Variante der
+!!    Graf Friedrich Ballade, deshalb Q0048 zugeordnet. Grundton in der
+!!    zweigestrichenen Oktave.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Graserin und Reiter Ein Maedchen, die wohl frueh aufstand
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Eger
+!!!ARD: Europa%Osteuropa%Ceska Republika@Eger:
+!!!ARL: 50.06/12.36:
+!!!YOR: 7, S. 131
+!!    1935 aufgezeichnet
+!!!SCT: Q0149B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[]
+*C:
+{8g
+=1
+8g
+8e
+8e
+8e
+=2
+8e
+8d
+8d}
+{8e
+=3
+8f
+8a
+8g
+8f
+=4
+4f
+8e}
+{8g
+=5
+8c
+16g
+16g
+12g
+12g
+12g
+=6
+8g
+8e
+8cc}
+{8g
+=7
+8g
+8f
+8f
+8b
+=8
+8cc
+8e
+8g}
+{8g
+=9
+8f
+16a
+16a
+12a
+12a
+12a
+=10
+4g
+8e}
+{8g
+=11
+8g
+8f
+8f
+8b
+=12
+4cc
+8r}
+==
+!!!AGN: Ballade, Verfuehrung, Verlassen des Elternhauses
+!! Anhaengsel an der vierten Zeile.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Graserin und Reiter Wou genga in Summa doeia Maidla hin,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Eger
+!!!ARD: Europa%Osteuropa%Ceska Republika@Eger:
+!!!ARL: 50.06/12.36:
+!!!YOR: 7, S. 132
+!!    1934 aufgezeichnet
+!!!SCT: Q0149C
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#]
+*G:
+{8d
+=1
+8b
+8b
+8a
+8g
+8g
+16e
+16d
+=2
+4d
+8B
+4d}
+{8d
+=3
+8e
+8e
+8e
+4f#
+8f#
+=4
+4.g
+4r}
+{8d
+=5
+4cc
+8cc
+4cc
+8d
+=6
+4.b
+4dd}
+{8d
+=7
+4cc
+8cc
+4cc
+8d
+=8
+4.b
+4dd}
+{16cc
+16a
+=9
+4a
+8cc
+4cc
+8f#
+=10
+4.g
+4r}
+==
+!!!AGN: Ballade, Verfuehrung, Verlassen des Elternhauses
+!! Verzierung (Vorschlag) .
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Schwester Giftmischerin W sjrem poli na Podolj,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Maehren
+!!!ARD1: Europa%Osteuropa%Deutschland@Maehren:?
+!!!ARL1: 50.53/7.91:?
+!!!ARD2: Europa%Osteuropa%Tschechoslowakei@
+!!!ARL2: 49.75/15@
+!!!YOR: 4, S. 188
+!!    1825 gedruckt
+!!!SCT: Q2078A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  2/4; 3/4
+*M2/4
+*k[f#]
+*G:
+{4g
+4cc
+=1
+4dd
+4cc
+=2
+4dd
+4b
+=3
+2cc
+=4
+*M3/4
+4g
+2r}
+=5
+{4cc
+2b
+=6
+2.f#
+=7
+2.g}
+==
+!!!AGN: Ballade, Bruder - Mord, Betrug
+!! Maehrische Fassung der Ballade. Verzierungen (Vorschlaege) in der
+!!    letzten Zeile.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]
+!!!OTL: Die Schlangenkoechin Ach, cerenko moja,
+!!!ARE: Europa, Osteuropa, Tschechoslowakei, Slowakei
+!!!ARD: Europa%Osteuropa%Tschechoslowakei@Slowakei#
+!!!ARL: ? / ?
+!!!YOR: 4, S. 206
+!!    1914 in Praha
+!!!SCT: Q2079H
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*d:
+=1
+{8a
+8a
+8a
+8a
+=2
+4a
+4fn}
+=3
+{8ccn
+8ccn
+8b-
+8g
+=4
+4a
+4r}
+=5
+{8fn
+8e
+4d
+=6
+8g
+4g
+8a
+=7
+8b-
+8a
+4g
+=8
+8fn
+4a
+8a}
+=9
+{8d
+8e
+8fn
+8e
+=10
+4d
+4r}
+=11
+{8fn
+8e
+4d
+=12
+8g
+4g
+8a
+=13
+8b-
+8a
+4g
+=14
+8fn
+4a
+8a}
+=15
+{8d
+8e
+8fn
+8e
+=16
+4d
+4r}
+==
+!!!AGN: Ballade, Mord; Reigen - Tanz, antiphonal
+!! Slowakische Fassung der Ballade. Verzierung (Nachschlag) in der
+!!    zweiten Zeile. Zweite, vierte und sechste Zeile = Refrain.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!title: @{OTL} [@{SCT}]

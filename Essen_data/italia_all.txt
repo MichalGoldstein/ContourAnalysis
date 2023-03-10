@@ -1,0 +1,586 @@
+!!!OTL: Der heimkehrende Soldat ohne Text
+!!!ARE: Suedeuropa, Italia
+!!!YOR: 5, S. 160
+!!    1774 gedruckt in Rom
+!!!SCT: Q3103E
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{8d
+=1
+8.g
+16g
+8.g
+16b
+=2
+8.b
+16a
+8.a
+16dd
+=3
+4b
+8r}
+{8d
+=4
+8.g
+16g
+8.g
+16b
+=5
+8.b
+16a
+8.a
+16dd
+=6
+4b
+8r}
+{8b
+=7
+8.b
+16dd
+8.dd
+16dd
+=8
+8.dd
+16cc
+4cc}
+=9
+{8.b
+16b
+8.b
+32cc
+32dd
+=10
+8.a
+16a
+8.a}
+{16dd
+=11
+8.b
+16b
+8.a
+32g
+32a
+=12
+4g
+8r}
+==
+!!!AGN: Tanz, Tedesca
+!! Melodievergleich zu Q0103A, anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ES GIENG EIN KNAB SPAZIEREN
+!!!ARE: Europa, Mitteleuropa, Italia, Tirol, Meran
+!!!SCT: E0197B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{16f
+16a
+=1
+8cc
+8cc
+8cc
+16a
+16f
+=2
+8dd
+8cc
+8r}
+{16a
+16cc
+=3
+8b-
+8b-
+8a
+16cc
+16a
+=4
+4g
+8r}
+{16g
+16a
+=5
+8b-
+8b-
+8b-
+16a
+16g
+=6
+16a
+16b-
+8cc
+8r}
+{16b-
+16dd
+=7
+8cc
+16cc
+16b-
+8a
+8g
+=8
+4f
+8r}
+==
+!!!AGN: erzaehlendes Volks - Lied, Tod, Toten - Sage, Grabesstimme
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die Schlangenkoechin Dove foste j'er sera
+!!!ARE: Suedeuropa, Italia
+!!!YOR: 4, S. 212
+!!    1894 gedruckt in Forli
+!!!SCT: Q2079U
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#]
+*G:
+{8d
+=1
+4g
+8b
+4a
+8dd
+=2
+8cc
+8b}
+{8a
+8g
+8a
+8b
+=3
+4a
+8g
+8b
+8a
+8g
+=4
+[4.a
+4a]}
+{8b
+=5
+4cc
+8ee
+4dd
+8cc
+=6
+4.b
+4g}
+{8b
+=7
+8a
+8a
+8b
+4cc
+8f#
+=8
+[4.g
+4g]
+8r}
+==
+!!!AGN: Ballade, Mord; Reigen - Tanz, antiphonal
+!! Italienische Fassung der Ballade.
+!!    Zweite Zeile = Refrain.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: LUSTIG IST DAS ZIGEUNERLEBEN
+!!!ARE: Europa, Mitteleuropa, Italia, Tirol, Meran
+!!!SCT: E1585
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-]
+*F:
+=1
+{4cc
+8cc
+8cc
+8dd
+8ee
+=2
+4ff
+8cc
+4a
+8f}
+=3
+{4cc
+8cc
+8cc
+8dd
+8ee
+=4
+4ff
+8cc
+4a
+8f}
+=5
+{4dd
+8dd
+8ff
+8ee
+8dd
+=6
+8.dd
+16cc
+8cc
+4.cc}
+=7
+{8.b-
+16b-
+8b-
+8dd
+8cc
+8b-
+=8
+8b-
+8a
+8a
+4.a}
+=9
+{8.b-
+16a
+8g
+8.f
+16a
+8a
+=10
+4.cc
+8.cc
+16dd
+8ee
+=11
+4.ff}
+{4.dd
+=12
+8.cc
+16a
+8a
+8.cc
+16b-
+8g
+=13
+4.f
+4.r}
+==
+!!!AGN: Staende - Lied, Zigeuner
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Tod der Geschwister ohne Text
+!!!ARE: Suedeuropa, Italia, Sizilien
+!!!YOR: 5, S. 207
+!!    1957 gedruckt in Palermo
+!!!SCT: Q3107C
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[f#]
+*G:
+{8g
+8b
+8cc
+4.dd
+8dd
+12ee-
+12ffn
+12ee-
+4.dd
+8cc
+2b
+4b}
+=1
+{8ee-
+4ee-
+4dd
+4b
+4g
+12cc
+12dd
+12cc
+8.b-
+16a-
+4g
+2g}
+==
+!!!AGN: ???
+!! Melodievergleich zu Q0107B, anderes Lied. Verzierung (Vorschlag) .
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ES WAR EINMAL EIN JUNGER KNAB
+!!!ARE: Europa, Mitteleuropa, Italia, Tirol, Meran
+!!!SCT: E0093B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*F:
+{8f
+8f
+8a
+=1
+4.cc
+8dd
+8b-
+8cc
+=2
+4a
+8r}
+{8f
+8f
+8a
+=3
+4.cc
+8dd
+8b-
+8cc
+=4
+4a
+8r}
+{8f
+8f
+8f
+=5
+4dd
+8b-
+8b-
+8ff
+8dd
+=6
+4.cc}
+{8a
+8a
+8a
+=7
+4g
+8cc
+8cc
+8b-
+16cc
+16b-
+=8
+4a
+8r}
+==
+!!!AGN: erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod, Ballade ?
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ES GIENG EIN MAEDCHEN GRAS SCHNEIDEN
+!!!ARE: Europa, Mitteleuropa, Italia, Tirol, Meran,
+!!!SCT: E0071E
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#]
+*G:
+{8d
+=1
+4g
+8g
+8b
+8b
+8dd
+=2
+4g
+8b
+4b}
+{8dd
+=3
+4dd
+8dd
+4cc
+8cc
+=4
+4.b
+4a}
+{8dd
+=5
+4cc
+8cc
+8ee
+8dd
+8cc
+=6
+4b
+8b
+8dd
+8cc}
+{8b
+=7
+4a
+8a
+8cc
+8b
+8a
+=8
+4.g
+4b}
+{8dd
+=9
+4cc
+8cc
+8ee
+8dd
+8cc
+=10
+4b
+8b
+8dd
+8cc}
+{8b
+=11
+4a
+8a
+8cc
+8b
+8a
+=12
+4.g
+4r}
+==
+!!!AGN: erzaehlendes Volks - Lied, Sage, Liebe, Ballade ?
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die Schlangenkoechin Dove si sta jersira,
+!!!ARE: Suedeuropa, Italia, Lombardei
+!!!YOR: 4, S. 212
+!!    1867 gedruckt
+!!!SCT: Q2079T
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-e-]
+*g:
+{8d
+=1
+4g
+8g
+4g
+8a
+=2
+8b-
+8a}
+{8g
+4g
+8a
+=3
+8b-
+8a
+8g
+8b-
+8a
+8g
+=4
+4a
+4.r}
+{8cc#
+=5
+4dd
+8a
+4a
+8b-
+=6
+[2.b-
+=7
+4b-]
+8a
+4r}
+{8d
+=8
+4g
+8g
+4g
+8a
+=9
+8b-
+8a}
+{8g
+4g
+8a
+=10
+8b-
+8a
+8g
+8b-
+8a
+8g
+=11
+4.a
+4r}
+{8dd
+=12
+4ee-
+8a
+8a
+8b-
+8cc
+=13
+4.cc
+4b-}
+{8a
+=14
+4g
+8g
+4b-
+8a
+=15
+4g
+4.r}
+==
+!!!AGN: Ballade, Mord; Reigen - Tanz, antiphonal
+!! Italienische Fassung der Ballade.
+!!    Zweite, vierte und letzte Zeile = Refrain.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-

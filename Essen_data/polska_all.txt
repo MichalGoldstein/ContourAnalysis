@@ -1,0 +1,1718 @@
+!!!OTL: Graserin und Reiter Es wollt' ein Maedchen Gras schneiden,
+!!!ARE: Europa, Osteuropa, Polen, Kr. Leipe, Liciszewy
+!!!YOR: 7, S. 150
+!!    ????
+!!!SCT: Q0149L
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4g
+4g
+8a
+8a
+4a
+=2
+2dd
+4a}
+{4g
+=3
+4dd
+4dd
+8dd
+8cc
+4b-
+=4
+2a
+4r}
+{8a
+8b-
+=5
+4cc
+4a
+8dd
+8cc
+4b-
+=6
+4.a
+8g
+4f#}
+{4d
+=7
+4g
+4f#
+4g
+4a
+=8
+2cc}
+{2a
+=9
+4b-
+4g
+8a
+8g
+4f#
+=10
+2g
+4r}
+==
+!!!AGN: Ballade, Verfuehrung, Verlassen des Elternhauses
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Graserin und Reiter Podrcecer Maedelche,
+!!!ARE: Europa, Osteuropa, Polen, Ost - Galizien, Sprachinselgruppe Neu - Sandetz
+!!!YOR: 7, S. 153
+!!    1933 gedruckt
+!!!SCT: Q0149S
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[f#]
+*G:
+{8d
+=1
+4g
+8b
+=2
+8dd
+8ee
+8dd}
+=3
+{8b
+8g
+8dd
+=4
+4dd
+8dd
+=5
+4cc
+8dd
+=6
+4b}
+{8d
+=7
+4g
+8b
+=8
+8dd
+8ee
+8dd
+=9
+8b
+8g}
+{8dd
+=10
+4dd
+8dd
+=11
+4cc
+8dd
+=12
+4b}
+{8dd
+=13
+4b
+8g
+=14
+4a
+8dd
+=15
+8b
+8g}
+{8dd
+=16
+4b
+8b
+=17
+4a
+8a
+=18
+4g}
+{8dd
+=19
+4b
+8g
+=20
+8a
+8a
+8dd
+=21
+8b
+8g}
+{8dd
+=22
+4b
+8b
+=23
+4a
+8a
+=24
+4g}
+==
+!!!AGN: Ballade, Verfuehrung, Verlassen des Elternhauses
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die dienende Schwester Es wohnt ein Pfalzgraf wohl ueber'm Rhein,
+!!!ARE: Europa, Osteuropa, Polen, Galizien
+!!!YOR: 4, S. 120
+!!    1936 gedruckt in Plauen
+!!!SCT: Q00750
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*F:
+{8c
+8f
+8a
+=1
+4cc
+8cc
+8cc
+16dd
+16cc
+16b-
+16cc
+=2
+4.a}
+{8c
+8f
+8a
+=3
+8cc
+8b-
+8g
+8b-
+8a
+8g
+=4
+4f
+8r}
+{8c
+8f
+8a
+=5
+8cc
+8b-
+8g
+8b-
+8a
+8g
+=6
+4f
+8r}
+==
+!!!AGN: Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Graserin und Reiter Es ging ein Maegdlein grasen,
+!!!ARE: Europa, Osteuropa, Polen, Wolhynien, Gnidawa
+!!!YOR: 7, S. 150
+!!    1934 aufgezeichnet (1926-34)
+!!!SCT: Q0149K
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#c#]
+*D:
+{8d
+=1
+8g
+8g
+8a
+8a
+=2
+4dd
+8a}
+{8a
+=3
+8b
+8ee
+8cc#
+8b
+=4
+4a
+8r}
+{8a
+=5
+8b
+8dd
+8b
+8a
+=6
+4g
+8d}
+{8d
+=7
+8e
+8a
+8f#
+8e
+=8
+4d
+8r}
+==
+!!!AGN: Ballade, Verfuehrung, Verlassen des Elternhauses
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Graserin und Reiter Es ging ein Maedchen gras schneiden,
+!!!ARE: Europa, Osteuropa, Polen, Galizien, Mikulsdorf
+!!!YOR: 7, S. 148
+!!    1940 aufgezeichnet
+!!!SCT: Q0149E
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-e-]
+*g:
+{8d
+=1
+4g
+8g
+8g
+8a
+8b-
+=2
+4.a
+4d}
+{8d
+=3
+4g
+8g
+4a
+8b-
+=4
+4.dd
+4r}
+{8d
+=5
+4g
+8g
+8g
+8a
+8b-
+=6
+4.a
+4d}
+{8d
+=7
+4g
+8g
+4a
+8b-
+=8
+4.dd
+4r}
+{8d
+=9
+4dd
+8ee-
+4dd
+8cc
+=10
+4.b-
+4dd}
+{8b-
+=11
+4a
+8cc
+4b-
+8a
+=12
+4.g
+4r}
+{8d
+=13
+4dd
+8ee-
+4dd
+8cc
+=14
+4.b-
+4dd}
+{8b-
+=15
+4a
+8cc
+4b-
+8a
+=16
+4.g
+4r}
+==
+!!!AGN: Ballade, Verfuehrung, Verlassen des Elternhauses
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die dienende Schwester Es wohnt' ein Markgraf noch am Rhein,
+!!!ARE: Europa, Osteuropa, Polen, Galizien
+!!!YOR: 4, S. 108
+!!    ????
+!!!SCT: Q0075S
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  3/4; 2/4
+*M2/4
+*k[b-]
+*F:
+{8c
+8c
+8e
+=1
+4f
+4c
+8d
+8e
+=2
+4.f}
+{8f
+8f
+8a
+=3
+4a
+4a
+8g
+8f
+=4
+8e}
+{8d
+8c
+8e
+=5
+*M3/4
+4g
+4g
+8e
+8d
+=6
+*M2/4
+8c}
+{8B-
+8A
+8c
+=7
+*M3/4
+8f
+8a
+8cc
+8a
+8g
+8g
+=8
+4.f}
+==
+!!!AGN: Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Graf und Nonne (Die Nonne) Als ich auf hohen Berge stand
+!!!ARE: Europa, Osteuropa, Polen, Galizien, Konstantynowka
+!!!YOR: 8, S. 90
+!!    1940 aufgezeichnet in einem Rueckwandererlager.
+!!!SCT: Q0155f
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[]
+*C:
+{4c
+=1
+4g
+4a
+4g
+4f
+=2
+4.e
+8e
+4.d}
+{8d
+=3
+4e
+4e
+4f
+4a
+=4
+2g
+4r}
+{4g
+=5
+4cc
+4cc
+8cc
+8b
+4a
+=6
+4g
+4cc
+4g
+4r
+=7
+2f
+4e}
+{4cc
+=8
+4a
+4f
+8f
+8e
+4d
+=9
+4c
+2r}
+==
+!!!AGN: Ballade, Standesunterschied, Werbung, Liebe, Glueck
+!! Anhaengsel in der dritten Zeile.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Vater und Tochter Es wollt ein Maedchen frueh aufstehn,
+!!!ARE: Europa, Osteuropa, Polen, Galizien
+!!!YOR: 7, S. 20
+!!    1940 aufgezeichnet
+!!!SCT: Q0142C
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{8d
+=1
+8g
+8g
+8g
+8g
+=2
+8g
+8b
+4d}
+=3
+{4B
+4d
+=4
+4g
+8r}
+{8g
+=5
+8a
+8g
+8a
+8a
+=6
+8a
+8cc
+8b}
+{8g
+=7
+8a
+8g
+8f#
+8e
+=8
+8e
+8d
+8B}
+{8d
+=9
+8d
+8d
+8d
+8g
+=10
+4.b}
+{8g
+=11
+8a
+8a
+8d
+8f#
+=12
+4g
+8r}
+==
+!!!AGN: Ballade, Verfuehrung, Verwechslung
+!! Zweite Zeile refrainartig.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Verlorene Schlafdecke Ein Leineweber ging spazieren aus,
+!!!ARE: Europa, Osteuropa, Polen, Galizien, Engelsberg
+!!!YOR: 7, S. 222
+!!    1940 aufgezeichnet im Lager Trebendorf
+!!!SCT: Q0153
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4g
+8b
+8b
+4a
+4f#
+=2
+4g
+4e
+4d}
+{8d
+8d
+=3
+4e
+4e
+4f#
+4f#
+=4
+4g
+4g
+4r}
+{4d
+=5
+4d
+4a
+4b
+4b
+=6
+8cc
+8a
+4a
+4r}
+{4dd
+=7
+4b
+4g
+4g
+4b
+=8
+8a
+8d
+4d
+4r}
+{4d
+=9
+4e
+4e
+4f#
+4f#
+=10
+4g
+2r}
+==
+!!!AGN: Ballade, verbotene Liebe, Schwangerschaft, Ehe
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Graf und Nonne (Die Nonne) Ich stand auf hohem Berge
+!!!ARE: Europa, Osteuropa, Polen
+!!!YOR: 8, S. 287
+!!    ???? aufgezeichnet
+!!!SCT: Q01554
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-e-]
+*g:
+{8d
+=1
+4g
+8g
+8a
+8g
+8a
+=2
+4.b-
+4g}
+{8g
+=3
+4b-
+8b-
+8cc
+8b-
+8cc
+=4
+2dd
+8r}
+{8dd
+=5
+4gg
+8dd
+8b-
+8a
+8g
+=6
+4.dd
+4a}
+{8a
+=7
+4g
+8b-
+4a
+8d
+=8
+2g
+8r}
+==
+!!!AGN: Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Nachtigall als Warnerin Es sass ein klein wild Voegelein
+!!!ARE: Europa, Osteuropa, Polen, Wolhynien, Kr. Kutno, Gem. Dobrzelin, Chocholow
+!!!YOR: 6, S. 222
+!!    1941 aufgezeichnet
+!!!SCT: Q0137B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*g:
+{8d
+=1
+4.g
+8g
+8g
+8a
+=2
+8.b-
+16a
+4.g}
+{8g
+=3
+8.dd
+16dd
+4d
+4d
+=4
+4g
+4g
+8r}
+{8dd
+=5
+8.dd
+16cc
+4.b-
+8dd
+=6
+8.cc
+16b-
+4.a}
+{8a
+=7
+8g
+8a
+4b-
+4f#
+=8
+4g
+4g
+8r}
+{8dd
+=9
+8.dd
+16cc
+4.b-
+8dd
+=10
+8.cc
+16b-
+4.a}
+{8a
+=11
+8g
+8a
+4b-
+4f#
+=12
+4g
+4g
+8r}
+==
+!!!AGN: Ballade, Allegorie; lyrisch (?)
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Das Bauerntoechterlein Es hat ein Bauer ein Toechterlein,
+!!!ARE: Europa, Osteuropa, Polen, Warschau, Augustowka
+!!!YOR: 2, S. 256
+!!    ????
+!!!SCT: Q0051A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-e-]
+*g:
+{8d
+4g
+8a
+=1
+8b-
+8a
+8g
+4a
+16fn
+16e
+=2
+4d}
+{8d
+8fn
+8fn
+8a
+=3
+4g
+8d
+8fn
+8e
+8fn
+=4
+4d}
+{8d
+8g
+8g
+8a
+=5
+8b-
+8a
+8cc
+8a
+8g
+8f#
+=6
+4g}
+==
+!!!AGN: Ballade, Hochzeit, Tod
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die wiedergefundene Schwester (Suedeli - Ballade) U szenkarza na dole,
+!!!ARE: Europa, Osteuropa, Polen
+!!!YOR: 4, S. 38
+!!    1887 gedruckt
+!!!SCT: Q2072T
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  4/4; 2/4
+*M4/4
+*k[f#]
+*G:
+=1
+{4g
+4b
+4a
+8cc
+8b
+=2
+8a
+8f#
+2.g}
+=3
+{4dd
+4gg
+4ee
+8gg
+8ff#
+=4
+8ee
+8ee
+2.dd}
+=5
+{4dd
+4gg
+4ee
+8cc
+8b
+=6
+8cc
+8a
+2.g}
+=7
+*M2/4
+{8b
+8dd
+8dd
+8dd
+=8
+8a
+8f#
+4g}
+==
+!!!AGN: Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr
+!! Polnische Fassung der Ballade. Letzte Zeile zweistimmig, obere
+!!    Stimme kodiert. Verzierung (Vorschlag) .
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Das Maedchen und der Faehnrich Es war einmal ein Fleischersmann
+!!!ARE: Europa, Osteuropa, Polen, Mittelpolen, Kr. Nessau, Gross Rudzk
+!!!YOR: 6, S. 108
+!!    1940 aufgezeichnet (vor)
+!!!SCT: Q0127I
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#]
+*G:
+{8b
+=1
+4dd
+8b
+4dd
+8dd
+=2
+4cc
+8cc
+4cc}
+{8cc
+=3
+4b
+8b
+8.dd
+16cc
+8b
+=4
+4.a
+4g}
+{8b
+=5
+4cc
+8b
+8a
+8a
+8g
+=6
+4cc
+8b
+4a}
+{8dd
+=7
+8.ee
+16dd
+8cc
+4b
+8b
+=8
+4.a
+4g}
+{8b
+=9
+4cc
+8b
+8a
+8a
+8g
+=10
+4cc
+8b
+4a}
+{8dd
+=11
+8.ee
+16dd
+8cc
+4b
+8b
+=12
+4.a
+4g}
+==
+!!!AGN: Ballade, verbotene Liebe, Flucht
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die Mordeltern Es waren mal zwei Bauernsoehn,
+!!!ARE: Europa, Osteuropa, Polen, Galizien
+!!!YOR: 4, S. 308
+!!    ????
+!!!SCT: Q0085K
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*g:
+{8d
+=1
+8g
+8g
+4g
+4a
+=2
+8b-
+8a
+4g
+8r}
+{8b-
+=3
+8a
+8d
+8d
+8e-
+8fn
+8g
+=4
+8fn
+8e-
+4d
+8r}
+{8d
+=5
+8g
+8g
+4a
+4b-
+=6
+4a
+4g
+8r}
+{8d
+=7
+8g
+8a
+4b-
+4a
+=8
+8d
+8f#
+4g
+8r}
+==
+!!!AGN: Ballade, Habgier, Mord, Reue, Selbstmord
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Das hungernde Kind 'Ach Vater, Brot will ich!
+!!!ARE: Europa, Osteuropa, Polen, Galizien, Bredtheim
+!!!YOR: 5, S. 274
+!!    1940 aufgezeichnet
+!!!SCT: Q0115A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[]
+*C:
+=1
+{2g
+4e
+4c
+=2
+4f
+4a
+2g}
+=3
+{2g
+4e
+4c
+=4
+4f
+4a
+2g}
+=5
+{4g
+4g
+4e
+4c
+=6
+4f
+4a
+2g}
+=7
+{4f
+4f
+4e
+4e
+=8
+4d
+4d
+2c}
+=9
+{4g
+4g
+4e
+4c
+=10
+4f
+4a
+2g}
+=11
+{4f
+4f
+4e
+4e
+=12
+4d
+4d
+2c}
+==
+!!!AGN: Ballade, Hunger, Tod
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die Rheinbraut Herminchen ging in' Garten,
+!!!ARE: Europa, Osteuropa, Polen
+!!!YOR: 2, S. 175
+!!    1924 gedruckt in Biala bei Bielitz
+!!!SCT: Q0047D
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[]
+*C:
+{8g
+=1
+4g
+8a
+4f
+8g
+=2
+8e
+8e
+4.r}
+{8g
+=3
+4g
+8a
+4f
+8g
+=4
+8e
+8e
+4.r}
+{8g
+=5
+8g
+8g
+8cc
+4ee
+8dd
+=6
+8cc
+8cc
+8e
+4g}
+{8cc
+=7
+4b
+8d
+4f
+8a
+=8
+4g
+8c
+4e}
+{8g
+=9
+8g
+8g
+8cc
+4ee
+8dd
+=10
+8cc
+8cc
+8e
+4g}
+{8cc
+=11
+4b
+8d
+4f
+8a
+=12
+4g
+8f
+4e}
+==
+!!!AGN: Ballade, Braut - Werbung, Todesahnung, Tod
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die dienende Schwester Es wohnt ein Pfalzgraf an dem Rhein,
+!!!ARE: Europa, Osteuropa, Polen, Galizien
+!!!YOR: 4, S. 108
+!!    ????
+!!!SCT: Q0075P
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*d:
+{8d
+=1
+8fn
+8e
+8fn
+8e
+8fn
+8g
+=2
+4.a}
+{8a
+8a
+8a
+=3
+4g
+4a
+8fn
+8e
+=4
+4d
+4r}
+{4fn
+=5
+8fn
+8e
+8fn
+8e
+8fn
+8g
+=6
+4.a}
+{8a
+8a
+8a
+=7
+4g
+4a
+8fn
+8e
+=8
+4d
+4.r}
+==
+!!!AGN: Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die verkaufte Muellerin Es wollt ein Mueller frueh aufstehn,
+!!!ARE: Europa, Osteuropa, Polen, Galizien
+!!!YOR: 4, S. 345
+!!    ????
+!!!SCT: Q0086V
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-e-]
+*g:
+{8fn
+=1
+8b-
+8a
+8b-
+8fn
+8g
+8a
+=2
+8b-
+8a
+8b-
+4fn}
+{8cc
+=3
+8dd
+8cc
+8b-
+4a
+8d
+=4
+4b-
+8a
+4g}
+{8g
+=5
+8fn
+8g
+8a
+4g
+8d
+=6
+4b-
+8a
+4g}
+{8g
+=7
+8fn
+8g
+8a
+4g
+8d
+=8
+4b-
+8a
+4g}
+==
+!!!AGN: Ballade, Menschenhandel, Rettung, Hinrichtung
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die verkaufte Muellerin Es ging ein Mueller ins Wald spazieren,
+!!!ARE: Europa, Osteuropa, Polen, Galizien
+!!!YOR: 4, S. 344
+!!    1940 gedruckt
+!!!SCT: Q0086T
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4g
+=1
+4dd
+4dd
+8b
+8g
+4gg
+=2
+4dd
+4dd
+8b
+8g}
+{8g
+8b
+=3
+8dd
+8dd
+4dd
+4ee
+4gg
+=4
+4ee
+4dd}
+{4.dd
+8ff#
+=5
+8gg
+8gg
+4b
+4cc
+4a
+=6
+2b
+4gg}
+==
+!!!AGN: Ballade, Menschenhandel, Rettung, Hinrichtung
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Das Bauerntoechterlein Es hat ein Bauer ein Toechterlein,
+!!!ARE: Europa, Osteuropa, Polen, Kr. Kolo, Szarlatowo
+!!!YOR: 2, S. 256
+!!    1935 aufgezeichnet
+!!!SCT: Q0051B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/4
+*k[b-e-]
+*g:
+{4d
+2g
+4a
+=1
+4b-
+4b-
+4b-
+2a
+4d
+=2
+2d}
+{4e
+4fn
+4fn
+4a
+=3
+2g
+4e
+4fn
+4e
+4fn
+=4
+2d}
+{4d
+4g
+4g
+4a
+=5
+2b-
+4b-
+2a
+4a
+=6
+2g}
+==
+!!!AGN: Ballade, Hochzeit, Tod
+!! Rhythmische Variante aus der Quelle abgedruckt.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die Mordeltern Es hatt' ein Gastwirt einen Sohn,
+!!!ARE: Europa, Osteuropa, Polen
+!!!YOR: 4, S. 263
+!!    1936 gedruckt
+!!!SCT: Q0085B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[f#]
+*e:
+{4e
+4e
+4e
+=1
+2b
+4a
+4b
+4gn
+=2
+2f#}
+{4e
+4gn
+4f#
+=3
+4gn
+4b
+4a
+4gn
+=4
+2f#
+4r}
+=5
+{4gn
+=6
+4e
+4e
+4a
+4f#
+=7
+2f#
+4e}
+=8
+{4e
+4gn
+4f#
+=9
+2gn
+4b
+4a
+4gn
+=10
+2f#}
+{4e
+4gn
+4f#
+=11
+2gn
+4b
+4a
+4gn
+=12
+2f#
+4r}
+=13
+{4b
+=14
+4b
+4gn
+4a
+4gn
+=15
+2f#
+4e}
+==
+!!!AGN: Ballade, Habgier, Mord, Reue, Selbstmord
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die dienende Schwester Es wohnt ein Pfalzgraf wohl an dem Rhein,
+!!!ARE: Europa, Osteuropa, Polen, Galizien, Engelsberg
+!!!YOR: 4, S. 68
+!!    1940 aufgezeichnet
+!!!SCT: Q0075
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  2/4; 1/4
+*M2/4
+*k[f#c#g#]
+*A:
+{8e
+=1
+8a
+8a
+8cc#
+16a
+16a
+=2
+8a
+8g#
+8g#}
+{8g#
+=3
+8b
+8b
+8b
+8f#
+=4
+8f#
+8e
+8e}
+{8e
+=5
+8f#
+8e
+8c#
+8e}
+=6
+*M1/4
+{4a
+=7
+*M2/4
+4b
+8cc#
+8b
+=8
+4a
+8r}
+==
+!!!AGN: Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz
+!! Informanten: Rueckwanderer.
+!!    Dritte und vierte Zeile = Refrain auf sinnfreie Silben.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die dienende Schwester Es war ein Markgraf an dem Rhein,
+!!!ARE: Europa, Osteuropa, Polen, Galizien
+!!!YOR: 4, S. 108
+!!    1924 gedruckt in Biala bei Bielitz
+!!!SCT: Q0075R
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[b-]
+*F:
+{4c
+=1
+4c
+4e
+4f
+4c
+=2
+4d
+4e
+4f}
+{4f
+=3
+4f
+4a
+4a
+4a
+=4
+4g
+4f
+4e}
+{4d
+=5
+4c
+4e
+4g
+4g
+=6
+4f
+4d
+4c}
+{4B-
+=7
+4A
+4c
+8f
+8a
+4cc
+=8
+4g
+4g
+4f}
+==
+!!!AGN: Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der grausame Bruder Es kam herein ohn allen spot, ohn allen spot,
+!!!ARE: Europa, Osteuropa, Polen, Bielitz
+!!!YOR: 3, S. 258
+!!    ????
+!!!SCT: Q1068D
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-e-]
+*g:
+{8d
+=1
+4g
+8a
+4b-
+8dd
+=2
+4cc
+8b-
+4a
+8dd
+=3
+4cc
+8b-
+4a}
+{8a
+=4
+4b-
+8cc
+4dd
+8cc
+=5
+4b-
+8a
+4g}
+{8a
+=6
+4b-
+8cc
+4dd
+8cc
+=7
+4b-
+8a
+4g}
+==
+!!!AGN: Dreikoenigs - Lied, Brauchtum
+!! Melodievergleich zu Q0068A, anderes Lied. Anhaengsel in der ersten
+!!    Zeile.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-

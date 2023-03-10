@@ -1,0 +1,660 @@
+!!!OTL: Reiter und Hirtenmaedchen Es wollt' sich ein Maedchen die Laemmelein hueten im Walde,
+!!!ARE: Europa, Mitteleuropa, Luxemburg, Heffingen
+!!!YOR: 7, S. 113
+!!    1933 aufgezeichnet (?)
+!!!SCT: Q0148B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-]
+*F:
+{8c
+=1
+8f
+8f
+8f
+8f
+8a
+8a
+=2
+8cc
+8cc
+8cc
+8a
+8g
+8f
+=3
+4.g
+4cc
+8b-
+=4
+4a
+4.r}
+{8c
+=5
+8f
+8f
+8f
+8f
+8a
+8a
+=6
+8cc
+8cc
+8cc
+8a
+8g
+8f
+=7
+4.g
+4cc
+8b-
+=8
+4a
+4.r}
+{16c
+16c
+=9
+8b-
+8a
+8g
+8g
+8a
+8b-
+=10
+8dd
+8cc
+8cc
+8a
+8a}
+{8cc
+=11
+4cc
+8a
+8a
+8g
+8a
+=12
+8dd
+8cc
+8b-
+4a}
+{8cc
+=13
+8a
+8cc
+8cc
+8cc
+8cc
+8cc
+=14
+4cc
+8ff
+4dd}
+{8dd
+=15
+8cc
+8dd
+8cc
+8cc
+8b-
+8g
+=16
+[4.a
+8a]
+8r}
+{8cc
+=17
+8a
+8cc
+8cc
+8cc
+8cc
+8cc
+=18
+4cc
+8ff
+4dd}
+{8dd
+=19
+8cc
+8dd
+8cc
+8cc
+8b-
+8g
+=20
+[4.f
+8f]
+8r}
+==
+!!!AGN: Ballade, Verfuehrung, Schwangerschaft
+!! Fuenfte bis letzte Zeile = Refrain.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Das mannstolle Maedchen Brau's Medchen auf dere Laden sas,
+!!!ARE: Europa, Mitteleuropa, Luxemburg
+!!!YOR: 6, S. 83
+!!    1894 gedruckt in Leipzig
+!!!SCT: Q0126A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{4d
+=1
+4.g
+8f#
+=2
+4g
+8a
+8b
+=3
+4g
+8g
+8f#
+=4
+4g}
+{4cc
+=5
+4b
+8a
+8b
+=6
+4g
+4b
+=7
+2a
+=8
+4r}
+{8a
+8b
+=9
+4.cc
+8b
+=10
+8a
+8b
+8cc
+8a
+=11
+4.b
+8g
+=12
+4a
+4r}
+=13
+{4b
+8a
+8g
+=14
+8f#
+8e
+8d
+8e
+=15
+4f#}
+{4g
+=16
+8f#
+8e
+8d
+8e
+=17
+4f#}
+==
+!!!AGN: Ballade, Werbung, Betrug
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der junge Held Gestern Abend beim hellen Lichtenschein,
+!!!ARE: Europa, Mitteleuropa, Luxemburg, Trotten
+!!!YOR: 3, S. 152
+!!    ????
+!!!SCT: Q0060I
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{16a
+16a
+=1
+16cc
+16cc
+8cc
+8g
+8b-
+=2
+8a
+8g
+8f}
+{16a
+16a
+=3
+8g
+16g
+16g
+8d
+8f
+=4
+8e
+8d
+8c
+16r}
+{16c
+=5
+16f
+16f
+8f
+8g
+8g
+=6
+4a}
+{4b-
+=7
+16cc
+16a
+8a
+16cc
+16b-
+8g
+=8
+4f
+8r}
+==
+!!!AGN: Ballade, Verfuehrung, Standesunterschied
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Das Schwabentoechterlein 'Ach Mutter, ich kann nicht laenger mehr warten,
+!!!ARE: Europa, Mitteleuropa, Luxemburg, Boxhorn
+!!!YOR: 4, S. 43
+!!    1900 aufgezeichnet (ca.)
+!!!SCT: Q0073C
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  3/8; 3/4; 2/4
+*M2/4
+*k[f#c#]
+*D:
+{16a
+=1
+8a
+16a
+16a
+16a
+16a
+=2
+8a
+16a
+16a
+16a
+16a}
+=3
+{4b
+8a
+=4
+8f#
+8e
+8f#
+=5
+4e
+4r}
+=6
+{8e
+8f#
+=7
+4g
+8b
+8b
+=8
+4b
+8a
+8g
+=9
+4f#
+8a
+8b
+=10
+8a
+8f#}
+{8f#
+8d
+=11
+4e
+8g
+8f#
+=12
+4e
+4d
+=13
+4g
+8b
+8ee
+=14
+4dd
+16r}
+==
+!!!AGN: Ballade, Weglaufen, Schwangerschaft, Rueckkehr
+!! Schlusspause korrigiert.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: BRAUNS MAEDCHEN AN DEM LADEN LAG
+!!!ARE: Europa, Mitteleuropa, Luxemburg
+!!!SCT: E0116A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4.g
+8f#
+4g
+8a
+8b
+=2
+4.g
+8f#
+4g}
+{4cc
+=3
+4b
+8a
+8b
+4g
+4b
+=4
+2a
+4r}
+{8a
+8b
+=5
+4.cc
+8b
+8a
+8b
+8cc
+8a
+=6
+4.b
+8g
+4a
+4r}
+=7
+{4b
+8a
+8g
+8f#
+8e
+8d
+8e
+=8
+4f#
+4cc
+8b
+8a
+8g
+8a
+=9
+2.b}
+==
+!!!AGN: erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Liebe     Ballade ?
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die dienende Schwester Es wohnt ein Pfalzgraf ueberm Rhein,
+!!!ARE: Europa, Mitteleuropa, Luxemburg
+!!!YOR: 4, S. 112
+!!    1929 gedruckt
+!!!SCT: Q0075c
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{16cc
+8.cc
+16cc
+=1
+8.cc
+16cc
+8.dd
+16dd
+=2
+8.g}
+{16a
+8.b-
+16dd
+=3
+8.dd
+16dd
+8.cc
+16cc
+=4
+8.a}
+{16cc
+8.cc
+16ff
+=5
+4ff
+8.ee
+16dd
+=6
+4ee
+4dd
+=7
+4cc
+4r}
+==
+!!!AGN: Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz
+!! Zweistimmig notiert, Oberstimme kodiert.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: BRAUNS MAEDCHEN AN DEM LADEN LAG
+!!!ARE: Europa, Mitteleuropa, Luxemburg
+!!!SCT: E0116A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4.g
+8f#
+4g
+8a
+8b
+=2
+4.g
+8f#
+4g}
+{4cc
+=3
+4b
+8a
+8b
+4g
+4b
+=4
+2a
+4r}
+{8a
+8b
+=5
+4.cc
+8b
+8a
+8b
+8cc
+8a
+=6
+4.b
+8g
+4a
+4r}
+=7
+{4b
+8a
+8g
+8f#
+8e
+8d
+8e
+=8
+4f#
+4cc
+8b
+8a
+8g
+8a
+=9
+2.b}
+==
+!!!AGN: erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Liebe, Ballade ?
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Graserin und Reiter De' Ko'belenzer Medercher
+!!!ARE: Europa, Mitteleuropa, Luxemburg
+!!!YOR: 7, S. 150
+!!    ????
+!!!SCT: Q0149P
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{8d
+=1
+8g
+8a
+8b
+8cc
+=2
+8dd
+8dd
+8dd}
+{8dd
+=3
+8ee
+8ff#
+8gg
+8ee
+=4
+4dd
+8r}
+{8dd
+=5
+8gg
+8dd
+8ee
+8dd
+=6
+8b
+8g
+4g}
+=7
+{8a
+16a
+16b
+8cc
+16a
+16a
+=8
+8b
+8cc
+8dd}
+{8gg
+=9
+8ff#
+8ee
+8dd
+8cc#
+=10
+4dd
+8r}
+{8dd
+=11
+8gg
+8dd
+8ee
+8dd
+=12
+8b
+8g
+4g}
+=13
+{8a
+16a
+16b
+8cc
+16a
+16a
+=14
+8b
+8cc
+8dd}
+{8gg
+=15
+8ff#
+8ee
+8dd
+8cc#
+=16
+4dd
+8r}
+==
+!!!AGN: Ballade, Verfuehrung, Verlassen des Elternhauses
+!! Modulation in die Dominanttonart.
+!!    Vorletzte Zeile = Refrain auf sinnfreie Silben.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-

@@ -1,0 +1,7690 @@
+!!!OTL: TANZ LIEBCHEN TANZ
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass, Schweighausen
+!!!SCT: E0838A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#c#]
+*D:
+=1
+{4A
+8.d
+16B
+=2
+4A
+8r}
+{8A
+=3
+8.B
+16A
+8G
+8F#
+=4
+4E
+8r}
+{8E
+=5
+8.E
+16F#
+8.G
+16A
+=6
+4B
+8B
+16r}
+{16d
+=7
+8.c#
+16c#
+8B
+8c#
+=8
+4d
+8r}
+{8A
+=9
+8.F#
+16A
+8A
+8A
+=10
+8F#
+8A
+8A}
+{8A
+=11
+8.F#
+16A
+8A
+8A
+=12
+8F#
+8A
+8A}
+{8A
+=13
+4B
+4c#
+=14
+4d
+8r}
+{8A
+=15
+8.F#
+16A
+8A
+8A
+=16
+8F#
+8A
+8A}
+{8A
+=17
+8.F#
+16A
+8A
+8A
+=18
+8F#
+8A
+8A}
+{8A
+=19
+4B
+4c#
+=20
+4d
+4r}
+==
+!!!AGN: Hochzeits -, Ehestands - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: WO FEHLT ES DIR MEIN HERZ
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass, Willer
+!!!SCT: E0694
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4.g
+8a
+8b
+8a
+8g
+8f#
+=2
+2g
+4r}
+{4dd
+=3
+4.a
+8g
+8f#
+8e
+8d
+8c
+=4
+4c
+4B
+4r}
+{4d
+=5
+4.g
+8a
+8b
+8a
+8g
+8f#
+=6
+2g
+4r}
+{4dd
+=7
+4.a
+8g
+8f#
+8e
+8d
+8c
+=8
+4c
+4B
+4r}
+{4d
+=9
+4.g
+8d
+8g
+8b
+8a
+8g
+=10
+2f#
+4r}
+{4d
+=11
+4.g
+8d
+8g
+8b
+8a
+8g
+=12
+2f#
+4r}
+{4d
+=13
+4g
+4g
+4a
+4dd
+=14
+2.cc}
+{4ee
+=15
+8dd
+8cc
+8b
+8a
+4b
+4a
+=16
+2g
+4r}
+==
+!!!AGN: Liebes - Lied, Leid, Klage
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ES DUNKELT IN DEM WALDE
+!!!ARE: Europa, Mitteleuropa, Deutschland, Westfalen; France, Elsass
+!!!SCT: E0679E
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{8c
+=1
+8f
+8c
+8f
+8g
+=2
+4.a
+8b-
+=3
+8.cc
+16b-
+8a}
+{8cc
+=4
+8ff
+8cc
+8b-
+8a
+=5
+4g
+8r}
+{8cc
+=6
+8dd
+8cc
+8dd
+8ee
+=7
+8ff
+16ee
+16dd
+8cc}
+{8b-
+=8
+8a
+8a
+16cc
+16b-
+8g
+=9
+4f
+8r}
+==
+!!!AGN: Liebes - Lied, Leid, Klage
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: AUF DEM BERGE WACHSEN REBEN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass, Weissenburg
+!!!SCT: E0793
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-e-]
+*B-:
+{8B-
+8d
+=1
+8.f
+16f
+8f
+8f
+=2
+8.f
+16f}
+{8g
+8a
+=3
+8.cc
+16b-
+8b-
+8d
+=4
+8f
+8f}
+{8g
+8d
+=5
+8.f
+16e-
+8e-
+8e-
+=6
+8.e-
+16e-}
+{8f
+8f
+=7
+8.a
+16g
+8f
+8e-
+=8
+4d}
+{8.d
+16e-
+=9
+4f
+8.d
+16e-
+=10
+4f
+8f
+8f
+=11
+4.dd
+8cc
+=12
+4b-}
+{8b-
+8dd
+=13
+4cc
+8ee-
+8cc
+=14
+8a
+8a
+8g
+8a
+=15
+4b-}
+{8.d
+16e-
+=16
+4f
+8.d
+16e-
+=17
+4f
+8f
+8f
+=18
+4.dd
+8cc
+=19
+4b-}
+{8b-
+8dd
+=20
+4cc
+8ee-
+8cc
+=21
+8a
+8a
+8g
+8a
+=22
+4b-}
+==
+!!!AGN: Abschieds - Lied, Freundschaft
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: MAEDCHEN HAST DU LUST ZU TRUTZEN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0644A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  3/4; 4/4
+*M3/4
+*k[b-e-]
+*B-:
+{8.f
+16f
+=1
+4.b-
+8d
+8.g
+16f
+=2
+4f
+4e-
+4r
+=3
+8.a
+16cc
+4b-}
+{8.f
+16f
+=4
+4.b-
+8d
+8.g
+16f
+=5
+4f
+4e-
+4r
+=6
+8.a
+16cc
+4b-}
+{8f
+8f
+=7
+4a
+4a
+8g
+8f
+=8
+4b-
+4b-}
+{8b-
+8dd
+=9
+4cc
+4cc
+8cc
+8ee-
+=10
+4dd
+8dd}
+{8cc
+8b-
+8a
+=11
+4.g
+8a
+8.b-
+16g
+=12
+2f}
+{8b-
+8dd
+=13
+*M4/4
+2ff
+2ee-
+=14
+2dd
+4r}
+==
+!!!AGN: Liebes - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: SCHATZ MEIN SCHATZ REIS NICHT SO WEIT
+!!!ARE: Europa, Mitteleuropa, Deutschland, Baden; Elsass; Schleswig; Hessen
+!!!SCT: E0766D
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  4/4; 3/4
+*M3/4
+*k[b-e-a-]
+*E-:
+{8e-
+8e-
+8g
+=1
+4b-
+4b-
+8.cc
+16cc
+8b-
+8a-
+=2
+4g
+8r}
+{8e-
+8e-
+8e-
+=3
+8a-
+8cc
+8ee-
+8ee-
+8dd
+8cc
+=4
+8b-
+8ee-
+8g}
+{8b-
+8cc
+8b-
+=5
+4.dd
+8cc
+8b-
+8a-
+=6
+4g
+8r}
+{8e-
+8e-
+8e-
+=7
+8a-
+8cc
+8ee-
+8ee-
+8dd
+8cc
+=8
+8b-
+8ee-
+8g}
+{8b-
+8cc
+8b-
+=9
+4.dd
+8cc
+8b-
+8a-
+=10
+4g
+8r}
+==
+!!!AGN: Abschieds - Lied, Liebe
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ICH UND MEIN ALLERLIEBSTER HANS
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0609
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#c#g#]
+*A:
+{8e
+8f#
+8g#
+=1
+4a
+4a
+8ee
+8ee
+=2
+4cc#
+8r}
+{8a
+8g#
+8f#
+=3
+4e
+8g#
+8b
+8dd
+8g#
+=4
+4a
+8r}
+{8e
+8f#
+8g#
+=5
+4a
+4a
+8ee
+8ee
+=6
+4cc#
+8r}
+{8a
+8g#
+8f#
+=7
+4e
+8g#
+8b
+8dd
+8g#
+=8
+4a
+4r}
+{8.cc#
+16cc#
+=9
+4cc#
+8cc#
+8b
+8a
+8g#
+=10
+4f#
+8r}
+{8f#
+8g#
+8a
+=11
+8b
+8ee
+8b
+8a
+8g#
+8f#
+=12
+4e
+8r}
+{8e
+8f#
+8g#
+=13
+8a
+8cc#
+8cc#
+8b
+8a
+8g#
+=14
+4f#
+8r}
+{8a
+8g#
+8f#
+=15
+4e
+8g#
+8b
+8dd
+8g#
+=16
+4a
+8r}
+==
+!!!AGN: Liebes - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: WENN ICH NOCH LEDIG WAER
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0611
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*G:
+=1
+{4dd
+4dd
+4b
+=2
+4ee
+4ee
+4dd}
+=3
+{4cc
+4cc
+4a
+=4
+4dd
+4dd
+4b}
+=5
+{4dd
+4dd
+4b
+=6
+4ee
+4ee
+4dd}
+=7
+{4cc
+4a
+4dd
+=8
+2b
+4r}
+==
+!!!AGN: Liebes - Lied, Scherz - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: WIE DIE BLUEMLEIN DRAUSSEN ZITTERN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0779A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  3/4; 4/4
+*M3/4
+*k[]
+*C:
+{8.G
+16A
+=1
+4G
+4E
+8.c
+16d
+=2
+4c
+4B}
+{8G
+8G
+=3
+4.B
+8A
+8G
+8F
+=4
+2E}
+{8.G
+16A
+=5
+4G
+4E
+8.c
+16d
+=6
+4c
+4B}
+{8G
+8G
+=7
+4.B
+8A
+8G
+8F
+=8
+2E
+8r}
+{8G
+=9
+8G
+8e
+4.c
+8B
+=10
+8A
+8f
+4.d}
+{8c
+=11
+*M4/4
+8.B
+16A
+8G
+8G
+8G
+8G
+8A
+8B
+=12
+*M3/4
+4c
+4.r}
+{8G
+=13
+8G
+8e
+4.c
+8B
+=14
+8A
+8f
+4.d}
+{8c
+=15
+8.B
+16A
+8G
+8B
+8.e
+16d
+=16
+2c}
+==
+!!!AGN: Abschieds - Lied, Liebe
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: IST DENN LIEBEN EIN VERBRECHEN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0645
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  3/4; 4/4
+*M3/4
+*k[]
+*C:
+=1
+{4G
+4c
+4E
+=2
+2D
+4F
+=3
+4D
+4B
+4A
+=4
+4G
+4E
+4r}
+=5
+{4G
+4e
+4c
+=6
+4G
+4E
+4G
+=7
+4.B
+8A
+4G
+=8
+2E
+4r}
+=9
+{4G
+4c
+4E
+=10
+2D
+4F
+=11
+4D
+4B
+4A
+=12
+4G
+4E
+4r}
+=13
+{4G
+4e
+4c
+=14
+4G
+4E
+4G
+=15
+4.B
+8A
+4G
+=16
+2E
+4r}
+=17
+{8D
+8E
+=18
+*M4/4
+4F
+4G
+4.B
+8A
+=19
+*M3/4
+8G
+8c
+2e}
+=20
+{8d
+8c
+=21
+*M4/4
+4B
+4D
+4F
+8A
+8G
+=22
+*M3/4
+2E
+4r}
+=23
+{8G
+8G
+=24
+*M4/4
+4A
+4A
+8d
+8c
+8B
+8A
+=25
+*M3/4
+8E
+8A
+4G
+4r}
+=26
+{8G
+8G
+=27
+*M4/4
+4A
+4G
+4A
+4B
+=28
+2c
+4r}
+==
+!!!AGN: Liebes - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ES FUHR EIN FUHRKNECHT UEBERN RHEIN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0186
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-e-]
+*g:
+{8d
+=1
+4g
+4b-
+=2
+4a
+4dd
+=3
+8cc
+8b-
+8a}
+{8d
+=4
+4g
+4b-
+=5
+4a
+4dd
+=6
+8cc
+8b-
+8a}
+{8b-
+=7
+8cc
+8cc
+8cc
+8dd
+=8
+8b-
+8a
+8g}
+{8d
+=9
+4g
+4a
+=10
+8b-
+8cc
+4dd
+=11
+4b-
+8a
+8g
+=12
+4g
+8r}
+==
+!!!AGN: erzaehlendes Volks - Lied, Sage, Familien - Geschichte, Mord
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: WER LIEBEN WILL MUSS LEIDEN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0617B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#c#g#]
+*A:
+{4e
+=1
+2a
+4c#
+=2
+2f#
+4e
+=3
+4e
+4d
+4r
+=4
+2r}
+{4g#
+=5
+2b
+4e
+=6
+2f#
+4g#
+=7
+2a
+4r
+=8
+2r}
+{4e
+=9
+2cc#
+4b
+=10
+2a
+4g#
+=11
+4b
+4f#
+4r
+=12
+2r}
+{8a
+8f#
+=13
+4e
+4g#
+4b
+=14
+4dd
+4cc#
+4b
+=15
+2a
+4b
+=16
+2cc#}
+{4e
+=17
+2cc#
+4b
+=18
+2a
+4g#
+=19
+4b
+4f#
+4r
+=20
+2r}
+{8a
+8f#
+=21
+4e
+4g#
+4b
+=22
+4dd
+4cc#
+4b
+=23
+[2.a
+=24
+4a]
+4r}
+==
+!!!AGN: Liebes - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: DER SCHEFFER VON NUWEN STAT
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0933
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*F:
+{4f
+=1
+2f
+4f
+=2
+2cc
+4cc
+=3
+2dd
+4dd
+=4
+2cc}
+{4f
+=5
+2cc
+4ff
+=6
+4ee
+4ee
+4cc
+=7
+2.dd
+=8
+2cc}
+{4f
+=9
+2f
+4f
+=10
+2cc
+4cc
+=11
+2dd
+4dd
+=12
+2cc}
+{4f
+=13
+2cc
+4ff
+=14
+4ee
+4ee
+4cc
+=15
+2.dd
+=16
+2cc}
+{4a
+=17
+4.cc
+8b-
+8a
+8g
+=18
+4a
+4f}
+{4a
+=19
+4.cc
+8b-
+8a
+8g
+=20
+4a
+4f}
+{4g
+=21
+4a
+4a
+4dd
+=22
+2cc
+4a
+=23
+2.g
+=24
+2f}
+==
+!!!AGN: Tanz - Lied, Reigen
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Z NACHT WENN DER MOND SCHEINT
+!!!ARE: Europa, Mitteleuropa, Deutschland, France, Elsass
+!!!SCT: E0885
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+=1
+{4g
+8a
+8b
+=2
+4a
+4d}
+=3
+{8g
+8a
+8b
+8g
+=4
+4a
+4a}
+=5
+{8.cc
+16cc
+8cc
+8a
+=6
+8b
+8b
+4b}
+=7
+{8a
+8a
+8f#
+8f#
+=8
+4g
+4g}
+=9
+{8dd
+8b
+4b
+=10
+8cc
+8a
+4a}
+=11
+{8g
+8b
+8dd
+16dd
+16dd
+=12
+4b
+4b}
+=13
+{8dd
+8b
+8b
+8b
+=14
+8cc
+16a
+16a
+4a}
+=15
+{8g
+16b
+16b
+8dd
+8dd
+=16
+4g
+4g}
+==
+!!!AGN: Hochzeits -, Ehestands - Lied, Scherz - Lied, Bettelhochzeit
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: TRUTZ NIT SO
+!!!ARE: Europa, Mitteleuropa, Deutschland, France, Elsass
+!!!SCT: E0614
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+=1
+{8cc
+8cc
+8.cc
+16b-
+=2
+8a
+8a
+8.a
+16g}
+=3
+{8f
+8a
+8.dd
+16cc
+=4
+8cc
+8b-
+4b-}
+=5
+{8b-
+8b-
+8.b-
+16a
+=6
+8g
+8g
+8.g
+16f}
+=7
+{8e
+8g
+8.cc
+16b-
+=8
+8b-
+8a
+4a}
+==
+!!!AGN: Liebes - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ES WOHNT EIN PFALZGRAF AN DEM RHEIN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0182C
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4g
+4g
+4f#
+4a
+=2
+4g
+4e
+4d}
+{4d
+=3
+4e
+4e
+4e
+4g
+=4
+4d
+4d
+4B}
+{4d
+=5
+4g
+4b
+4a
+4a
+=6
+2dd
+2cc
+=7
+2b
+4r}
+==
+!!!AGN: erzaehlendes Volks - Lied, Sage, Familien - Geschichte
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: GANG MER NIT UEBER MIS MAETTELI
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass; Schweiz
+!!!SCT: E1005
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[f#]
+*G:
+=1
+{8.b
+16a
+8b
+=2
+8.cc
+16b
+8cc
+=3
+8.dd
+16ee
+8dd}
+=4
+{8.b
+16a
+8b
+=5
+8.cc
+16b
+8cc
+=6
+4dd
+8r}
+=7
+{8.b
+16cc
+8b
+=8
+8.a
+16b
+8a
+=9
+8g
+16g
+16b
+8d}
+=10
+{8.b
+16dd
+8b
+=11
+8.a
+16b
+8a
+=12
+4g
+8r}
+==
+!!!AGN: Tanz - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: HERZIGS MARIANDEL
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0621
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*G:
+=1
+{4g
+8g
+8a
+8b
+8cc
+=2
+4dd
+4b}
+{4b
+=3
+4cc
+4a
+4a
+=4
+2b
+4r}
+=5
+{4g
+8g
+8a
+8b
+8cc
+=6
+4dd
+4b}
+{4b
+=7
+4cc
+4a
+4a
+=8
+2b
+4r}
+=9
+{4b
+4b
+4b
+=10
+4a
+4a
+4a
+=11
+4g
+4g
+4g
+=12
+4d
+4d
+4d}
+=13
+{2g
+4a
+=14
+2b
+4r
+=15
+4.g
+8a
+8b
+8a
+=16
+2g
+4r}
+==
+!!!AGN: Liebes - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: VOGEL FIKS UND VOGEL FAKS
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0623
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*F:
+{8cc
+8cc
+=1
+4dd
+4cc
+8b-
+8b-
+=2
+4a
+4cc}
+{4a
+=3
+4g
+4b-
+4g
+=4
+4a
+4cc}
+{4a
+=5
+4dd
+4cc
+4b-
+=6
+4a
+4cc}
+{8a
+8a
+=7
+4g
+4b-
+4g
+=8
+4f
+4r}
+==
+!!!AGN: Liebes - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: IN LAUTERBACH HAB ICH MEIN STRUEMPFEL VERLOREN
+!!!ARE: Europa, Mitteleuropa, Deutschland, Oberrhein; France, Elsass
+!!!SCT: E1010
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[f#]
+*G:
+{8d
+=1
+8.dd
+16dd
+8dd
+=2
+8b
+8a
+8g
+=3
+4a
+8f#
+=4
+8d
+8d}
+{8d
+=5
+8.ee
+16ee
+8dd
+=6
+8cc
+8b
+8a
+=7
+[4.dd
+=8
+4dd]}
+{8d
+=9
+8.dd
+16dd
+8dd
+=10
+8b
+8a
+8g
+=11
+4a
+8f#
+=12
+8d
+8d}
+{8d
+=13
+8.ee
+16ee
+8dd
+=14
+8cc
+8b
+8a
+=15
+[4.g
+=16
+8g]
+8r}
+==
+!!!AGN: Tanz - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: REDLICH IST DAS DEUTSCHE LEBEN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1349A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[b-e-a-]
+*E-:
+{4e-
+4g
+=1
+4.f
+8a-
+4f
+4a-
+=2
+8a-
+8g
+4g
+4r}
+{4g
+=3
+4.f
+8e-
+8d
+8d
+8f
+8a-
+=4
+8cc
+8b-
+4b-
+4r}
+{8b-
+8b-
+=5
+4.ee-
+8dd
+4cc
+4b-
+=6
+2b-}
+{4g
+4e-
+=7
+4cc
+4b-
+4.a-
+8g
+=8
+2g}
+==
+!!!AGN: Staende -, Soldaten -, Kriegs - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: NUR LUSTIG IHR BRUEDER
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1167
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#]
+*G:
+{8d
+=1
+8d
+8g
+8g
+8g
+8g
+8f#
+=2
+8f#
+8e
+8e
+4e}
+{8e
+=3
+8g
+8f#
+8e
+8g
+8f#
+8e
+=4
+8.e
+16d
+8d
+8d
+8d}
+{8d
+=5
+8.d
+16cc
+8cc
+8cc
+8cc
+8dd
+=6
+8.dd
+16b
+8b
+4b}
+{8g
+=7
+8a
+8a
+8a
+8cc
+8b
+8a
+=8
+8a
+8g
+8g
+4g}
+{8d
+=9
+8.d
+16cc
+8cc
+8cc
+8cc
+8dd
+=10
+8.dd
+16b
+8b
+4b}
+{8g
+=11
+8a
+8a
+8a
+8cc
+8b
+8a
+=12
+8a
+8g
+8g
+4g}
+==
+!!!AGN: Trink -, Zech - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: WO EIN ALTAR STEHT DEN DER LENZ BEKRAENZT
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: B0027
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[b-e-a-]
+*E-:
+=1
+{4e-
+4g
+4f
+4a-
+=2
+4.g
+8a-
+2b-}
+=3
+{4.b-
+8cc
+4b-
+4g
+=4
+2.f
+4r}
+=5
+{4f
+4b-
+4an
+4cc
+=6
+2b-
+2ee-}
+=7
+{4.dd
+8b-
+4an
+8dd
+8cc
+=8
+2b-
+4r}
+{8b-
+8b-
+=9
+2b-
+4cc
+4dd
+=10
+2ee-
+4dd
+4cc}
+=11
+{4.b-
+8g
+4a-
+4cc
+=12
+2.f
+4r}
+=13
+{4.g
+8g
+4b-
+4b-
+=14
+4cc
+4ee-
+8dd
+8cc
+8b-
+8a-}
+=15
+{2g
+4b-
+4a-
+=16
+2g
+4r}
+{8b-
+8b-
+=17
+2b-
+4cc
+4dd
+=18
+2ee-
+4dd
+4cc}
+=19
+{4.b-
+8g
+4a-
+4cc
+=20
+2.f
+4r}
+=21
+{4.g
+8g
+4a-
+4b-
+=22
+4cc
+4ee-
+8dd
+8cc
+8b-
+8a-}
+=23
+{2g
+4b-
+4a-
+=24
+2g
+2r}
+==
+!!!AGN: politisch, national, Vaterlands - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: FERN IM SUED DAS SCHOENE SPANIEN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass, Bischweiler
+!!!SCT: B0537
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#c#]
+*D:
+{8f#
+8g
+=1
+4.f#
+8e
+8d
+8e
+=2
+4d
+4c#}
+{8b
+8b
+=3
+4.a
+8f#
+8d
+8e
+=4
+2f#}
+{8f#
+8g
+=5
+4.f#
+8e
+8d
+8e
+=6
+4d
+4c#}
+{8b
+8b
+=7
+4.a
+8f#
+8d
+8e
+=8
+2f#}
+{8g
+8f#
+=9
+4f#
+4e
+8f#
+8e
+=10
+4e
+4d}
+{8f#
+8a
+=11
+4.a
+8a
+16b
+16a
+16f#
+16d
+=12
+2e}
+{8f#
+8f#
+=13
+4.f#
+8e
+8d
+8e
+=14
+4d
+4c#}
+{8e
+8f#
+=15
+4.g
+8g
+8f#
+8e
+=16
+2a}
+{8a
+8a
+=17
+4.b
+8b
+8ccn
+8b
+=18
+4a
+4g}
+{8f#
+8e
+=19
+8d
+8A
+4.f#
+8e
+=20
+4d
+4r}
+==
+!!!AGN: Wander -, Heimat - Lied, Heimweh
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ZERDRUECK DIE THRAENE NICHT IN DEINEM AUGE
+!!!ARE: Europa, Mitteleuropa, Deutschland, Nassau, Rheinland; Elsass
+!!!SCT: B0471
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[b-]
+*F:
+{8c
+8f
+8g
+=1
+4.a
+8a
+8a
+8cc
+8b-
+8a
+=2
+4cc
+4g
+8r}
+{8b-
+8a
+8g
+=3
+4.f
+8f
+8e
+8c
+8d
+8e
+=4
+2f
+8r}
+{8c
+8f
+8g
+=5
+4.a
+8a
+8a
+8cc
+8b-
+8a
+=6
+4cc
+4g
+8r}
+{8b-
+8a
+8g
+=7
+4.f
+8f
+8e
+8c
+8d
+8e
+=8
+2f
+8r}
+{8g
+8g
+8g
+=9
+4.a
+8a
+8g
+8g
+8f
+8d
+=10
+4c
+8e
+8g
+8cc}
+{8g
+8e
+8cc
+=11
+4.bn
+8a
+8g
+8g
+8f
+8d
+=12
+2c
+8r}
+{8c
+8f
+8g
+=13
+4.a
+8a
+8a
+8cc
+8b-
+8a
+=14
+4cc
+4g
+8r}
+{8b-
+8a
+8g
+=15
+4.f
+8f
+8e
+8c
+8d
+8e
+=16
+2f
+8r}
+==
+!!!AGN: Liebes - Lied, Leid, Klage
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: UND VON BERGEN RINGS UMGEBEN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: B0273
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*B-:
+{8d
+8e-
+=1
+4f
+4b-
+8a
+8g
+=2
+4f
+8d
+8d
+8e-
+8c
+=3
+2B-}
+{8d
+8e-
+=4
+4f
+4b-
+8cc
+8dd
+=5
+4ee-
+4f
+8.dd
+16cc
+=6
+4b-
+4r}
+{8.f
+16d
+=7
+4e-
+4cc
+8.f
+16e-
+=8
+8d
+8f
+4b-}
+{8f
+8d
+=9
+4e-
+4cc
+8f
+8e-
+=10
+8d
+8f
+4b-}
+{8d
+8e-
+=11
+8f
+8f
+8b-
+8b-
+8a
+8g
+=12
+4f
+4b-}
+{8a
+8g
+=13
+8.f
+16f
+8dd
+8b-
+8cc
+8a
+=14
+2b-}
+==
+!!!AGN: Stimmungs - Lied, Sehnsucht, Abschied
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: DIE HEILGEN DREI KOENIG
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1200
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#]
+*G:
+{8dd
+=1
+8g
+8g
+8a
+8b
+8b
+8dd
+=2
+8dd
+8cc
+8b
+4a}
+{8dd
+=3
+4g
+8a
+8b
+8b
+8dd
+=4
+8a
+8b
+8a
+4g}
+==
+!!!AGN: Ansinge -, Brauchtums - Lied, Kirchen - Fest, Heilige drei Koenige
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: WER BEKUEMMERT SICH
+!!!ARE: Europa, Mitteleuropa, Deutschland, Thueringen; Sachsen; Elsass;     Hessen, Schlesien;
+!!Brandenburg
+!!!SCT: E1357
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  3/8; 2/4
+*M3/8
+*k[f#]
+*G:
+{16d
+16d
+=1
+8.g
+16g
+16a
+16a
+=2
+8b
+8b}
+{16g
+16b
+=3
+*M2/4
+8.dd
+16b
+8cc
+8dd
+=4
+*M3/8
+4b
+8r}
+=5
+{16g
+16b
+=6
+8dd
+8dd
+16ee
+16dd
+=7
+16dd
+16cc
+8cc}
+{16dd
+16cc
+=8
+8b
+8b
+16dd
+16b
+=9
+16b
+16a
+8a}
+{16g
+16b
+=10
+*M2/4
+8.dd
+16b
+8cc
+8dd
+=11
+4b
+8r}
+==
+!!!AGN: Staende -, Soldaten -, Kriegs - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: VEILE ROSE BLIAEMELEIN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1262
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+=1
+{8.g
+16a
+8b
+8cc
+=2
+8.dd
+16ee
+8dd}
+{8b
+=3
+8.cc
+16b
+8cc
+8dd
+=4
+8.b
+16a
+8b}
+{8d
+=5
+8g
+8g
+8a
+8a
+=6
+8b
+8dd
+8dd}
+{8d
+=7
+8g
+8g
+8a
+8a
+=8
+8b
+8dd
+4dd}
+=9
+{8b
+8dd
+4g
+=10
+8b
+8dd
+4g}
+=11
+{8a
+8a
+8b
+8b
+=12
+8dd
+8dd
+4g}
+==
+!!!AGN: Ansinge -, Brauchtums - Lied, Kirchen - Fest, Johannis - Tag
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: D REKRUTE SIN BRAVI SOLDATE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1362
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-]
+*F:
+{8c
+=1
+8a
+8a
+8a
+8g
+8g
+8g
+=2
+4.f
+4c}
+{8c
+=3
+8b-
+8b-
+8b-
+4a
+8a
+=4
+2g
+8r}
+{16g
+16g
+=5
+8a
+8g
+8a
+8b-
+8a
+8b-
+=6
+4.cc
+8dd
+8b-}
+{8g
+=7
+8.f
+16e
+8f
+8cc
+8b-
+8g
+=8
+2f
+8r}
+==
+!!!AGN: Staende -, Soldaten -, Kriegs - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: JUENGST IN DEM VERFLOSSNEN JAHR
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: B0423
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#c#]
+*D:
+=1
+{4.d
+8d
+8.f#
+16f#
+8e
+8d
+=2
+2a
+4r}
+{4f#
+=3
+4.a
+8f#
+8e
+8g
+8c#
+8e
+=4
+2d
+2r}
+=5
+{4.e
+8e
+8.e
+16e
+8a
+8e
+=6
+4f#
+4e
+4r}
+{8a
+8a
+=7
+4.g#
+8g#
+4g#
+8f#
+8g#
+=8
+4b
+4a
+4r}
+{8a
+8a
+=9
+4.b
+8b
+4cc#
+4a
+=10
+2dd}
+{4dd
+4b
+=11
+4.a
+8f#
+4g
+4e
+=12
+2d
+2r}
+==
+!!!AGN: Scherz -, Liebes - Lied, national
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ICH KOMME VOM GEBIRGE HER
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass,Weissenburg
+!!!SCT: B0661
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*B-:
+{8f
+8b-
+8f
+=1
+4.d
+8d
+8.f
+16e-
+=2
+4.e-}
+{8a
+8cc
+8b-
+=3
+4.a
+8e-
+8g
+8f
+=4
+4d
+8r}
+{8f
+8b-
+8f
+=5
+4.dd
+8b-
+8b-
+8g
+=6
+4.g}
+{8b-
+8a
+8g
+=7
+4.f
+8f
+8ee-
+8a
+=8
+4b-
+8r}
+==
+!!!AGN: Moral - Lied, Einsamkeit
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: AM ROSENHUEGEL WAND ICH MICH EMPOR
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: B0670A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{8d
+8e
+8f#
+=1
+4.g
+8g
+8.a
+16g
+8f#
+8g
+=2
+2a
+8r}
+{8d
+8d
+8d
+=3
+4.a
+8a
+8.b
+16a
+8g
+8a
+=4
+2b
+8r}
+{8d
+8e
+8f#
+=5
+4g
+4g
+8.f#
+16g
+8a
+8b
+=6
+2cc
+8r}
+{8e
+8cc
+8a
+=7
+8g
+8d
+2b
+4a
+=8
+2g
+8r}
+==
+!!!AGN: Moral - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: AN DER QUELLE SASS DER KNABE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: B0464
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#c#g#]
+*A:
+{8e
+8e
+=1
+4.cc#
+8b
+8.cc#
+16b
+=2
+4a
+4e}
+{8g#
+8a
+=3
+4.b
+8a
+8b
+8cc#
+=4
+2a}
+{8e
+8e
+=5
+4.cc#
+8b
+8.cc#
+16b
+=6
+4a
+4e}
+{8g#
+8a
+=7
+4.b
+8a
+8b
+8cc#
+=8
+2a}
+{8cc#
+8cc#
+=9
+4.cc#
+8b
+8a
+8g#
+=10
+4f#
+4f#}
+{8cc#
+8cc#
+=11
+8cc#
+8dd
+4ee
+4cc#
+=12
+2b}
+{8g#
+8f#
+=13
+4.e
+8g#
+8b
+8dd
+=14
+4ff#
+4ee}
+{8cc#
+8ee
+=15
+4.ee
+8dd
+8b
+8cc#
+=16
+2a}
+{8g#
+8f#
+=17
+4.e
+8g#
+8b
+8dd
+=18
+4ff#
+4ee}
+{8cc#
+8ee
+=19
+4.ee
+8dd
+8b
+8cc#
+=20
+2a}
+==
+!!!AGN: Liebes - Lied, Leid, Klage, Sehnsucht
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: NICHT WEIT VON WUERTEMBERG
+!!!ARE: Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt;
+!!    Frankreich, Elsass, Weissenburg
+!!!SCT: E1359
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  4/4; 3/4
+*M4/4
+*k[b-e-a-]
+*E-:
+{4B-
+=1
+4.e-
+8f
+8g
+8a-
+8b-
+8cc
+=2
+*M3/4
+8b-
+8ee-
+4ee-
+4r}
+=3
+{8b-
+8ee-
+=4
+*M4/4
+4.dd
+8cc
+8b-
+8a-
+8cc
+8b-
+=5
+*M3/4
+2g
+4r}
+=6
+{4B-
+=7
+*M4/4
+4.e-
+8f
+8g
+8a-
+8b-
+8cc
+=8
+*M3/4
+8b-
+8ee-
+4ee-
+4r}
+=9
+{8b-
+8ee-
+=10
+*M4/4
+4.dd
+8cc
+8b-
+8a-
+8cc
+8b-
+=11
+2g
+4.r}
+{8b-
+=12
+*M3/4
+8f
+8b-
+4.a-
+8f
+=13
+8g
+8cc
+4.b-}
+{8g
+=14
+8f
+8b-
+4.a-
+8f
+=15
+8g
+8cc
+4b-}
+{4B-
+=16
+*M4/4
+4.e-
+8f
+8g
+8a-
+8b-
+8cc
+=17
+*M3/4
+8b-
+8ee-
+4ee-
+4r}
+=18
+{8b-
+8ee-
+=19
+*M4/4
+4.dd
+8cc
+8b-
+8a-
+8cc
+8b-
+=20
+2g
+4r}
+==
+!!!AGN: Staende -, Soldaten -, Kriegs - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: SALVAI GLORIAI
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1258
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+=1
+{4cc
+4a
+=2
+4cc
+4a}
+=3
+{8cc
+8cc
+4a
+=4
+8cc
+8cc
+4a}
+=5
+{8.cc
+16cc
+8cc
+8dd
+=6
+4cc
+8a
+16r}
+{16b-
+=7
+4cc
+8a
+8b-
+=8
+4cc
+8a}
+{8f
+=9
+8cc
+8cc
+8cc
+8dd
+=10
+4cc
+8a
+16r}
+{16b-
+=11
+8.cc
+16b-
+8a
+8b-
+=12
+8.cc
+16b-
+8a}
+{8f
+=13
+8f
+8g
+8a
+8b-
+=14
+8cc
+16cc
+16b-
+8a}
+{8cc
+=15
+4cc
+8a
+8cc
+=16
+4cc
+8a}
+{8g
+=17
+8cc
+8cc
+8cc
+8dd
+=18
+4cc
+8a}
+{8f
+=19
+4cc
+8r
+8f
+=20
+4cc
+8r}
+{8cc
+=21
+8cc
+8cc
+8cc
+8dd
+=22
+4cc
+8r}
+{8f
+=23
+4cc
+8r
+8f
+=24
+4cc
+8r}
+{8f
+=25
+8cc
+8cc
+8cc
+8dd
+=26
+4cc
+4r}
+==
+!!!AGN: Ansinge -, Brauchtums - Lied, Kirchen - Fest, Johannis - Tag
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: SECHS BUCKEL HEUT HAWE TANZT
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1021
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[b-]
+*F:
+{16cc
+16cc
+=1
+16dd
+16dd
+16cc
+16cc
+16b-
+16b-
+=2
+8a}
+{16a
+16a
+16a
+16a
+=3
+16g
+16g
+16g
+16g
+16g
+16g
+=4
+4f}
+{16cc
+16cc
+=5
+16dd
+16dd
+16cc
+16cc
+16b-
+16b-
+=6
+8a}
+{16a
+16a
+16a
+16a
+=7
+16g
+16g
+16g
+16g
+16g
+16g
+=8
+4.f}
+=9
+{4a
+16cc
+16b-
+=10
+8a
+16cc
+16b-
+8a}
+=11
+{4g
+16b-
+16a
+=12
+8g
+16b-
+16a
+8g}
+=13
+{4a
+16cc
+16b-
+=14
+8a
+16cc
+16b-
+8a}
+=15
+{8g
+8g
+16a
+16g
+=16
+8g
+8r}
+==
+!!!AGN: Tanz - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: MIT JAMMERVOLLEN BLICKEN
+!!!ARE: Europa, Mitteleuropa, Deutschland, Hessen, Odenwald; Elsass
+!!!SCT: E1406
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#]
+*G:
+{8d
+=1
+4g
+8d
+8B
+8d
+8g
+=2
+8b
+8a
+4.r}
+{8d
+=3
+8d
+8f#
+8a
+8dd
+8cc
+8dd
+=4
+4.b
+4r}
+{16g
+16a
+=5
+4b
+8b
+8b
+8a
+8g
+=6
+8e
+8cc
+4.r}
+{8cc
+=7
+8b
+8dd
+8b
+8a
+8g
+8a
+=8
+4g
+8r}
+{8B
+8d
+8g
+=9
+8.g
+16f#
+8a
+8d
+8f#
+8a
+=10
+[4.cc
+4cc]}
+{8cc
+=11
+8b
+8dd
+8b
+8a
+8g
+8a
+=12
+4.g
+4r}
+==
+!!!AGN: Staende -, Soldaten - Lied, Invaliden
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: GIB MIR DIE BLUMEN GIB MIR DEN KRANZ
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: B0383
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[f#]
+*G:
+=1
+{8g
+8a
+8b
+=2
+8dd
+8cc
+8a
+=3
+8b
+8g
+8b
+=4
+4a
+8r}
+=5
+{8a
+8b
+8cc
+=6
+8ee
+8dd
+8b
+=7
+8dd
+8cc
+8a
+=8
+4g
+8r}
+=9
+{8a
+8a
+8a
+=10
+8a
+8ff#
+8dd
+=11
+8cc#
+8b
+8cc#
+=12
+4.dd}
+=13
+{8b
+8b
+8b
+=14
+8.dd
+16cc
+8b
+=15
+8a
+8g
+8a
+=16
+4g
+8r}
+==
+!!!AGN: Liebes - Lied, Liebes - Lust
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: EIN HERZ DAS SICH MIT SORGEN QUAELT
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass, Weissenburg
+!!!SCT: B0285A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#c#]
+*D:
+{8d
+8f#
+=1
+2a
+4a
+=2
+4a
+4b}
+{8a
+8g
+=3
+4.a
+8e
+4d
+=4
+4d
+4e}
+{8f#
+8a
+=5
+2g
+4g
+=6
+4f#
+4a}
+{4f#
+=7
+4f#
+4e}
+{8d
+8f#
+=8
+2a
+4a
+=9
+4a
+4b}
+{8a
+8g
+=10
+4.a
+8e
+4d
+=11
+4d
+4e}
+{8f#
+8a
+=12
+2g
+4g
+=13
+4f#
+4a}
+{4f#
+=14
+4f#
+4e}
+{4a
+=15
+4g#
+4e
+4e
+=16
+4a
+4cc#}
+{4ee
+=17
+4dd
+4cc#
+4b
+=18
+2a
+4r}
+=19
+{4f#
+4f#
+4f#
+=20
+4a
+4g
+4r}
+=21
+{4e
+4f#
+4g
+=22
+4b
+4a
+4r}
+=23
+{4f#
+4f#
+4f#
+=24
+4g
+4b}
+{8dd
+8b
+=25
+4a
+4b
+4cc#
+=26
+4dd
+4r}
+==
+!!!AGN: Stimmungs - Lied, Freude
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: LEBE WOHL ES NAHT DIE STUNDE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass, Weissenburg
+!!!SCT: E1413
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-a-d-]
+*A-:
+{8.a-
+16b-
+=1
+4.cc
+8dd-
+8.cc
+16b-
+=2
+4cc
+8a-}
+{8cc
+8ee-
+8a-
+=3
+4.b-
+8cc
+8dd-
+8cc
+=4
+2b-
+4r}
+=5
+{8.b-
+16a-
+8g
+8f
+8e-
+8d-
+=6
+8c
+8e-
+4cc}
+{8e-
+8e-
+=7
+8.dd-
+16g
+4cc
+4b-
+=8
+2a-
+4r}
+=9
+{4a-
+4a-
+4a-
+=10
+4ff
+4dd-}
+{4a-
+=11
+4.dd-
+8ee-
+4ff
+=12
+4ee-
+4cc
+4r}
+=13
+{4cc
+4b-
+4cc
+=14
+4ee-
+4dd-}
+{4e-
+=15
+4.cc
+8cc
+4b-
+=16
+2a-}
+==
+!!!AGN: Staende -, Soldaten - Lied, Krieg, Abschied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: S ISCH WAHR I WILL NIMMAEMEH LIAEGE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1107
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[b-e-]
+*g:
+{8g
+=1
+4g
+8g
+=2
+8.b-
+16a
+8g
+=3
+8a
+8dd
+8dd
+=4
+8dd
+8dd}
+{16dd
+16dd
+=5
+8.dd
+16cc
+8b-
+=6
+8.b-
+16a
+8g
+=7
+4g
+8a
+=8
+8.a
+16a}
+{8a
+=9
+4b-
+8b-
+=10
+8.b-
+16a
+8g
+=11
+4.a
+=12
+4d}
+{8d
+=13
+8.g
+16g
+8g
+=14
+8.b-
+16a
+8g
+=15
+8.g
+16dd
+8dd
+=16
+4dd}
+{8dd
+=17
+8dd
+8cc
+8b-
+=18
+4a
+8g
+=19
+4.a
+=20
+4g}
+==
+!!!AGN: Luegen - Lied, Maerchen
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: SCHWAEFELHOLZE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1791
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+=1
+{8a
+8cc
+8cc
+8a
+=2
+8g
+8b-
+8b-
+8g}
+=3
+{8f
+8a
+8a
+8f
+=4
+8g
+8e
+4c}
+=5
+{8a
+8cc
+8cc
+8a
+=6
+8g
+8b-
+8b-}
+{8g
+=7
+8a
+8f
+8g
+8e
+=8
+4f
+4r}
+=9
+{8dd
+8dd
+8dd
+8ff
+=10
+8cc
+8cc
+4cc}
+=11
+{8b-
+8b-
+8b-
+16cc
+16b-
+=12
+8a
+8a
+4a}
+=13
+{8a
+8f
+8b-
+8g
+=14
+8cc
+8a
+8b-
+8g}
+=15
+{8a
+8f
+8b-
+8g
+=16
+8cc
+8a
+8b-
+8g}
+=17
+{8a
+8f
+8g
+8e
+=18
+4f
+4r}
+=19
+{8dd
+8dd
+8dd
+16ee
+16dd
+=20
+8cc
+8cc
+8cc
+16dd
+16cc}
+=21
+{8b-
+8b-
+8b-
+16cc
+16b-
+=22
+8a
+8a
+8a
+16b-
+16a}
+=23
+{8g
+8g
+8g
+16a
+16g
+=24
+4f
+4r}
+==
+!!!AGN: Scherz - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: O REGIMENT MEIN VATERLAND
+!!!ARE: Europa, Mitteleuropa, Deutschland, Hessen, Nassau; Elsass
+!!!SCT: E1389
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*B-:
+{8f
+=1
+8d
+8f
+4.b-
+8f
+=2
+8.a
+16g
+4.g}
+{8g
+=3
+8g
+8b-
+4.a
+8e-
+=4
+8.g
+16f
+4.f}
+{8f
+=5
+8d
+8f
+4.dd
+8dd
+=6
+8.cc
+16g
+4.cc}
+{8b-
+=7
+8.a
+16g
+8f
+8f
+8g
+8a
+=8
+2b-
+8r}
+{8f
+=9
+8d
+8f
+4.dd
+8dd
+=10
+8.cc
+16g
+4.cc}
+{8b-
+=11
+8.a
+16g
+8f
+8f
+8g
+8a
+=12
+2b-
+8r}
+==
+!!!AGN: Staende -, Soldaten - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: DREI LEDRIGE STRUEMPF
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1022
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{8cc
+=1
+8cc
+16cc
+16cc
+8a
+8cc
+=2
+8cc
+16cc
+16cc
+8a}
+{8cc
+=3
+8b-
+8a
+8b-
+8g
+=4
+4cc
+4f}
+=5
+{8dd
+8dd
+8dd
+8b-
+=6
+8cc
+8cc
+4cc}
+=7
+{8b-
+8b-
+8b-
+8g
+=8
+8a
+8a
+4a}
+=9
+{8dd
+8dd
+8dd
+8b-
+=10
+8cc
+8cc
+4cc}
+=11
+{8b-
+8b-
+8b-
+8g
+=12
+8a
+8a
+8a}
+==
+!!!AGN: Tanz - Lied, Spiel, Pantomime
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: AUS DEINEN BLAUEN AUGEN STRAHLET LIEBE
+!!!ARE: Europa, Mitteleuropa, Deutschland, Hannover; France, Elsass
+!!!SCT: B0403
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[b-e-]
+*B-:
+{8d
+8d
+8e-
+=1
+4.f
+8f
+8dd
+8cc
+8b-
+8d
+=2
+8f
+8e-
+4e-
+8r}
+{8e-
+8e-
+8e-
+=3
+4.cc
+8b-
+8a
+8g
+8f
+8e-
+=4
+8e-
+8d
+4d
+8r}
+{8b-
+8b-
+8b-
+=5
+8b-
+8g
+4g
+8r
+8b-
+8a
+8g
+=6
+8g
+8f
+4f
+8r}
+{8b-
+8f
+8d
+=7
+4.c
+8g
+8f
+8f
+8g
+8a
+=8
+4b-
+4dd
+8r}
+{8b-
+8b-
+8b-
+=9
+8b-
+8g
+4g
+8r
+8b-
+8a
+8g
+=10
+8g
+8f
+4f
+8r}
+{8b-
+8f
+8d
+=11
+4.c
+8g
+8f
+8f
+8g
+8a
+=12
+4b-
+4.r}
+==
+!!!AGN: Liebes - Lied, Liebes - Lust
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: MIR IST HALT NIE SO WOHL ZU MUTH
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: B0408
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[]
+*C:
+{8g
+=1
+4g
+8e
+8cc
+8b
+8a
+=2
+4g
+8e
+4e}
+{8e
+=3
+8d
+8f
+8a
+4g
+8f
+=4
+4.e
+4r}
+{8g
+=5
+4g
+8e
+8cc
+8b
+8a
+=6
+4g
+8e
+4e}
+{8e
+=7
+8d
+8f
+8a
+4g
+8f
+=8
+4.e
+4r}
+{8g
+=9
+4f
+8d
+8d
+8f
+8a
+=10
+4g
+8e
+4e}
+{8g
+=11
+4f
+8d
+8d
+8f
+8a
+=12
+4g
+8e
+4e}
+{16g
+16g
+=13
+8g
+8a
+8b
+8cc
+8b
+8a
+=14
+4g
+8e
+4e}
+{16e
+16e
+=15
+8d
+8f
+8a
+4g
+8f
+=16
+4.e
+4r}
+==
+!!!AGN: Liebes - Lied, Liebes - Lust
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: SUF[ERK3RUT IM HAEFELE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1020A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[]
+*C:
+=1
+{8e
+8e
+8f
+=2
+8.g
+16a
+8g}
+=3
+{8cc
+8b
+8a
+=4
+8.g
+16a
+8g}
+=5
+{8a
+8g
+8f
+=6
+8.e
+16f
+8e}
+=7
+{8f
+8e
+8d
+=8
+4c
+8r}
+==
+!!!AGN: Tanz - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: SO WILLST DU WIEDER EINSAM MICH VERLASSEN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass, Lembach
+!!!SCT: E1381
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#c#]
+*D:
+{8a
+8a
+8g
+=1
+4.f#
+8f#
+=2
+8a
+8g
+8f#
+8e
+=3
+4e
+4f#
+=4
+8r}
+{8d
+8e
+8f#
+=5
+4.g
+8a
+=6
+4f#
+8.a
+16f#
+=7
+4e
+4r
+=8
+8r}
+{8a
+8a
+8g
+=9
+4.f#
+8f#
+=10
+8a
+8g
+8f#
+8e
+=11
+4e
+4f#
+=12
+8r}
+{8dd
+8cc#
+8b
+=13
+4.a
+8a
+=14
+8g#
+8b
+8dd
+8g#
+=15
+4a
+4r
+=16
+8r}
+{8a
+8a
+8cc#
+=17
+4.ee
+8dd
+=18
+8cc#
+8b
+8a
+8g
+=19
+8b
+8a
+4f#
+=20
+8r}
+{8a
+8a
+8cc#
+=21
+4.ee
+8dd
+=22
+8cc#
+8b
+8a
+8g
+=23
+8b
+8a
+4f#
+=24
+8r}
+{8a
+8b
+8cc#
+=25
+4.dd
+8dd
+=26
+8.ff#
+16ee
+8dd
+8cc#
+=27
+4b
+4r
+=28
+8r}
+{8b
+8cc#
+8dd
+=29
+4.a
+8a
+=30
+8cc#
+8b
+8a
+8g
+=31
+4f#
+4r
+=32
+8r}
+==
+!!!AGN: Staende -, Soldaten -, Kriegs - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: DER MEISCHTER SCHICKT DER JOCKELE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1745
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{8d
+=1
+8d
+8g
+8g
+8g
+=2
+8f#
+16a
+16a
+8a}
+{8a
+=3
+8b
+8b
+8dd
+8b
+=4
+4a
+4a}
+=5
+{8a
+8a
+8b
+8cc
+=6
+4dd
+4dd
+=7
+2gg
+=8
+2dd}
+=9
+{8b
+16b
+16b
+8a
+8a
+=10
+8g
+8f#
+8g}
+==
+!!!AGN: Scherz -, Spiel - Lied, Zaehl - Geschichte
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: NINA BUBBAEIAE SCHLOF
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1813
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-]
+*F:
+=1
+{4.cc
+4.a
+=2
+8g
+8f
+8g
+4f
+8r}
+=3
+{4g
+8g
+4a
+8cc
+=4
+4b-
+8b-
+4.a}
+=5
+{4cc
+8cc
+4b-
+8b-
+=6
+4a
+8a
+4.g}
+=7
+{4f
+8g
+4a
+8b-
+=8
+4a
+8g
+4f
+8r}
+==
+!!!AGN: Kinder -, Wiegen -, Schlaf - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: HANS IM SCHNOCKELOCH
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1723
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+=1
+{4cc
+8cc
+8dd
+=2
+8.cc
+16b-
+8a}
+{8a
+=3
+8b-
+8b-
+8g
+8g
+=4
+4a
+4r}
+=5
+{8.g
+16a
+8b-
+8g
+=6
+8.a
+16b-
+8cc}
+{8a
+=7
+8.g
+16a
+8b-
+8g
+=8
+8.a
+16b-
+8cc
+8r}
+=9
+{4cc
+8cc
+8dd
+=10
+8.cc
+16b-
+8a}
+{8a
+=11
+8b-
+8b-
+8g
+8g
+=12
+4f
+4r}
+==
+!!!AGN: Scherz - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: DIE REISE NACH SUEDLAND
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1430A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*B-:
+{4f
+=1
+4b-
+4b-
+4cc
+=2
+4dd
+4dd}
+{8b-
+8gg
+=3
+4.ff
+8ee-
+8dd
+8ff
+=4
+2cc}
+{8cc
+8dd
+=5
+4.ee-
+8gg
+8ff
+8ee-
+=6
+4.dd
+8cc}
+{8b-
+8dd
+=7
+4cc
+4b-
+4a
+=8
+2ff}
+{8cc
+8dd
+=9
+4.ee-
+8gg
+8ff
+8dd
+=10
+4.dd
+8cc}
+{8b-
+8dd
+=11
+4cc
+4b-
+4a
+=12
+2b-}
+==
+!!!AGN: Staende -, Soldaten - Lied, Liebe, Abschied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: DIE REISE NACH SUEDLAND
+!!!ARE: Europa, Mitteleuropa, Deutschland; Fankreich, Elsass
+!!!SCT: E1430
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*B-:
+{4f
+=1
+4b-
+4b-
+4cc
+=2
+4dd
+4dd}
+{8b-
+8cc
+=3
+4.dd
+8dd
+8ee-
+8dd
+=4
+2cc}
+{8cc
+8dd
+=5
+4.ee-
+8gg
+8ff
+8ee-
+=6
+4.dd
+8cc}
+{8b-
+8dd
+=7
+4cc
+4b-
+4a
+=8
+2ff}
+{8cc
+8dd
+=9
+4.ee-
+8gg
+8ff
+8dd
+=10
+4.dd
+8cc}
+{8b-
+8dd
+=11
+4cc
+4b-
+4a
+=12
+2b-}
+==
+!!!AGN: Staende -, Soldaten - Lied, Liebe, Abschied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ES KAM EIN FREMDER SCHLEIFER
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1640
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{8c
+=1
+4f
+4f
+=2
+4g
+4g
+=3
+4a
+8a
+8g
+=4
+4f
+8r}
+{8f
+=5
+4g
+4g
+=6
+8a
+8cc
+4cc
+=7
+8cc
+8b-
+4g
+=8
+4f
+4r}
+=9
+{8f
+8g
+8a
+8b-
+=10
+8.cc
+16cc
+4cc
+=11
+4dd
+8ff
+8dd
+=12
+2cc}
+=13
+{8cc
+8b-
+4b-
+=14
+8a
+8cc
+4cc
+=15
+8cc
+8b-
+4g
+=16
+4f
+8r}
+==
+!!!AGN: Staende -, Handwerker - Lied, Scherenschleifer
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: DIE GEDANKEN SIND FREEI
+!!!ARE: Europa, Mitteleuropa, Deutschland, Schlesien; Schweiz; Elsass
+!!!SCT: E1803A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[]
+*C:
+{8G
+8G
+=1
+4.c
+8d
+8e
+8c
+=2
+2G}
+{4E
+=3
+4F
+4D
+4G
+=4
+4E
+4C}
+{8G
+8G
+=5
+4.c
+8d
+8e
+8c
+=6
+2G}
+{4E
+=7
+4F
+4D
+4G
+=8
+4E
+4C}
+{4c
+=9
+4B
+4d
+4B
+=10
+4c
+4e}
+{4c
+=11
+4B
+4d
+4B
+=12
+4c
+4e}
+{4c
+=13
+4.A
+8B
+8c
+8A
+=14
+2G}
+{8c
+8e
+=15
+4d
+4c
+4B
+=16
+2c}
+{4c
+=17
+4B
+4d
+4B
+=18
+4c
+4e}
+{4c
+=19
+4B
+4d
+4B
+=20
+4c
+4e}
+{4c
+=21
+4.A
+8B
+8c
+8A
+=22
+2G}
+{8c
+8e
+=23
+4d
+4c
+4B
+=24
+2c}
+==
+!!!AGN: Freiheits - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: HOER LIEBCHEN WAS ICH SAGEN WILL
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass, Ergenau
+!!!SCT: E1729
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#c#g#d#]
+*E:
+{8B
+=1
+8e
+8e
+16e
+16f#
+16g#
+16a
+=2
+8b
+8b
+4b}
+=3
+{8e
+8e
+16e
+16f#
+16g#
+16a
+=4
+8b
+8B
+4B}
+=5
+{8e
+8e
+16e
+16f#
+16g#
+16a
+=6
+8b
+8b
+4b}
+=7
+{8.cc#
+16dd#
+16ff#
+16ee
+16dd#
+16cc#
+=8
+8b
+8b
+4b}
+=9
+{8.a
+16b
+16dd#
+16cc#
+16b
+16a
+=10
+8.g#
+16b
+16ee
+16b
+16g#
+16e}
+=11
+{8f#
+8cc#
+8b
+8d#
+=12
+4e
+8r}
+==
+!!!AGN: Scherz - Lied, Soldaten - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: RITI RITI RESSLAE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1818
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+=1
+{8cc
+8dd
+8cc
+8dd
+=2
+4cc
+4a}
+=3
+{8cc
+8dd
+8cc
+8dd
+=4
+4cc
+4a}
+=5
+{4cc
+8cc
+8dd
+=6
+8cc
+8cc
+4a}
+=7
+{4cc
+8cc
+8dd
+=8
+8cc
+8cc
+4a}
+=9
+{8f
+8f
+4c
+=10
+4f
+4f}
+=11
+{8f
+8f
+4c
+=12
+4f
+4f}
+=13
+{16cc
+16cc
+16b-
+16b-
+16a
+16a
+16g
+16g
+=14
+4f
+4r}
+==
+!!!AGN: Kinder -, Wiegen -, Schlaf - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: RAEGE RAEGE TROPFE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1843
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+=1
+{8dd
+8ee
+8dd
+8ee
+=2
+4dd
+4b}
+=3
+{8dd
+8ee
+8dd
+8ee
+=4
+4dd
+4b}
+=5
+{8dd
+8ee
+16dd
+16dd
+8ee
+=6
+8dd
+8cc
+4b}
+=7
+{8dd
+8ee
+16dd
+16dd
+8ee
+=8
+8dd
+8cc
+8b
+8r}
+==
+!!!AGN: Kinder - Lied, Regen - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: JUNGFER LIESCHEN SCHLIEF DA DROBEN
+!!!ARE: Europa, Mitteleuropa, Deutschland, Hessen, Lahn - Kreis; Wetterau; France, Elsass
+!!!SCT: E1732A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*G:
+{8g
+8b
+=1
+4dd
+4b
+8dd
+8ee
+=2
+8dd
+8cc
+4a}
+{4dd
+=3
+4b
+4b
+8dd
+8b
+=4
+2a}
+{8b
+8a
+=5
+4g
+4b
+4a
+=6
+4b
+4dd}
+{8cc
+8ee
+=7
+4dd
+4b
+4a
+=8
+2g}
+==
+!!!AGN: Scherz - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ISCH DAT NIT AEN ELAENDS LAEWE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass; Schweiz
+!!!SCT: E1546
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[b-]
+*F:
+=1
+{4f
+4g
+4a
+8b-
+8a
+=2
+4g
+8a
+8g
+4f
+4c}
+=3
+{4.a
+8b-
+4cc
+8dd
+8cc
+=4
+4b-
+8cc
+8b-
+4a
+4r}
+=5
+{4f
+4g
+4a
+8b-
+8a
+=6
+4g
+8a
+8g
+4f
+4c}
+=7
+{4.a
+8b-
+4cc
+8dd
+8cc
+=8
+4b-
+8cc
+8b-
+4a
+4r}
+=9
+{4cc
+8dd
+8cc
+4dd
+4cc
+=10
+4cc
+8dd
+8cc
+4dd
+4cc}
+=11
+{4cc
+8dd
+8cc
+4dd
+4cc
+=12
+4cc
+8dd
+8cc
+4dd
+4cc}
+=13
+{4.cc
+8b-
+4a
+4f
+=14
+4.g
+8a
+4f
+4r}
+==
+!!!AGN: Staende -, Bauern - Lied, Klage
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: DER LUNZI KUMMT
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1898
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{8cc
+=1
+8.cc
+16b-
+8a
+8cc
+=2
+8.cc
+16b-
+8a}
+{8a
+=3
+8cc
+8dd
+8cc
+8dd
+=4
+4cc
+4a}
+=5
+{8cc
+8dd
+8cc
+8dd
+=6
+4cc
+4f}
+=7
+{8cc
+8dd
+8cc
+8dd
+=8
+4cc
+8f}
+==
+!!!AGN: Kinder - Lied, Plumpsack - Spiel
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: EIN LAEMMLEIN TRANK VOM FRISCHEN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: B0633
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{16f
+16a
+=1
+8cc
+8cc
+16cc
+16ff
+16a
+16cc
+=2
+8b-
+8g
+8r}
+{8g
+=3
+16a
+16cc
+16a
+16f
+16g
+16b-
+16g
+16e
+=4
+4f
+8r}
+{16f
+16a
+=5
+8cc
+8cc
+16cc
+16ff
+16a
+16cc
+=6
+8b-
+8g
+8r}
+{8g
+=7
+16a
+16cc
+16a
+16f
+16g
+16b-
+16g
+16e
+=8
+4f
+8r}
+{8g
+=9
+8a
+8cc
+16ff
+16cc
+16b-
+16a
+=10
+8a
+8g
+8r}
+{16f
+16g
+=11
+8a
+8cc
+16ff
+16cc
+16b-
+16a
+=12
+8a
+8g
+8r}
+{16f
+16a
+=13
+8cc
+8cc
+16cc
+16ff
+16a
+16cc
+=14
+8b-
+8g
+8r}
+{8b-
+=15
+16a
+16cc
+16a
+16f
+16g
+16b-
+16g
+16e
+=16
+4f
+8r}
+==
+!!!AGN: Kinder - Lied, Tier; Moral
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: AN EINEM FLUSS DER RAUSCHEND SCHOSS
+!!!ARE: Europa, Mitteleuropa, Deutschland, Pfalz; Odenwald; Elsass
+!!!SCT: B0647A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4g
+8b
+8g
+4d
+4g
+=2
+4e
+8g
+8e
+4e
+8r}
+{8g
+=3
+4f#
+4g
+4a
+4b
+=4
+2a
+4r}
+{4d
+=5
+4.cc
+8b
+4a
+4dd
+=6
+4.b
+8a
+4g}
+{4b
+=7
+4.a
+8g
+4a
+4b
+=8
+2g
+4r}
+==
+!!!AGN: Moral - Lied, Ballade
+!! Schlusston korrigiert (Druckfehler ?)
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: STORCH STORCH HEINI
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1856
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+=1
+{8cc
+8dd
+8cc
+8dd
+=2
+4cc
+8a}
+{8a
+=3
+8cc
+8dd
+8cc
+8dd
+=4
+4cc
+8a}
+{8a
+=5
+8cc
+8dd
+8cc
+8dd
+=6
+2cc}
+=7
+{8cc
+8dd
+8cc
+8dd
+=8
+8cc
+8b-
+4a}
+==
+!!!AGN: Kinder - Lied, Tier - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: SCHON WIEDER TOENT VOM SCHACHTE HER
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass, Lembach
+!!!SCT: E1531
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-e-]
+*B-:
+{8f
+8d
+8e-
+=1
+4.f
+8f
+=2
+8g
+8a
+4b-
+=3
+4.r}
+{8b-
+=4
+8a
+8cc
+8b-
+8g
+=5
+4g
+4f
+=6
+8r}
+{8f
+8d
+8e-
+=7
+4.f
+8f
+=8
+8g
+8a
+4b-
+=9
+4.r}
+{8b-
+=10
+8a
+8cc
+8b-
+8g
+=11
+4g
+4f
+=12
+8r}
+{8f
+8cc
+8b-
+=13
+4.a
+8f
+=14
+8dd
+8cc
+4b-
+=15
+8r}
+{8f
+8cc
+8b-
+=16
+4.a
+8f
+=17
+8dd
+8cc
+8b-}
+{8f
+=18
+8.b-
+16b-
+8cc
+8dd
+=19
+4ee-}
+{4cc
+=20
+2dd
+=21
+2cc
+=22
+2b-
+=23
+8r}
+==
+!!!AGN: Staende -, Bergmanns - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: WAS WOLLEN DIE HAUSAREN ESSEN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1325
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{8d
+=1
+8g
+8g
+8g
+8g
+=2
+4g
+8f#
+8g
+=3
+4a
+4f#
+=4
+4r}
+{8f#
+8g
+=5
+4a
+8a
+8a
+=6
+4a
+8g
+8a
+=7
+4b
+4g
+=8
+4r}
+{8.dd
+16dd
+=9
+4dd
+8.b
+16b
+=10
+4b
+8.ee
+16dd
+=11
+4dd
+4cc
+=12
+4cc}
+{8a
+8b
+=13
+8.cc
+16cc
+8cc
+8cc
+=14
+8cc
+8ee
+8dd
+8cc
+=15
+8.b
+16b
+8b
+8b
+=16
+4b}
+{8.b
+16cc
+=17
+2dd
+=18
+4ee
+8.cc
+16cc
+=19
+4cc
+4dd
+=20
+4b
+8r}
+==
+!!!AGN: Staende -, Soldaten -, Kriegs - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: KUMM KUMM BIBELE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1849
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+=1
+{4cc
+4cc
+=2
+12b-
+12a
+12g
+4f}
+=3
+{8f
+8a
+8cc
+16cc
+16cc
+=4
+8b-
+8g
+4f}
+=5
+{8f
+8f
+8f
+8c
+=6
+8f
+8g
+4a}
+=7
+{4cc
+4b-
+=8
+12b-
+12a
+12g
+4f}
+==
+!!!AGN: Kinder - Lied, Tier - Lied; Tanz
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ES GIENG EINMAL BEI MONDENSCHEIN
+!!!ARE: Europa, Mitteleuropa, Deutschland, Hessen, Lahn; Wetterau; Elsass
+!!!SCT: E1469
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[]
+*C:
+{8e
+=1
+4e
+8c
+4c
+8a
+=2
+4a
+8g
+4g}
+{8e
+=3
+4g
+8f
+4d
+8g
+=4
+4.c
+4r}
+{8e
+=5
+4e
+8c
+4c
+8a
+=6
+4a
+8g
+4g}
+{8e
+=7
+4g
+8f
+4d
+8g
+=8
+4.c
+4r}
+{8e
+=9
+4d
+8d
+8d
+8e
+8f#
+=10
+4g
+8b
+4b}
+{8b
+=11
+4a
+8b
+4cc
+8f#
+=12
+4.g
+4r}
+{8e
+=13
+4e
+8c
+4c
+8a
+=14
+4a
+8g
+4g}
+{8e
+=15
+4g
+8f
+4d
+8g
+=16
+4.c
+4r}
+==
+!!!AGN: Staende -, Jaeger - Lied, Tod
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: DORT WO DIE KLAREN BAECHLEIN RINNEN
+!!!ARE: Europa, Mitteleuropa, Deutschland, Ober - Hessen; Nassau; Elsass
+!!!SCT: E1496
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4.g
+8d
+8B
+8d
+8.g
+16f#
+=2
+4f#
+4e
+4r}
+{8a
+8b
+=3
+4.cc
+8b
+8a
+8d
+8.b
+16a
+=4
+2g
+4r}
+{4d
+=5
+4.g
+8d
+8B
+8d
+8.g
+16f#
+=6
+4f#
+4e
+4r}
+{8a
+8b
+=7
+4.cc
+8b
+8a
+8d
+8.b
+16a
+=8
+2g
+4r}
+{4b
+=9
+4.a
+8b
+8a
+8a
+8g
+8g
+=10
+8f#
+8a
+4dd
+4r}
+{8a
+8dd
+=11
+4.cc#
+8b
+8a
+8a
+8g
+8g
+=12
+4f#
+4cc
+4b}
+{4a
+=13
+4.g
+8d
+8B
+8d
+8.g
+16f#
+=14
+4f#
+4e
+4r}
+{8a
+8b
+=15
+4.cc
+8b
+8a
+8d
+8.b
+16a
+=16
+2g
+4r}
+==
+!!!AGN: Staende - Lied, Hirten -,  Schaefer - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: MAIEKAEFER FRICO FRICO
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1852
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[b-]
+*F:
+{16cc
+16cc
+=1
+8cc
+8a
+8dd
+=2
+8cc
+8a
+8dd
+=3
+8cc
+8a}
+{8cc
+=4
+8.cc
+16b-
+8b-
+=5
+4a
+8cc
+=6
+8.cc
+16b-
+8b-
+=7
+4a
+8r}
+=8
+{4cc
+8cc
+=9
+8.cc
+16cc
+8dd
+=10
+4.cc
+=11
+4a}
+{8a
+=12
+8cc
+8cc
+8cc
+=13
+8.cc
+16cc
+8dd
+=14
+4.cc
+=15
+4a}
+==
+!!!AGN: Kinder - Lied, Tier - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ACH GOTT WIE TRAURIG
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass, Weissenburg
+!!!SCT: E1343
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[b-e-a-]
+*E-:
+{8e-
+8.e-
+16g
+=1
+4.b-
+8b-
+8b-
+8b-
+8.cc
+16b-
+=2
+4b-
+4a-
+8r}
+{8a-
+8a-
+8g
+=3
+4.f
+8b-
+8an
+8b-
+8cc
+8b-
+=4
+2g
+8r}
+{8ee-
+8ee-
+8ee-
+=5
+4.cc
+8cc
+8ff
+8ee-
+8.dd
+16cc
+=6
+4cc
+4b-
+8r}
+{8b-
+8ee-
+8g
+=7
+4f
+8dd
+8cc
+8.b-
+16a-
+8cc
+8b-
+=8
+2g
+8r}
+{8ee-
+8ee-
+8ee-
+=9
+4.cc
+8cc
+8ff
+8ee-
+8.dd
+16cc
+=10
+4cc
+4b-
+8r}
+{8b-
+8ee-
+8g
+=11
+4f
+8dd
+8cc
+8.b-
+16a-
+8cc
+8b-
+=12
+2g
+8r}
+==
+!!!AGN: Staende -, Soldaten -, Kriegs - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: HIER STEHEN WIR AUF UNSERN KRUECKEN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0334
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[b-e-]
+*B-:
+{8ff
+8dd
+8ff
+=1
+2b-
+8r
+8bb-
+8bb-
+8ccc
+=2
+4bb-
+4gg
+8r}
+{8bb-
+8aa
+8gg
+=3
+4ff
+8dd
+8gg
+8ff
+8ee-
+8cc
+8ee-
+=4
+4ee-
+4dd
+8r}
+{8ff
+8cc
+8dd
+=5
+8ee-
+8aa
+4.aa
+8cc
+8ee-
+8gg
+=6
+4gg
+4ff
+8r}
+{8ff
+8cc
+8dd
+=7
+8ee-
+8aa
+4.aa
+8cc
+8ee-
+8gg
+=8
+4gg
+4ff
+8r}
+{8bb-
+8aa
+8gg
+=9
+4.ff
+8ee-
+4dd
+4cc
+=10
+8ff
+8ee-
+4dd
+8r}
+{8bb-
+8aa
+8gg
+=11
+4.ff
+8ee-
+4dd
+4cc
+=12
+2b-
+8r}
+==
+!!!AGN: historisches Lied, Krieg, Invalieden; Tod Friedrich II (1786)
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: IN DES GARTENS DUNKLER LAUBE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0112D
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*B-:
+{8.f
+16g
+=1
+8f
+8b-
+4b-
+8.d
+16d
+=2
+8d
+8f
+4f}
+{8e-
+8d
+=3
+8e-
+8g
+4b-
+8.a
+16cc
+=4
+4b-
+4r}
+{8f
+8f
+=5
+4ee-
+4cc
+8.ff
+16ee-
+=6
+4dd
+4b-}
+{8f
+8f
+=7
+8g
+8cc
+4cc
+8.a
+16cc
+=8
+4b-
+4r}
+==
+!!!AGN: erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod, Ballade ?
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ES WAR EINMAL EIN MUELLERIN
+!!!ARE: Europa, Mitteleuropa, Deutschland, Taunus; Elsass
+!!!SCT: E0156A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{8c
+=1
+8.f
+16g
+8a
+8b-
+=2
+8.cc
+16dd
+8cc}
+{8a
+=3
+8.b-
+16a
+8b-
+8cc
+=4
+4a
+8r}
+{16f
+16a
+=5
+8cc
+8a
+8cc
+8a
+=6
+8cc
+8ff
+8dd}
+{8cc
+=7
+8b-
+8g
+8b-
+8g
+=8
+8b-
+8dd
+8cc}
+{8b-
+=9
+8.a
+16g
+8a
+8b-
+=10
+8cc
+8ff
+8ee}
+{8dd
+=11
+8.cc
+16a
+8b-
+8cc
+=12
+4a
+8r}
+==
+!!!AGN: erzaehlendes Volks - Lied, Scherz, Schwank, Ballade ?
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: HIER STEHEN WIRAUF UNSERN KRUECKEN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0334A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[b-e-]
+*B-:
+{8ff
+8dd
+8ff
+=1
+2b-
+8r
+8bb-
+8bb-
+8bb-
+=2
+4aa
+4ff
+8r}
+{8aa
+8bb-
+8gg
+=3
+4ff
+8dd
+8gg
+8ff
+8ee-
+8cc
+8ee-
+=4
+4ee-
+4dd
+8r}
+{8dd
+8cc
+8dd
+=5
+8ff
+8ee-
+4ee-
+4r
+8dd
+8ee-
+=6
+8gg
+8ff
+4ff
+8r}
+{8dd
+8cc
+8dd
+=7
+8ff
+8ee-
+4ee-
+4r
+8dd
+8ee-
+=8
+8gg
+8ff
+4ff
+8r}
+{8bb-
+8bb-
+8bb-
+=9
+4gg
+8ff
+8ee-
+4dd
+4cc
+=10
+8ff
+8ee-
+8dd
+8ee-
+8ff}
+{8bb-
+8bb-
+8bb-
+=11
+4gg
+8ff
+8ee-
+4ff
+4a
+=12
+2b-
+8r}
+==
+!!!AGN: historisches Lied, Krieg, Invalieden; Tod Friedrich II (1786)
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ICH STEH AUF EINEM HOHEN BERG
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0089
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-]
+*d:
+{8a
+=1
+4d
+8e
+4fn
+8g
+=2
+4a
+8a
+4g}
+{8a
+=3
+4b-
+8a
+8g
+8fn
+8g
+=4
+2a
+8r}
+{8a
+=5
+8a
+8b-
+8ccn
+8ccn
+8b-
+8a
+=6
+4a
+8g
+4g}
+{8g
+=7
+8fn
+8g
+8a
+8a
+8g
+8fn
+=8
+4fn
+8e
+4e}
+{8a
+=9
+8a
+8g
+8fn
+8e
+8d
+8c#
+=10
+2d
+8r}
+==
+!!!AGN: erzaehlendes Volks - Lied, Sage, Liebe, Leid, Ballade ?
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: IN DER STADT HAGENAU GENANNT
+!!!ARE: Europa, Mitteleuropa, Deutschland, Niederrhein; Elsass
+!!!SCT: E0215
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*G:
+{8g
+8b
+8cc
+=1
+4.dd
+8ee
+8dd
+8cc
+=2
+4b
+8r}
+{8a
+8b
+8cc
+=3
+4.dd
+8ee
+8dd
+8cc
+=4
+4b
+8r}
+{8b
+8dd
+8b
+=5
+4.a
+8b
+8cc
+8b
+=6
+4a
+8r}
+{8dd
+8dd
+8dd
+=7
+4.dd
+8b
+8cc
+8a
+=8
+4g
+8r}
+==
+!!!AGN: erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: GUGUK IM HAEFELE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1020
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[b-]
+*F:
+=1
+{8ff
+8cc
+8cc
+=2
+8.cc
+16b-
+8a}
+=3
+{8b-
+8a
+8g
+=4
+4a
+8r}
+=5
+{8ff
+8cc
+8cc
+=6
+8.cc
+16b-
+8a}
+=7
+{8b-
+8a
+8g
+=8
+4a
+8r}
+=9
+{8cc
+8cc
+8cc
+=10
+8.cc
+16b-
+8a}
+=11
+{8cc
+8cc
+8cc
+=12
+8.cc
+16b-
+8a}
+=13
+{8b-
+8a
+8g
+=14
+4f
+8r}
+==
+!!!AGN: Tanz - Lied, Staende - Lied, Musiker - Zunft
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: SISCH NOCH NIT LANG
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E1011
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-e-]
+*B-:
+{8f
+=1
+8f
+8b-
+8b-
+8b-
+=2
+8a
+8cc
+4b-
+=3
+8a
+8cc
+8b-}
+{8dd
+=4
+8cc
+8b-
+8a
+8g
+=5
+8f
+8a
+8cc}
+{8cc
+=6
+8cc
+8cc
+8ff
+8ff
+=7
+4f
+8r}
+{16cc
+16dd
+=8
+8ee-
+8ee-
+8ee-
+8cc
+=9
+8dd
+16dd
+16dd
+8dd}
+{8b-
+=10
+8cc
+8cc
+8cc
+8a
+=11
+8b-
+8dd
+8ff}
+{16cc
+16dd
+=12
+8ee-
+8ee-
+8ee-
+8cc
+=13
+8dd
+16dd
+16dd
+8dd}
+{8b-
+=14
+8cc
+8cc
+8a
+8a
+=15
+4b-
+8r}
+==
+!!!AGN: Tanz - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ES FUHR EIN FUHRKNECHT UEBERN RHEIN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0186A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-e-]
+*g:
+{8d
+=1
+4g
+4b-
+=2
+4a
+4dd
+=3
+8cc
+8b-
+8a}
+{8d
+=4
+4g
+4b-
+=5
+4a
+4dd
+=6
+8cc
+8b-
+8a}
+{8a
+=7
+8cc
+8cc
+8cc
+8dd
+=8
+8b-
+8a
+8g}
+{8d
+=9
+4g
+4b-
+=10
+4a
+4dd
+=11
+8b-
+8a
+8g}
+==
+!!!AGN: erzaehlendes Volks - Lied, Sage, Familien - Geschichte, Mord
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ES WAR EINMAL EINE KOENIGIN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass, Bischweiler
+!!!SCT: E0084F
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4.b
+8a
+4g
+4f#
+=2
+4a
+4e
+4r}
+{4a
+=3
+4.a
+8a
+8a
+8g
+4a
+=4
+2b
+4r}
+{4d
+=5
+4.b
+8b
+4.dd
+8dd
+=6
+4cc
+4a
+4r}
+{4a
+=7
+4.g
+8g
+4b
+4a
+=8
+2g
+4r}
+==
+!!!AGN: erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod, Ballade ?
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: STETS IN TRAUERN MUSS ICH LEBEN
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0722A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*G:
+{8d
+8f#
+=1
+4g
+4d
+8e
+8f#
+=2
+4g
+4d}
+{8g
+8b
+=3
+4.a
+8g
+8f#
+8a
+=4
+4d
+4r}
+{8d
+8d
+=5
+8cc
+8b
+8a
+8g
+8g
+8e
+=6
+8e
+8g
+8d
+8r}
+{8d
+8d
+=7
+8g
+8b
+4dd
+8cc
+8a
+=8
+4a
+4g}
+{8d
+8d
+=9
+8cc
+8b
+8a
+8g
+8g
+8e
+=10
+8e
+8g
+8d
+8r}
+{8d
+8d
+=11
+8g
+8b
+4dd
+8cc
+8a
+=12
+4a
+4g}
+==
+!!!AGN: Liebes - Lied, Leid, Klage, Abschied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: KAISER DER NAPOLEON
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0349B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+=1
+{8d
+8g
+8g
+8g
+=2
+8f#
+8a
+4a}
+=3
+{8a
+8a
+8a
+8a
+=4
+8b
+8dd
+4dd}
+=5
+{8.b
+16b
+8b
+8b
+=6
+8.dd
+16cc
+4cc}
+=7
+{8a
+8a
+8.dd
+16cc
+=8
+4cc
+4b}
+==
+!!!AGN: historisches Lied, Napoleons russischer Feldzug (1812)
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: GEDENK MIT HOCHGEFUEHL AN JENE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0360
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[]
+*C:
+{8G
+=1
+4.c
+8c
+4G
+8c
+8G
+=2
+8A
+8F
+8c
+8A
+4A
+4G}
+=3
+{4F
+8G
+8F
+4E
+4c
+=4
+4d
+8c
+8B
+4c
+8r}
+{8G
+=5
+4.c
+8c
+4G
+8c
+8G
+=6
+8A
+8F
+8c
+8A
+4A
+4G}
+=7
+{4F
+8G
+8F
+4E
+4c
+=8
+4d
+8c
+8B
+4c
+8r}
+{8c
+=9
+4.d
+8c
+8.B
+16A
+8.G
+16F
+=10
+4F
+4E
+4r}
+{8G
+8c
+=11
+4.d
+8G
+4.e
+8d
+=12
+2c
+4.r}
+{8G
+=13
+4.c
+8c
+4G
+8c
+8G
+=14
+8A
+8F
+8c
+8A
+4A
+4G}
+=15
+{4F
+8G
+8F
+4E
+4c
+=16
+4d
+8.B
+16e
+2e}
+=17
+{8c
+8B
+8c
+8A
+4G
+4e
+=18
+4.d
+8B
+4c
+8r}
+==
+!!!AGN: historisches Lied, Krieg gegen Napoleon (1815)
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: GUETE MORGEN BUCKLIGE GRET
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0004A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+=1
+{8.cc
+16dd
+8cc
+8b-
+=2
+8a
+16a
+16a
+8a}
+{8g
+=3
+8.a
+16f
+8f
+8a
+=4
+4a
+8g}
+{8g
+=5
+8.a
+16g
+8a
+8b-
+=6
+8cc
+8dd
+8cc}
+{8g
+=7
+8.a
+16f
+8a
+8g
+=8
+4g
+8f
+8r}
+==
+!!!AGN: Sage, Maerchen -, Zauber - Lied, Ballade ?
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: LEBEWOHL DU DIE ICH EWIG LIEBE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0761
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[]
+*C:
+{8.G
+16G
+=1
+4.c
+8G
+8E
+8G
+8.A
+16G
+=2
+4G
+4F
+4r}
+{8.B
+16c
+=3
+4.d
+8G
+8F#
+8G
+8A
+8B
+=4
+2B
+8r}
+{8G
+8G
+8c
+=5
+4.e
+8d
+8c
+8B
+8A
+8G
+=6
+8G
+8f
+4f
+8r}
+{8f
+8e
+8d
+=7
+4.e
+8e
+8d
+8d
+8A
+8B
+=8
+2c
+4r}
+==
+!!!AGN: Abschieds - Lied, Liebe
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: SCHOENSTER SCHATZ AUF DIESER ERDE
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0545A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+=1
+{4g
+4d
+4b
+8g
+8b
+=2
+4dd
+4dd
+8dd
+8cc
+4cc}
+=3
+{4.b
+8a
+4b
+4ee
+=4
+4dd
+8cc
+8b
+2a}
+=5
+{4.dd
+8cc
+4b
+4dd
+=6
+8.ee
+16dd
+8.cc
+16b
+8b
+8a
+4a}
+=7
+{4.dd
+8cc
+4b
+4ee
+=8
+8.dd
+16cc
+8.b
+16a
+4g
+4r}
+=9
+{4.dd
+8cc
+4b
+4dd
+=10
+8.ee
+16dd
+8.cc
+16b
+8b
+8a
+4a}
+=11
+{4.dd
+8cc
+4b
+4ee
+=12
+8.dd
+16cc
+8.b
+16a
+4g
+4r}
+==
+!!!AGN: Liebes - Lied, Treue
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ES GIENG A MAIDL NACH HOLZ
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0073A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{8d
+=1
+8.b
+16b
+8a
+8g
+=2
+8.cc
+16cc
+8f#}
+{8f#
+=3
+8.cc
+16cc
+8b
+8a
+=4
+4dd
+8r}
+{8b
+=5
+8.dd
+16dd
+8cc
+8b
+=6
+8.ee
+16ee
+8f#}
+{8e
+=7
+8d
+8cc
+8b
+8a
+=8
+4g
+8r}
+{8dd
+=9
+8b
+8dd
+8.gg
+16dd
+=10
+8.ff#
+16ee
+8ee}
+{8ee
+=11
+8dd
+8d
+8b
+8a
+=12
+4g
+8r}
+==
+!!!AGN: erzaehlendes Volks - Lied, Sage, Liebe, Ballade ?
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: ES LIEGT EIN SCHLOESSCHEN IN OESTERREICH
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0061K
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{8d
+8g
+8b
+=1
+4g
+8f#
+8g
+=2
+8a
+8b
+4g
+=3
+8r}
+{8g
+8b
+8dd
+=4
+8.dd
+16cc
+8b
+8a
+=5
+4g
+4a
+=6
+8r}
+{8g
+8b
+8g
+=7
+8.dd
+16ee
+8dd
+8b
+=8
+8a
+8g
+4cc
+=9
+8r}
+{8b
+8a
+8g
+=10
+8.dd
+16ee
+8dd
+8b
+=11
+8a
+8g
+4cc
+=12
+8r}
+{8b
+8a
+8g
+=13
+4cc
+4b
+=14
+4a
+4g
+=15
+8r}
+==
+!!!AGN: erzaehlendes Volks - Lied, Sage, Mord, Ballade ?
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: DIE FRANZOSEN ZOGEN EIN
+!!!ARE: Europa, Mitteleuropa, Deutschland, France, Elsass
+!!!SCT: E0364
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*G:
+{8g
+8a
+=1
+4b
+4b
+4a
+=2
+2g}
+{8g
+8a
+=3
+4b
+4b
+4a
+=4
+2g}
+{8g
+8b
+=5
+4dd
+4dd
+4dd
+=6
+4.dd
+8cc}
+{4b
+=7
+4cc
+4cc
+4cc
+=8
+4.cc
+8b}
+{4a
+=9
+4b
+4b
+4a
+=10
+2g}
+{8g
+8b
+=11
+4dd
+4dd
+4cc
+=12
+2b}
+==
+!!!AGN: historisches Lied, Krieg, franzoesisches Soldaten - Lied (1855)
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-

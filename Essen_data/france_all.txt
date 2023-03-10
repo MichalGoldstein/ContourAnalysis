@@ -1,0 +1,1183 @@
+!!!OTL: Die Unbestechliche Je ne m'en puis conforter
+!!!ARE: Europa, Mitteleuropa, France
+!!!YOR: 7, S. 36
+!!    11?? Handschrift (Trouvere)
+!!!SCT: Q3144F
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*G:
+=1
+{2cc
+4cc
+=2
+2b
+4b
+=3
+2g
+4b
+=4
+8cc
+8b
+4a
+4r}
+=5
+{2a
+4g
+=6
+2f#
+4f#
+=7
+2f#
+4e
+=8
+2f#
+4r}
+=9
+{2e
+4f#
+=10
+2g
+4a
+=11
+4a
+4g
+8g
+8f#
+=12
+2g
+4r}
+==
+!!!AGN: Ballade, Liebes - Handel
+!! Melodievergleich zu Q0144C, anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Allons enfants de la patrie
+!!!ARE: Europa, Mitteleuropa, France
+!!!SCT: B0731
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[]
+*C:
+{8G
+8G
+8G
+=1
+4c
+4c
+4d
+4d
+=2
+4.g
+8e
+8c}
+{8c
+8e
+16c
+16B
+=3
+4A
+4.f
+8f
+8d
+8B
+=4
+2c
+4r}
+{8.c
+16d
+=5
+4e
+4e
+4e
+8f
+8e
+=6
+8e
+8d
+4d
+4r}
+{8.d
+16e
+=7
+4f
+4f
+4f
+8.g
+16f
+=8
+2e
+4r}
+{8.g
+16g
+=9
+4g
+8e
+8c
+4g
+8.e
+16c
+=10
+2G
+8r}
+{8G
+8G
+8G
+=11
+4.d
+8e
+4.f
+8d
+=12
+4c
+4c}
+{2B-
+=13
+4A
+8.c
+16c
+4c
+8B
+8c
+=14
+2d
+4r}
+{8.d
+16d
+=15
+4e-
+8.e-
+16e-
+8.d
+16e-
+8.f
+16e-
+=16
+2d
+4r}
+{8e-
+8d
+=17
+4c
+4c
+4c
+8d
+8c
+=18
+8c
+8B
+4B
+4r}
+{4g
+=19
+2.g
+8.e-
+16c
+=20
+2d
+4r}
+{4g
+=21
+[2g
+8.g]
+16g
+8.e-
+16c
+=22
+2d
+4r}
+{4G
+=23
+2.c
+4c
+=24
+2.e
+4r}
+=25
+{2f
+4g
+4a
+=26
+2.d
+4a
+=27
+[2g
+8.g]
+16e
+8.f
+16d
+=28
+2c
+4r}
+{4G
+=29
+2.c
+4c
+=30
+2.e
+4r}
+=31
+{2f
+4g
+4a
+=32
+2.d
+4a
+=33
+[2g
+8.g]
+16e
+8.f
+16d
+=34
+2c
+8r}
+==
+!!!AGN: National - Hymne
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Koenig und Marquise Lou Rey desumpey calkey dzour,
+!!!ARE: Europa, Mitteleuropa, France
+!!!YOR: 2, S. 30
+!!    1904 gedruckt in Paris
+!!!SCT: Q2035C
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*e:
+{8a
+16gn
+16a
+=1
+8b
+8ee
+8ddn
+8ccn
+=2
+4b}
+{8a
+16gn
+16a
+=3
+8b
+8ee
+8ddn
+8ccn
+=4
+4b}
+{8b
+16ccn
+16ddn
+=5
+8ee
+8ee
+8.ddn
+16ccn
+=6
+4b}
+{8ddn
+16ccn
+16b
+=7
+8a
+8gn
+8a
+16gn
+16f#
+=8
+4e}
+{8a
+16gn
+16a
+=9
+8b
+8ee
+8ddn
+24b
+24ccn
+24b
+=10
+4a}
+==
+!!!AGN: Ballade, Frauenraub
+!! Verzierung (Vorschlag) in der letzten Zeile. Franzoesische Version
+!!    der Ballade.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Koenig und Marquise Hourah les fill' a quat' deniers,
+!!!ARE: Europa, Mitteleuropa, France
+!!!YOR: 2, S. 30
+!!    1889 gedruckt
+!!!SCT: Q3035B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#]
+*e:
+{8b
+8b
+8a
+8gn
+=1
+4a
+8a
+4ddn
+8ddn
+=2
+4b}
+{8b
+8b
+8a
+8gn
+=3
+4a
+8a
+4ddn
+8ddn
+=4
+4b}
+{8b
+4ee
+8ee
+=5
+4ddn
+8ee
+4b
+8a
+=6
+8gn
+8r}
+{8b
+8.b
+16a
+8gn
+=7
+8.a
+16b
+8a
+4gn
+8f#
+=8
+4e}
+==
+!!!AGN: Matrosen - Lied
+!! Franzoesische Melodievariante von Q0035: anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Das hungernde Kind Ah! vous diraije, maman
+!!!ARE: Europa, Mitteleuropa, France
+!!!YOR: 5, S. 281
+!!    17?? gedruckt (18. Jh.)
+!!!SCT: Q3115F
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+=1
+{4g
+4g
+=2
+4dd
+4dd
+=3
+4ee
+4ee
+=4
+2dd}
+=5
+{4cc
+4cc
+=6
+4b
+4b
+=7
+4a
+4a
+=8
+2g}
+==
+!!!AGN: ???
+!! Melodievergleich zu Q0115E, anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die elfjaehrige Markgraefin Il est venu le petit oysillon
+!!!ARE: Europa, Mitteleuropa, France
+!!!YOR: 2, S. 294
+!!    1921 gedruckt (Neuausgabe)
+!!!SCT: Q3053J
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  3/2; 2/2
+*M3/2
+*k[b-]
+*F:
+{2f
+4g
+4g
+=1
+4a
+4f
+4cc
+8b-
+8a
+4a
+8g
+8g
+=2
+2f}
+{2cc
+4dd
+4dd
+=3
+4cc
+4ee
+4.ff
+8ff
+8ee
+8cc
+4dd
+=4
+*M2/2
+4cc
+8r}
+{8cc
+4.ff
+8ee
+=5
+4.dd
+8dd
+8cc
+8a
+4b-
+=6
+4.a}
+{8g
+4f
+4g
+=7
+*M3/2
+4a
+4dd
+4.cc
+8b-
+8a
+8a
+8g
+8g
+=8
+*M2/2
+4.f}
+{8e
+4f
+4g
+=9
+*M3/2
+4a
+4dd
+4.cc
+8b-
+8a
+8a
+8g
+8g
+=10
+2f}
+==
+!!!AGN: ???
+!! Ungenuegend dokumentiert. Melodievergleich zu Q0053 , anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der Scheintod Sur le pont d'Avignon
+!!!ARE: Europa, Mitteleuropa, France
+!!!YOR: 3, S. 124
+!!    1505 gedruckt in Venedig
+!!!SCT: Q3058H
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/4
+*k[b-]
+*d:
+{2d
+=1
+4.fn
+8g
+4a
+4b-
+4a
+4g
+=2
+2a
+2r}
+{2a
+=3
+2.dd
+4ccn
+4b
+4a
+=4
+2ccn
+2a}
+{2ccn
+=5
+4.a
+8b-
+4a
+4fn
+4g
+4g
+=6
+2fn
+2r}
+{2a
+=7
+2.g
+4fn
+4e
+4d
+=8
+2e
+2d}
+{2fn
+=9
+4e
+4a
+4fn
+8e
+8d
+2e
+=10
+1d}
+==
+!!!AGN: Hochzeits - Lied
+!! Melodievergleich mit Q0058G, anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der schwatzhafte Junggeselle Sont trois jolis garcons; s'en vont a la prom'nade.
+!!!ARE: Europa, Mitteleuropa, France, Savoie
+!!!YOR: 6, S. 312
+!!    1910 gedruckt in Paris
+!!!SCT: Q2139P
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{8d
+=1
+8.g
+16f#
+8g
+8a
+=2
+4.b
+8a
+=3
+8.dd
+16cc
+8b
+8a
+=4
+4a
+8g}
+{8d
+=5
+8.g
+16f#
+8g
+8a
+=6
+4.b
+8a
+=7
+8.dd
+16cc
+8b
+8a
+=8
+4a
+8g}
+{8dd
+=9
+4dd
+8dd
+8cc
+=10
+4.b
+8b
+=11
+8dd
+8dd
+8cc
+8b
+=12
+4a
+8r}
+{8d
+=13
+8.g
+16f#
+8g
+8a
+=14
+8b
+8b
+4cc
+=15
+8.b
+16cc
+8.b
+16a
+=16
+4.g}
+==
+!!!AGN: Ballade, Indiskretion, verweigerter Beischlaf
+!! Franzoesische Fassung der Ballade. Zweistimmig notiert, Unter- bzw.
+!!    Mittelstimme kodiert. Notenwert in der letzten Zeile rhythmisch
+!!    korrigiert.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der betruegerische Freier Y a bien longtemps brunette
+!!!ARE: Europa, Mitteleuropa, France
+!!!YOR: 2, S. 133
+!!    1906 gedruckt in Paris
+!!!SCT: Q2042F
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  6/8; 3/8
+*M3/8
+*k[]
+*a:
+{8e
+=1
+4a
+8ccn
+4b
+8a
+=2
+4a
+8g#
+4e}
+{8e
+=3
+4a
+8ccn
+4ee
+8dd
+=4
+8ccn
+8b}
+{8g#
+=5
+*M6/8
+4a
+8ccn
+4b
+8a
+=6
+4a
+8g#
+4e}
+{8e
+=7
+4a
+8ccn
+4ee
+8dd
+=8
+*M3/8
+8ccn
+4b}
+=9
+*M6/8
+{8ccn
+8dd
+8b
+4g#
+8b
+=10
+[4.a
+8a]
+8r}
+==
+!!!AGN: Ballade, Braut - Werbung, Betrug
+!! Franzoesische Fassung der Ballade.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der heimkehrende Soldat Brave soldat venant de guerre, coucou,
+!!!ARE: Europa, Mitteleuropa, France
+!!!YOR: 5, S. 158
+!!    1887 gedruckt
+!!!SCT: Q2103B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  6/8; 3/8
+*M6/8
+*k[f#]
+*G:
+{8d
+=1
+4g
+8g
+4g
+8b
+=2
+4a
+8g
+8a
+8b
+8cc
+=3
+[4.b
+8b]
+8r}
+{8d
+=4
+4g
+8g
+4g
+8b
+=5
+4a
+8g
+8a
+8b
+8cc
+=6
+*M3/8
+4.b}
+=7
+{8a
+8b
+8cc
+=8
+*M6/8
+4dd
+8dd
+4cc
+8b
+=9
+*M3/8
+4.a}
+=10
+{8g
+8a
+8b
+=11
+*M6/8
+4cc
+8a
+8a
+8dd
+8dd
+=12
+*M3/8
+8g
+8r}
+{8b
+=13
+*M6/8
+4g
+8b
+8a
+8b
+8a
+=14
+*M3/8
+4.g}
+=15
+{8a
+8b
+8cc
+=16
+*M6/8
+4dd
+8dd
+4cc
+8b
+=17
+*M3/8
+4.a}
+=18
+{8g
+8a
+8b
+=19
+*M6/8
+4cc
+8a
+8a
+8dd
+8dd
+=20
+*M3/8
+8g
+8r}
+{8b
+=21
+*M6/8
+4g
+8b
+8a
+8b
+8a
+=22
+4g}
+==
+!!!AGN: Ballade, Ehe, Betrug
+!! Franzoesische Fassung der Ballade. Taktart zum Taktwechsel
+!!    korrigiert. Anhaengsel an der ersten und zweiten Zeile; letzte
+!!    Zeile = Refrain auf sinnfreie Silben.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Rache im Zweikampf Derrier' chez nous il-y-a-t-un capitaine
+!!!ARE: Europa, Mitteleuropa, France, franzoesische Alpen, Haut Savoie, Faucigny
+!!!YOR: 5, S. 105
+!!    1903 gedruckt in Grenoble und Moutiers
+!!!SCT: Q2097D
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[]
+*C:
+=1
+{8cc
+8cc
+8cc
+=2
+8cc
+8a
+8b
+=3
+8cc
+8b
+8a
+=4
+4g
+8g}
+=5
+{8cc
+8cc
+8cc
+=6
+8cc
+8a
+8b
+=7
+8cc
+8b
+8a
+=8
+8g
+8r}
+{8a
+=9
+4g
+8f
+=10
+4e
+8r
+=11
+8cc
+8dd
+8ee
+=12
+4ee
+8dd
+=13
+8dd
+8cc}
+{8ee
+=14
+4g
+8f
+=15
+4.e
+=16
+8a
+8b
+8a
+=17
+8g
+8b
+8dd
+=18
+4.cc}
+==
+!!!AGN: Ballade, Frau in Maennerkleidung, Soldat, Betrug, Rache
+!! Franzoesische Fassung der Ballade.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der Maedchenmoerder (Halewijn - Ulinger) La passion de Jesus Christ
+!!!ARE: Europa, Mitteleuropa, France, Westfrankreich, Surin (Deux Sevres)
+!!!YOR: 2, S. 106
+!!    1906 aufgezeichnet
+!!!SCT: Q3041O
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  2/4; 3/4
+*M2/4
+*k[f#c#]
+*D:
+{4B
+8B
+8cn
+=1
+*M3/4
+4d
+4e
+8d
+8cn
+=2
+*M2/4
+4B}
+{4cn
+=3
+4A
+8.cn
+16d
+=4
+2e}
+=5
+{4.e
+8fn
+=6
+4e
+4d
+=7
+4cn
+4e
+=8
+4.d
+8c#
+=9
+2d}
+==
+!!!AGN: geistlich
+!! Melodievariante zu Q0041H: anderes Lied!  Grundton in der
+!!    zweigestrichenen Oktave.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Rache im Zweikampf Dans mon pays il-y-a-t-un capitain'
+!!!ARE: Europa, Mitteleuropa, France, Franche - Comte
+!!!YOR: 5, S. 105
+!!    1884 gedruckt in Paris
+!!!SCT: Q2097B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*MFREI6/8
+*k[]
+*C:
+=0
+{8cc
+8b
+8cc
+=1
+=2
+8dd
+8cc
+8b
+8a
+8b
+8a
+=3
+=4
+4.g}
+{8cc
+8b
+8cc
+=5
+=6
+8dd
+8cc
+8b
+8a
+8b
+8a
+=7
+=8
+[4.g
+4g]}
+{8a
+4g
+8f
+=9
+=10
+[4.e
+4e]
+8cc
+4dd
+8ee
+=11
+=12
+[4.ff
+4ff]
+8ee
+=13
+=14
+4.dd
+4cc}
+{8ee
+=15
+=16
+4g
+8f
+4.e
+=17
+=18
+8a
+8b
+8a
+4g
+8dd
+=19
+=20
+2.cc}
+==
+!!!AGN: Ballade, Frau in Maennerkleidung, Soldat, Betrug, Rache
+!! Franzoesische Fassung der Ballade. Duolen in der dritten Zeile
+!!    rhythmisch veraendert.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der Scheintod Sur le pont d'Avignon
+!!!ARE: Europa, Mitteleuropa, France
+!!!YOR: 3, S. 124
+!!    1889
+!!!SCT: Q3058I
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-]
+*d:
+{8d
+=1
+4.d
+8e
+8fn
+8g
+=2
+2a
+8r}
+{8a
+=3
+4.dd
+8dd
+8ccn
+8dd
+=4
+4ccn
+8b-
+8a
+8r}
+{16a
+16b-
+=5
+4.ccn
+8dd
+8a
+8g
+=6
+[4.fn
+4fn]}
+{8g
+=7
+4.a
+8g
+8d
+8g
+=8
+4fn
+8e
+4d}
+==
+!!!AGN: Hochzeits - Lied
+!! Melodievergleich zu Q0058G, anderes Lied.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-

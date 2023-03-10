@@ -1,0 +1,5388 @@
+!!!OTL: Jungknab auf Botschaft Es wollt ein Jungknab auf Botschaft gehn
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0012
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  4/4; 3/4
+*M4/4
+*k[f#c#g#d#]
+*E:
+=1
+{8e
+8e
+8e
+=2
+2b
+4cc#
+4ddn
+=3
+4cc#
+4b
+[2a
+=4
+4a]}
+{4a
+4b
+4b
+=5
+*M3/4
+4.ee
+8ff#
+4ee
+=6
+*M4/4
+4ddn
+4cc#
+2b}
+=7
+*M3/4
+{8b
+8a
+4b
+4ee
+=8
+4ddn
+4cc#
+4b
+=9
+*M4/4
+4ddn
+4ee
+2b}
+=10
+*M3/4
+{4ddn
+4cc#
+4b
+=11
+2a
+4b
+=12
+4gn
+4f#
+[4e
+=13
+4.e]}
+{8e
+8e
+8e
+=14
+2b
+4a
+=15
+*M4/4
+4b
+4ccn
+4b
+4gn
+=16
+4f#
+4e
+8r}
+==
+!!!AGN: Kilt - Lied
+!! Achttonskala ( dorisch mit Alteration ?)
+!!    Taktwiederholung; Inzipit entfernte Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Nun adje, jetzt muss ich fort
+!!!ARE: Europa, Mitteleuropa, Lothringen, Altripp
+!!!SCT: D0005
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/2
+*k[f#]
+*G:
+=1
+{4g
+4d
+=2
+4.g
+8a
+2b
+4a
+8g
+8b
+=3
+2a
+2r}
+{4g
+4d
+=4
+4.g
+8a
+2b
+4a
+8g
+8b
+=5
+2a
+4r}
+{8g
+8a
+4b
+4g
+=6
+4.dd
+8ee
+4dd
+8cc
+8b
+4a
+4g
+=7
+4.cc
+8dd
+4b}
+{8a
+8cc
+4b
+4a
+=8
+4.g
+8a
+4b
+8cc
+8a
+4dd
+8.dd
+16cc
+=9
+2b
+2r}
+==
+!!!AGN: Soldaten - Lied
+!! Inzipit = entfernte Variante zum Lied  ??
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Gottselige Strickerin Es war einmal eine gottselige Strickerin,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Rechicourt ( Kr. Saarburg )
+!!!SCT: D0041
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[b-]
+*F:
+{8f
+=1
+8f
+8f
+8f
+=2
+8f
+8f
+8f
+=3
+8g
+8g
+8a
+=4
+4b-
+8b-
+=5
+4f}
+{8f
+=6
+8b-
+8b-
+8cc
+=7
+8dd
+8dd
+16dd
+16cc
+=8
+8b-
+8g
+8a
+=9
+4.b-
+=10
+4r}
+{8b-
+=11
+8cc
+8b-
+8cc
+=12
+8dd
+8dd
+8cc
+=13
+4.b-
+=14
+4.g}
+=15
+{4cc
+8dd
+=16
+8.b-
+16a
+8f
+=17
+8g
+8a
+8a
+=18
+4.f
+=19
+4r}
+{8f
+=20
+8b-
+8b-
+8cc
+=21
+8dd
+8dd
+8cc
+=22
+4.b-
+=23
+4.g}
+=24
+{4cc
+8dd
+=25
+8.b-
+16a
+8f
+=26
+8g
+8a
+8f
+=27
+4f}
+==
+!!!AGN: religioeses Erzaehl - Lied
+!! Verzierungen; Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Totenlied O Mensch, betracht die Welt!
+!!!ARE: Europa, Mitteleuropa, Lothringen, Rechicourt ( Kr. Saarburg )
+!!!SCT: D0040
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/4
+*k[f#]
+*G:
+{4d
+=1
+2g
+4g
+2a
+4a
+=2
+2.b
+4r
+4r}
+{4a
+=3
+2a
+4b
+2cc
+4dd
+=4
+2b
+4a
+2a}
+{4b
+=5
+2cc
+4b
+4b
+4a
+4g
+=6
+2.a
+4r
+4r}
+{4b
+=7
+2b
+4a
+2a
+4g
+=8
+4g
+4a
+4b
+2a}
+{4b
+=9
+2b
+4a
+2a
+4g
+=10
+4g
+4a
+4b
+2a}
+{4b
+=11
+2dd
+4a
+2b
+4b
+=12
+2.g
+4r
+4r}
+==
+!!!AGN: geistliches Lied, Tod, Totentanz
+!! Verzierungen
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Gute Meinung Wenn ich morgens frueh aufstehe
+!!!ARE: Europa, Mitteleuropa, Lothringen, Hambach
+!!!SCT: D0068
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[b-e-a-]
+*E-:
+{8e-
+8f
+8g
+8a-
+4b-
+4b-
+=1
+8cc
+8dd
+8ee-
+8cc
+8cc
+8b-
+4b-}
+=2
+{8b-
+8a-
+8cc
+8b-
+4b-
+8e-
+8f
+=3
+8g
+8a-
+8g
+8f
+8f
+8e-
+4e-}
+=4
+{4.g
+8b-
+8b-
+8a-
+4a-
+=5
+8g
+8e-
+8b-
+8g
+8g
+8f
+4f}
+=6
+{4.g
+8b-
+8b-
+8a-
+4a-
+=7
+8g
+8e-
+8b-
+8g
+8g
+8f
+4f}
+=8
+{8e-
+8f
+8g
+8a-
+4b-
+4b-
+=9
+8cc
+8dd
+8ee-
+8cc
+2b-}
+=10
+{8b-
+8a-
+8cc
+8b-
+4b-
+8e-
+8f
+=11
+8g
+8a-
+8g
+8f
+4e-
+4r}
+=12
+{8e-
+8f
+8g
+8a-
+4b-
+4b-
+=13
+8cc
+8dd
+8ee-
+8cc
+2b-}
+=14
+{8b-
+8a-
+8cc
+8b-
+4b-
+8e-
+8f
+=15
+8g
+8a-
+8g
+8f
+4e-
+4r}
+==
+!!!AGN: geistliches Lied
+!! Verzierungen; Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Abgewiesener Knabe Ist das nicht der Morgenstern,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler ( Kr. Forbach )
+!!!SCT: D0011
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-e-a-d-]
+*f:
+{8c
+=1
+8f
+8g
+8a-
+8g
+8a-
+8b-
+=2
+8g
+4f
+4r}
+{16cc
+16b-
+=3
+8cc
+8b-
+8a-
+8f
+8b-
+8a-
+=4
+4.g
+4r}
+{8a-
+=5
+8g
+8a-
+8b-
+8cc
+8b-
+8cc
+=6
+4f
+8e-
+4.e-}
+=7
+{8.f
+16g
+8a-
+8.b-
+16a-
+8g
+=8
+8a-
+8g
+4f
+8r}
+==
+!!!AGN: Kilt - Lied, abgewiesener Knabe
+!! in der zweiten Zeile rhythmisch korrigiert
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Haescher des Herodes Jetzt kraehen die Hahne, jetzt wird es bald Tag,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Morsbach ( Kr. Forbach )
+!!!SCT: D0007
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[f#]
+*e:
+{8dn
+8f#
+=1
+4gn
+4gn
+8f#
+8e
+=2
+4dn
+4dn}
+{8gn
+8a
+=3
+4b
+4gn
+8a
+8f#
+2gn}
+{4b
+=4
+4a
+4a
+8b
+8a
+4gn
+4e}
+{4f#
+4gn
+4e
+4f#
+2e}
+==
+!!!AGN: Legenden - Lied, Weihnachten
+!! Inzipit = Variante zum Lied; Verzierung
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Ich seind so sehr betruebet, die Ursach weiss ich wohl
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0013
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  4/4; 3/4
+*M3/4
+*k[b-e-]
+*g:
+{4d
+4d
+4d
+=1
+*M4/4
+4d
+8.d
+16a
+4.g
+16b-
+16a
+=2
+*M3/4
+4g
+4r
+4r}
+=3
+{8b-
+8cc
+=4
+4dd
+4ee-
+4dd
+=5
+4cc
+4dd
+8cc
+8b-
+=6
+*M4/4
+2a}
+{2dd
+=7
+4ee-
+8dd
+8cc
+4cc
+8a
+8cc
+=8
+*M3/4
+4b-
+4a
+4g}
+=9
+{4b-
+=10
+*M4/4
+4a
+4dd
+8g
+8g
+8f#
+8a
+=11
+2g}
+{2dd
+=12
+4ee-
+8dd
+8cc
+4cc
+8a
+8cc
+=13
+*M3/4
+4b-
+4a
+4g}
+=14
+{4b-
+=15
+*M4/4
+4a
+4dd
+8g
+8g
+8f#
+8a
+=16
+2g
+2r
+=17
+4r}
+==
+!!!AGN: Liebes - Klage
+!! Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Abgewiesene Freier ( Drei Gesellen ) Es war'n mal drei junge Gesellen,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0014
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{8d
+=1
+4g
+8d
+8d
+=2
+4g
+8b
+8a
+=3
+4g
+8d}
+{8d
+=4
+4g
+4d
+=5
+4g
+8b
+8a
+=6
+4g
+8d}
+{8b
+=7
+8b
+8b
+8b
+8b
+=8
+4.b
+8b
+=9
+8a
+8b
+8cc
+8b
+=10
+4.a}
+{8g
+=11
+8f#
+8a
+8a
+8a
+=12
+8a
+8dd
+8dd
+8cc
+=13
+8b
+8a
+8a
+8a
+=14
+4.g}
+{8b
+=15
+8b
+8b
+8b
+8b
+=16
+4.b
+8b
+=17
+8a
+8b
+8cc
+8b
+=18
+4.a}
+{8g
+=19
+8f#
+8a
+8a
+8a
+=20
+8a
+8dd
+8dd
+8cc
+=21
+8b
+8a
+8a
+8a
+=22
+4.g}
+==
+!!!AGN: Ballade, Werbung
+!! Takt - und Zeilenwiederholung;Inzipit = entfernte Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Haescher des Herodes Jetzt kraehen die Hahne, jetzt wird's bald Tag
+!!!ARE: Europa, Mitteleuropa, Lothringen, Morsbach ( Kr. Forbach )
+!!!SCT: D0007A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*g:
+{4fn
+=1
+4.b-
+8a
+4g
+=2
+4fn
+4fn}
+{8b-
+8cc
+=3
+2dd
+4cc
+=4
+2b-}
+{4dd
+=5
+4cc
+4cc
+8dd
+8cc
+=6
+4b-
+4g}
+{4a
+=7
+4b-
+4g
+4a
+=8
+2g}
+==
+!!!AGN: Legenden - Lied, Weihnachten
+!! Verzierung; Variante zu D0007
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Liebesklage Es kommt die Zeit zum Offenbaren,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Altripp
+!!!SCT: D0003
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#c#]
+*D:
+{4a
+=1
+4a
+4a
+4g
+4a
+=2
+4ccn
+4b
+4a
+4g}
+=3
+{4ccn
+4b
+4a
+4g
+=4
+4a
+4fn
+2e}
+=5
+{4a
+4a
+4d
+8e
+8fn
+=6
+4g
+8fn
+8e
+4d
+4cn}
+=7
+{4fn
+4g
+4a
+4g
+=8
+4fn
+4e
+4d}
+==
+!!!AGN: Liebes - Klage
+!! Taktwiederholung; Inzipit = Transposition zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der himmlische Ackersmann Was wollen wir singen und fangen an?
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0018
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*e:
+{8gn
+8e
+=1
+4e
+4e
+4e
+=2
+4b
+4b
+4a
+=3
+2b
+4a
+=4
+2gn}
+{4a
+=5
+2a
+4b
+=6
+4ccn
+4b
+4a
+=7
+4gn
+4e
+4f#
+=8
+2e
+4r}
+=9
+{2.a
+=10
+4gn
+4f#
+4e
+=11
+2dn}
+{4dn
+=12
+4gn
+4gn
+4a
+=13
+4b
+4b
+4a
+=14
+4gn
+4e
+4f#
+=15
+2e
+4r}
+==
+!!!AGN: geistliches Lied
+!! Inzipit = Variante zum Lied; Verzierungen
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der Ring Mein Freund hat mir versprochen etwas
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0016
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*e:
+{8e
+=1
+8e
+8gn
+8f#
+8e
+=2
+4dn
+4dn
+=3
+8gn
+8b
+8b
+8a
+=4
+4b
+8r}
+{8e
+=5
+8e
+8gn
+8f#
+8e
+=6
+4dn
+4dn
+=7
+8gn
+8b
+8b
+8a
+=8
+4b}
+{8gn
+8a
+=9
+8b
+8b
+8b
+8ccn
+=10
+4b
+8a
+8gn
+=11
+4a}
+{8a
+8ccn
+=12
+4b
+8e
+8f#
+=13
+4e
+8dn
+8cn
+=14
+4dn}
+{8f#
+8a
+=15
+4gn
+8f#
+8f#
+=16
+4e
+8r}
+==
+!!!AGN: Liebes - Lied
+!! Verzierungen; Inzipit = Transposition zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Mach auf mein Schatz, mein goldne Pfort, hoer an mein Stimm, hoer an mein Wort!
+!!!ARE: Europa, Mitteleuropa, Lothringen, Altripp
+!!!SCT: D0002
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[b-e-]
+*g:
+{8d
+=1
+8d
+8g
+8g
+8f#
+4.g
+8a
+=2
+8b-
+8a
+4g
+4.a}
+{8g
+=3
+4fn
+8a
+8a
+4g
+8d
+8e
+=4
+4fn
+4e
+4d
+8r}
+{8dd
+=5
+8dd
+8cc
+8dd
+16dd
+16cc
+4.b-
+8cc
+=6
+8dd
+8ee-
+8dd
+16cc
+16b-
+4.a}
+{8g
+=7
+8g
+8fn
+8g
+8a
+8b-
+8cc
+8dd
+8cc
+=8
+4b-
+4a
+4g
+8r}
+==
+!!!AGN: Tage - Lied, Kiltlied
+!! Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Eleisonlied Maria, die ging spazieren - Kyrieeleison.
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0029A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[b-e-]
+*g:
+{8cc
+8cc
+8cc
+=1
+4.gg
+8ffn
+8dd
+=2
+8ee-
+8dd
+4cc}
+=3
+{8dd
+=4
+4gg
+8ffn
+8gg
+4dd
+8r}
+{8dd
+16.dd
+32dd
+16.dd
+32dd
+=5
+4gg
+8ffn
+4ee-
+8cc
+!*M3/4
+=6
+4b-}
+{12cc
+12dd
+12ee-
+=7
+4dd
+8g
+8cc
+!*M2/4
+=8
+16b-
+16a
+4g}
+==
+!!!AGN: Legenden - Lied
+!! Taktart veraendert ( siehe Lied D0029) ; Variante zu Lied D0029
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der Nachtjaeger Es blaset ein Jager wohl in sein Horn
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0015
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{8d
+=1
+4g
+8f#
+8e
+=2
+4d
+8d
+8d
+=3
+4cc
+4cc
+=4
+4.b}
+{8b
+=5
+8b
+8a
+8cc
+8a
+=6
+4g
+8g
+8b
+=7
+4a
+8a
+8f#
+=8
+4.g}
+{16g
+16g
+=9
+8f#
+8a
+8a
+16a
+16a
+=10
+8g
+8b
+8dd
+8cc
+=11
+4b
+8a
+8a
+=12
+4.g}
+==
+!!!AGN: Ballade, Zauber
+!! Inzipit = entfernte Variante ??
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der Vorwirt Es wollt ein Herr ausreiten,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Altripp
+!!!SCT: D0001
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[b-e-]
+*g:
+{8d
+8d
+8d
+4g
+8a
+8g
+4fn
+8g
+8a
+8b-}
+=1
+{8a
+8a
+8g
+8a
+8g
+8d
+4d
+4d
+8e
+8f#
+4g}
+{4b-
+8a
+8cc
+8cc
+8dd
+8cc
+4b-
+8a
+8a
+8g
+8g
+8a
+8g
+4fn}
+{8d
+8d
+8d
+4g
+4b-
+4a
+4g
+8f#
+2g}
+==
+!!!AGN: Ballade, Familienereignis
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der arme Bauer O, ich armer Lothringer Bur,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Bettringen b. Holvingen
+!!    (Kr. Forbach)
+!!!SCT: D0061
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*g:
+{8dd
+8dd
+=1
+4dd
+8dd
+8dd
+8b-
+8g
+=2
+2a}
+{8dd
+8ee-
+=3
+4.dd
+8dd
+8b-
+8g
+=4
+4a
+8r}
+{8cc
+8cc
+8cc
+=5
+4.cc
+8cc
+8dd
+8ee-
+=6
+4dd
+8r}
+{8cc
+8b-
+8a
+=7
+4g
+4a
+8b-
+8a
+=8
+4.g
+8r}
+==
+!!!AGN: Bauern - Klage
+!! Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Dreikoenigslied Nun macht euch auf ihr Koenige
+!!!ARE: Europa, Mitteleuropa, Lothringen, Hambach
+!!!SCT: D0057
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+8g
+8f#
+4e
+4f#
+4g
+=2
+4.a
+8b
+4a}
+{8f#
+8d
+=3
+4g
+4g
+4cc
+4b
+=4
+2a
+4r}
+{4d
+=5
+8g
+8f#
+4e
+4f#
+4g
+=6
+4.a
+8b
+4a}
+{8f#
+8d
+=7
+4g
+4g
+4cc
+4b
+=8
+2a
+4r}
+{8f#
+8g
+=9
+4.a
+8b
+8a
+8g
+8f#
+8e
+=10
+4.d
+8c#
+4d}
+{4d
+=11
+4.g
+8a
+4g
+4f#
+=12
+2e
+4d}
+{4d
+=13
+8g
+8f#
+4e
+4f#
+4g
+=14
+4.a
+8b
+4g}
+{4cc
+=15
+4b
+4b
+8a
+8g
+4a
+=16
+2g
+4r}
+==
+!!!AGN:  Brauchtums - Lied, Dreikoenigs - Lied
+!! Achttonskala (Ionisch mit Modulation in die Dominanttonart)
+!!    Verzierungen; Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Das faule Gretchen
+!!!ARE: Europa, Mitteleuropa, Lothringen, Gebenhausen
+!!!SCT: D0028
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/8
+*k[f#]
+*G:
+{8d
+=1
+8g
+8b
+8a
+8f#
+=2
+8g
+8e
+8d}
+{8d
+=3
+8e
+8g
+8f#
+8a
+=4
+4g
+8r}
+{8d
+=5
+8g
+8b
+8a
+8f#
+=6
+8g
+8e
+8d}
+{8d
+=7
+8e
+8g
+8f#
+8a
+=8
+4g}
+{8.dd
+16cc
+=9
+8b
+8b
+8b
+8b
+=10
+8b
+8dd
+4dd
+=11
+8b
+8dd
+4dd}
+=12
+{8dd
+8cc
+8cc
+8ee
+=13
+8ee
+8dd
+8b}
+{16a
+16a
+=14
+8b
+8dd
+8cc
+8a
+=15
+4g
+8r}
+==
+!!!AGN: Spott - Lied
+!! Mehrere rhythmische Korrekturen zum 4/8 - Takt durchgefuehrt
+!!    Verzierung; Inzipit = Variante
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Sieben Straeuss Es wollt ein Maedelein frueh aufstehn,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Hambach
+!!!SCT: D0069
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[f#]
+*G:
+{4g
+4g
+4b
+4.dd
+8ee
+4dd
+4a
+4b
+4cc
+4r}
+=1
+{8dd
+8dd
+4b
+4a
+4b
+4g
+4f#
+8g
+8b
+4a}
+{4.dd
+8ffn
+4ee
+4dd
+8dd
+8cc
+8b
+8g
+2a
+4g}
+==
+!!!AGN: Ballade, abgewiesener Liebhaber
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Schlangenkoechin " Wo bist du gewesen, meine Tochter Marjaeh ?"
+!!!ARE: Europa, Mitteleuropa, Lothringen, Hambach
+!!!SCT: D0067A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*G:
+{8b
+8cc
+=1
+4dd
+4b
+4dd
+=2
+8cc
+8b
+4a}
+{8cc
+8cc
+=3
+4b
+4g
+4b
+=4
+2a}
+{4d
+=5
+4g
+4g
+8a
+8a
+=6
+4b
+4b}
+{8b
+8cc
+=7
+4dd
+4b
+4a
+=8
+2g}
+==
+!!!AGN: Ballade
+!! In der zweiten Zeile rhythmisch korrigiert; Variante zu D0067
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Das Lied vom Zimmergesellen Es war einmal gut Zimmergesell,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Altripp
+!!!SCT: D0004
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*d:
+{4dd
+=1
+4dd
+4ccn
+4dd
+=2
+2a
+4a
+=3
+4g
+4g
+4g
+=4
+2fn}
+{4g
+=5
+4a
+4b-
+4ccn
+=6
+4dd
+4ccn
+4dd
+=7
+2a}
+{4ccn
+=8
+4.ccn
+8dd
+4ccn
+=9
+4.a
+8ccn
+4ccn
+=10
+4.a
+8ccn
+4ccn
+=11
+2dd}
+{8b-
+8a
+=12
+4.a
+8g
+4fn
+=13
+4.g
+8fn
+4e
+=14
+2d}
+{8a
+8ccn
+=15
+4.ccn
+8dd
+4ccn
+=16
+4.a
+8ccn
+4ccn
+=17
+4.a
+8ccn
+4ccn
+=18
+2dd}
+{8b-
+8a
+=19
+4.a
+8g
+4fn
+=20
+4.g
+8fn
+4e
+=21
+2d}
+==
+!!!AGN: Ballade, Taten und Verbrechen
+!! Laengenwerte in Zeile 263, 265 und 266 berichtigt; Sequenz,
+!!    Wiederholungen; Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Arme Seele Dort drunten, dort droben vor einiger Tuer,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Woelflingen
+!!!SCT: D0062A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[b-e-]
+*g:
+{8c
+=1
+8g
+8g
+8g
+=2
+8fn
+8e
+8d
+=3
+8b-
+8a
+8g
+=4
+8a
+8r}
+{8fn
+=5
+8a
+16b-
+16b-
+8cc
+=6
+8b-
+8a
+8g
+=7
+8f#
+8g
+8a
+=8
+4g
+8r}
+==
+!!!AGN: geistliches Lied
+!! Variante zu D0062
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Arme Seele Dort drunten, dort droben vor einiger Tuer,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Woelflingen
+!!!SCT: D0062
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[]
+*a:
+{8d
+=1
+8a
+8a
+8a
+=2
+8gn
+8f#
+8e
+=3
+8ccn
+8b
+8a
+=4
+8b
+8r}
+{8gn
+=5
+8b
+8ccn
+16dd
+16dd
+=6
+8ccn
+8b
+8a
+=7
+8gn
+8a
+8b
+=8
+8a
+8r}
+==
+!!!AGN: geistliches Lied
+!! Inzipit = Variante zum Lied ( siehe folgendes Beispiel )
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Wenn Gott zwei Liebchen zusammen tut und sie beisammen schlafen laesst
+!!!ARE: Europa, Mitteleuropa, Lothringen, Morsbach ( Kr. Forbach )
+!!!SCT: D0008
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[b-e-]
+*g:
+{4d
+4g
+8a
+=1
+2b-
+2a
+2g
+2a
+4r}
+{4d
+4g
+8a
+=2
+2b-
+2a
+2g
+2a
+4r}
+{8g
+8a
+4b-
+4cc
+=3
+2dd
+4b-
+4dd
+8cc
+8b-
+=4
+4.a
+8a}
+{4cc
+4b-
+4a
+=5
+4.g
+8d
+8g
+8a
+4b-
+4a
+=6
+2g
+4r}
+==
+!!!AGN: Ballade, Maerchen, Zaubermaerchen
+!! Zwei Strophenvarianten, 2. Strophe kodiert; Inzipit = Variante
+!!    zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Schlangenkoechin " Wo bist Du gewesen, meine Tochter Marjae ?"
+!!!ARE: Europa, Mitteleuropa, Lothringen, Hambach
+!!!SCT: D0067
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*F:
+{8a
+8b-
+=1
+4cc
+4a
+8cc
+8dd
+=2
+4b-
+4g}
+{8b-
+8b-
+=3
+4a
+4f
+4a
+=4
+2g}
+{4c
+=5
+4f
+4f
+4g
+=6
+4a
+4a}
+{4b-
+=7
+4cc
+4b-
+4ee
+=8
+2f}
+==
+!!!AGN: Ballade
+!! Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die heilige Katharina Der Koenig und der Kaiser,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Gebenhausen
+!!!SCT: D0051
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[]
+*a:
+{4e
+=1
+4.a
+8b
+4ccn
+4a
+=2
+4b
+4ggn
+4r}
+{4ccn
+=3
+4a
+8e
+8e
+8d
+8e
+8fn
+8d
+=4
+4e}
+{4ccn
+4.dd
+8ee
+=5
+4ccn
+8a
+8a
+8dd
+8ccn
+[4b
+=6
+4b]}
+{8ccn
+8b
+4a
+4a
+=7
+4g#
+4b
+4a}
+==
+!!!AGN: Legenden - Lied
+!! Verzierung; Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Schneider - Verschwoerung Es haben sich sieben und siebzig Schneider verschworen,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Woelflingen
+!!!SCT: D0063
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#c#g#]
+*A:
+{4d
+=1
+4d
+4a
+4a
+=2
+8a
+16a
+16a
+4a
+4b
+=3
+4a
+4gn
+4gn
+=4
+4gn
+4gn}
+{4gn
+=5
+2gn
+4ccn
+=6
+4ccn
+4ccn
+4ccn
+=7
+2.ccn
+=8
+2ccn}
+{8.ccn
+16ccn
+=9
+4.b
+8b
+4b
+=10
+4a
+4a
+4a
+=11
+2a}
+==
+!!!AGN: Spott - Lied
+!! rezitativisch, Vortragsbezeichnung: lustig, schalkhaft
+!!    Verzierung; Inzipt = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der Wolf ( Der Abendgang ) Wer wohnt in jenem Tale ?
+!!!ARE: Europa, Mitteleuropa, Lothringen, Woelflingen
+!!!SCT: D0064
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4.g
+8a
+4b
+8b
+8dd
+=2
+4.a
+16b
+16a
+4g}
+{4d
+=3
+4.g
+8a
+4b
+8b
+8dd
+=4
+2.a}
+{8b
+8a
+=5
+4.g
+8a
+4b
+8cc
+8ee
+=6
+4.dd
+8ee
+4dd}
+{8.dd
+16cc
+=7
+4b
+4b
+4a
+8a
+8f#
+=8
+2.g}
+{4d
+=9
+4.g
+8a
+4b
+8cc
+8ee
+=10
+4.dd
+8ee
+4dd}
+{8.dd
+16cc
+=11
+4b
+4b
+4a
+8a
+8f#
+=12
+2.g}
+==
+!!!AGN: Ballade, Tod eines Geliebten
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der eifersuechtige Knabe Es stehen drei Sterne am Himmel,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Settingen
+!!!SCT: D0052
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  3/4; 4/4
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4d
+4g
+4g
+=2
+4g
+4a
+4b
+=3
+4.b
+8a
+4b
+=4
+2a}
+{4a
+=5
+4a
+4b
+4cc
+=6
+4cc
+4dd
+4ee
+=7
+2ee
+4dd
+=8
+2b}
+{4dd
+4cc
+=9
+*M3/4
+4.b
+8cc
+4b
+=10
+4a
+4g
+4dd
+=11
+[2.dd
+=12
+2dd]}
+{4ee
+=13
+4.dd
+8cc
+4b
+=14
+4a
+4dd
+4cc
+=15
+[2.b
+=16
+2b]}
+==
+!!!AGN: Ballade, Liebe, Mord aus Eifersucht
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Als Sankt Justil blind geboren war,CNR[und ihr Vater ein Pfalzgraf war
+!!!ARE: Europa, Mitteleuropa, Lothringen, Hambach
+!!!SCT: D0066
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[f#]
+*G:
+{4dd
+8a
+=1
+4a
+8dd
+=2
+4ffn
+8gg
+=3
+4ffn
+8ee
+=4
+4.dd}
+=5
+{4dd
+8dd
+=6
+8.cc
+16cc
+8dd
+=7
+4b-
+8a
+=8
+[4.g
+=9
+4g]}
+{8g
+=10
+4b-
+8b-
+=11
+8dd
+8cc
+8cc
+=12
+4.dd
+=13
+8dd
+8cc
+8b-
+=14
+4.a
+=15
+4.g}
+==
+!!!AGN: Legenden - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: St. Odilien Als Sankt Odilien geboren war,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Woelflingen
+!!!SCT: D0065
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[f#]
+*G:
+{8dd
+=1
+4dd
+8dd
+=2
+8dd
+8dd
+8dd
+=3
+8gg
+8ffn
+8gg
+=4
+[4.dd
+=5
+4dd]}
+{8ffn
+=6
+8.ffn
+16ffn
+8ffn
+=7
+8ffn
+8gg
+8ffn
+=8
+8ee-
+8dd
+8cc
+=9
+[4.b-
+=10
+4b-]}
+{8dd
+=11
+8cc
+8dd
+8ee-
+=12
+4dd
+8cc
+=13
+4b-
+8a
+=14
+[4.g
+=15
+4g]}
+==
+!!!AGN: Legenden - Lied
+!! In Zeile 261 und 263 rhythmisch korrigiert
+!!    Grundton in der kleinen Oktave
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Ich stand mal auf hohem Berge, da geseh ich ins tiefe Tal
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0030
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*g:
+{4d
+=1
+4.g
+8g
+4g
+=2
+4a
+4b
+4cc#
+=3
+4.dd
+8cc#
+4dd
+=4
+4a
+4b-}
+{8a
+8b-
+=5
+4.dd
+8ee-
+4dd
+=6
+4.cc
+8b
+4dd
+=7
+4a
+4b-
+4r}
+=8
+{2.dd
+=9
+4cc#
+4dd
+4a
+=10
+4b-
+4a
+4g
+=11
+2cc
+4ee-
+=12
+2dd}
+{4dd
+=13
+4.g
+8a
+4b-
+=14
+4cc
+4b-
+4a
+=15
+2g}
+==
+!!!AGN: Liebes - Klage
+!! Achttonskala (aeolisch mit fehlender Septime, in die Dominanttonart
+!!    (Ionisch) modulierend ); Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die himmlischen Freuden Wir geniessen die himmlischen Freuden,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Halsdorf ( Kr. Diedenhofen )
+!!!SCT: D0043
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*F:
+{8.f
+16f
+=1
+4a
+4a
+4b-
+=2
+4cc
+4cc
+4cc
+=3
+2a
+4b-
+=4
+2cc}
+{4cc
+=5
+4dd
+4cc
+4b-
+=6
+4a
+4g
+4f
+=7
+2e
+4f
+=8
+2g}
+{4f
+=9
+4a
+4cc
+4bn
+=10
+4cc
+4dd
+4bn
+=11
+4cc
+4dd
+4bn
+=12
+4cc
+4cc
+4r}
+=13
+{2dd
+4ff
+=14
+4.ee
+8dd
+4cc
+=15
+4ff
+4ee
+4dd
+=16
+2.cc}
+=17
+{2.b-
+=18
+4a
+4cc
+4a
+=19
+4g
+4f
+4g
+=20
+2f}
+==
+!!!AGN: geistliches Lied
+!! Achttonskala ( Ionisch in die Dominanttonart modulierend )
+!!    Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Nun adje, Schatz, und ich muss fort, ich muss wohl in die Fremde ziehn
+!!!ARE: Europa, Mitteleuropa, Lothringen, Breisdorf ( Kr. Diedenhofen )
+!!!SCT: D0049
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[b-e-]
+*g:
+{8g
+=1
+4d
+8g
+=2
+4b-
+8a
+=3
+4g
+8f#
+=4
+[4.g
+=5
+4g]}
+{8g
+=6
+4b-
+8cc
+=7
+4dd
+8ee-
+=8
+8dd
+8b-
+8cc
+=9
+[4.dd
+=10
+4dd]}
+{8dd
+=11
+4ffn
+8dd
+=12
+8ee-
+8dd
+8cc
+=13
+4dd
+8cc
+=14
+[4.b-
+=15
+4b-]}
+{8dd
+=16
+4dd
+8cc
+=17
+8cc
+8b-
+8a
+=18
+4g
+8f#
+=19
+[4.g
+=20
+4g]}
+==
+!!!AGN: Ballade
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Falkenlied Ich geseh mir zwei Falken fliegen,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Hambach
+!!!SCT: D0056
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[b-e-]
+*g:
+{8g
+8g
+8g
+8g
+4g
+!*M3/4
+=1
+4.dd
+8cc
+8dd
+8cc
+8b-
+8a
+4g
+4r}
+{4dd
+8ee-
+8ee-
+4dd
+4cc
+4dd
+8cc
+8b-
+4a
+4r}
+{8g
+4g
+4g
+=2
+4.dd
+8cc
+8dd
+8cc
+8b-
+8a
+4g
+4r}
+{4b-
+8a
+8b-
+4cc
+4a
+4dd
+8b-
+8a
+4g}
+==
+!!!AGN: Legenden - Lied
+!! Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der lustige Nagelschmied Willkomm, willkomm, Nagelschmied,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Halsdorf ( Kr. Diedenhofen )
+!!!SCT: D0046
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#]
+*G:
+{8g
+8g
+8b
+8b
+=1
+8g
+8g
+4a}
+=2
+{8b
+8g
+8dd
+16dd
+16dd
+=3
+8b
+8a
+8g
+16r}
+{16g
+=4
+8g
+8g
+8b
+8b
+=5
+8g
+8g
+4a}
+=6
+{8b
+8g
+8dd
+16dd
+16dd
+=7
+2b}
+==
+!!!AGN: Staende - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Schloss in Oestreich In Oestreich stand ein altes Schloss,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Settingen
+!!!SCT: D0054
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[]
+*C:
+{8g
+=1
+8g
+8cc
+4.e
+8e
+=2
+8e
+8g
+4.e}
+{8g
+=3
+8g
+8g
+4.a
+8f
+=4
+4f
+4e
+8r}
+{8g
+=5
+8g
+8b
+4.dd
+8f
+=6
+8e
+8g
+4c
+4r}
+=7
+{4ee
+16dd
+16cc
+16b
+16a
+8g
+8f
+=8
+4f
+4e
+8r}
+{8g
+=9
+8g
+8cc
+4.e
+8e
+=10
+8e
+8g
+4.e}
+{8g
+=11
+8g
+8g
+4.a
+8f
+=12
+4f
+4e
+8r}
+{8g
+=13
+8g
+8b
+4.dd
+8f
+=14
+8e
+8g
+4c
+4r}
+=15
+{4ee
+16dd
+16cc
+16b
+16a
+8g
+8f
+=16
+4f
+4e
+8r}
+==
+!!!AGN:  Ballade, Liebe, menschliche Grausamkeit
+!! Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die irdische Pilgerfahrt Ich weiss ein schoen's Himmelreich
+!!!ARE: Europa, Mitteleuropa, Lothringen, Hambach
+!!!SCT: D0055
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  3/4; 4/4
+*M4/4
+*k[b-e-]
+*g:
+{4g
+=1
+2g
+4g
+=2
+2.dd
+=3
+4ee-
+4ffn
+4ee-
+=4
+2dd}
+{4dd
+=5
+4.cc
+8dd
+4cc
+=6
+4b-
+4a
+8g
+8a
+=7
+4b-
+4a
+4g
+=8
+2r}
+{4gg
+=9
+4dd
+4dd
+4gg
+=10
+4dd
+4dd
+4cc
+=11
+4.b-
+8dd
+8b-
+8a
+=12
+2g}
+{2g
+=13
+*M3/4
+4b-
+4dd
+4cc
+=14
+4.dd
+8ee-
+8dd
+8cc
+=15
+*M4/4
+2b-
+4a
+[4g
+=16
+4g]
+2.r}
+==
+!!!AGN: geistliches Lied
+!! Sonderzeichen in der Notation
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Gruene Reben auf hohen Bergen, Ei, da waechst der beste Wein
+!!!ARE: Europa, Mitteleuropa, Lothringen, Halsdorf ( Kr. Diedenhofen )
+!!!SCT: D0044
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  3/4; 2/4
+*M3/4
+*k[f#]
+*G:
+{8.d
+16g
+=1
+8g
+8d
+8d
+8d
+8g
+8a
+=2
+*M2/4
+8b
+8a
+4g}
+=3
+{8.b
+16cc
+=4
+4dd
+8cc
+8b
+12g
+12a
+12b
+=5
+4a
+4r}
+=6
+{4g
+8a
+8b
+=7
+8.b
+16b
+8.b
+16dd
+12dd
+12cc
+12b
+=8
+12b
+12a
+12b
+4a}
+=9
+{8.b
+16a
+=10
+4g
+8.g
+16a
+12g
+12f#
+12e
+=11
+8.d
+16a
+4a}
+=12
+{8.b
+16a
+=13
+*M3/4
+8g
+8a
+8b
+8a
+8.g
+16f#
+=14
+4g
+4r}
+==
+!!!AGN: Liebes - Lied
+!! Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der Nachtjaeger Es blast ein Jager in seinem Horn,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0015A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-e-]
+*g:
+{8fn
+=1
+8g
+8b-
+8a
+8g
+=2
+4fn
+8fn
+8dd
+=3
+8dd
+8cc
+4dd
+=4
+4.a}
+{8a
+=5
+8b-
+8b-
+8cc
+16cc
+16cc
+=6
+8.dd
+16cc
+8b-}
+{8cc
+=7
+8dd
+8cc
+8b-
+8a
+=8
+8g
+8b-
+4a
+=9
+4g
+8r}
+==
+!!!AGN: Ballade, Zauber
+!! In der ersten Zeile Tonlaenge korrigiert und "Taktstrich" zugefuegt
+!!    Variante zu Lied D0015 ??
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die Lumpenbauern Die Lumpenbauern wollen uns nichts mehr ins Kloster 'neinbringen,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Gebenhausen
+!!!SCT: D0050
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*MFREI4/4
+*k[f#]
+*G:
+=0
+{8c
+16g
+16g
+16g
+16g
+16g
+16g
+16g
+16g
+16g
+8a
+8.g
+16fn
+8fn
+8e
+8e}
+=1
+{8c
+16g
+16g
+16g
+16g
+16g
+16g
+16g
+16g
+8a
+8.g
+16fn
+8fn
+8e
+8e}
+{8c
+16g
+16g
+16g
+16g
+16g
+16g
+16g
+16g}
+{16g
+16g
+16g
+16g
+8a
+8.g
+16fn
+8fn
+8fn
+4e}
+{4g
+=2
+=3
+8g
+8g
+4g
+4a
+4a
+=4
+=5
+4.b
+8b
+4b}
+{4a
+=6
+=7
+8g
+8g
+4g
+8a
+8a
+4a
+=8
+=9
+4.b
+8b
+4b
+4r}
+{2dd
+4b
+4g
+=10
+=11
+4a
+4a
+4g}
+==
+!!!AGN: Schwell - Lied, Scherz und Spott
+!! Die Tonrepetitionen in der ersten Zeile werden "psalmodierend"
+!!    (Vortragsbezeichnung) vorgetragen, zweiter Teil metrisch gebunden
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Drei Soldaten Es waren mal drei Soldaten,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Hambach
+!!!SCT: D0059
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#c#]
+*D:
+{4d
+=1
+4.d
+8e
+4f#
+8g
+8g
+=2
+4.a
+8b
+4a}
+{4dd
+=3
+8cc#
+8b
+4a
+8b
+8cc#
+4b
+=4
+2a
+4r}
+{4a
+=5
+4dd
+4a
+8b
+8cc#
+4b
+=6
+4.a
+8g
+4f#}
+{4b
+=7
+4b
+4a
+8a
+8f#
+8a
+8f#
+=8
+4f#
+4d
+4e}
+{8a
+8b
+=9
+4a
+8e
+8g
+4f#
+4e
+=10
+2d
+4r}
+==
+!!!AGN: Ballade, Liebe, Freibitte fuer den Geliebten
+!! Verzierung; Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Eleisonlied Maria, die ging spazieren - Kyrieeleison.
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0029
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  4/4; 3/4; 2/4
+*M2/4
+*k[f#c#g#]
+*f#:
+{8b
+8b
+8b
+8b
+=1
+*M4/4
+2ff#
+4een
+4cc#
+=2
+*M3/4
+4ddn
+4cc#
+[4b
+=3
+*M2/4
+2b]}
+=4
+{8b
+8b
+=5
+*M4/4
+2.ff#
+4ff#
+=6
+4een
+4ff#
+[2cc#
+=7
+4.cc#]}
+{8cc#
+8cc#
+8cc#
+8cc#
+8cc#
+=8
+*M3/4
+2ff#
+4cc#
+=9
+4cc#
+4b
+[4an
+=10
+*M2/4
+4an]}
+{8b
+8ddn
+=11
+4cc#
+8g#
+8b
+=12
+4an
+4g#
+=13
+2f#}
+==
+!!!AGN: Legenden - Lied
+!! Im Original mit der Bemerkung "ohne Taktakzente" ueberschrieben,
+!!    aber mit Taktstrichen notiert; Inzipit = entfernte Variante
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Entfuehrte Graserin Es wollt Gott's Graeserin grasene gehn,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Rechicourt ( Kr. Saarburg )
+!!!SCT: D0042
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{8f
+=1
+4f
+4f
+=2
+8.cc
+16cc
+8cc
+8dd
+=3
+4cc
+8b-
+8a
+=4
+[2g
+=5
+4g]
+8r}
+{8cc
+=6
+8cc
+8b-
+8a
+8g
+=7
+4f
+4g
+=8
+8f
+8e
+4d
+=9
+[2c
+=10
+4c]
+8r}
+{8c
+=11
+4f
+4f
+=12
+4g
+4cc
+=13
+4a
+4g
+=14
+2a
+=15
+4a
+4g
+=16
+[2f
+=17
+4f]
+8r}
+==
+!!!AGN: Ballade
+!! Verzierungen; Inzipit = Transposition zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Als Gott die Welt erschaffen hat und allerlei Getier
+!!!ARE: Europa, Mitteleuropa, Lothringen, Hambach
+!!!SCT: D0070
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[f#c#]
+*D:
+{8d
+=1
+8d
+8e
+8f#
+8g
+=2
+8a
+8a
+8a}
+{8a
+=3
+8b
+8cc#
+8dd
+8b
+=4
+8b
+8a
+8r}
+{8a
+=5
+8a
+8g
+8g
+8e
+=6
+8d
+8f#
+8f#}
+{8f#
+=7
+8e
+8f#
+8g
+8e
+=8
+4d
+8r}
+==
+!!!AGN: geistliches Scherz - Lied
+!! Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die wiedergefundene Schwester Es reisen ihrer Herren alle dreie,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Hambach
+!!!SCT: D0060
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*F:
+{4c
+=1
+4f
+4f
+8f
+8f
+=2
+4g
+4g
+8a
+8a
+=3
+2.b-
+=4
+4f
+4r}
+{8a
+8b-
+=5
+4.cc
+8dd
+4cc
+=6
+4g
+4g
+4cc
+=7
+4cc
+4b-
+4a
+=8
+4g
+4r}
+{8.cc
+16b-
+=9
+4a
+4g
+4a
+=10
+4f
+4f
+4a
+=11
+4f
+4g
+4a
+=12
+4g
+4r}
+{4g
+=13
+4f
+4f
+4dd
+=14
+4.cc
+8b-
+8a
+8cc
+=15
+8cc
+8b-
+4a
+4g
+=16
+4f
+4r}
+{4g
+=17
+4f
+4f
+4dd
+=18
+4.cc
+8b-
+8a
+8cc
+=19
+8cc
+8b-
+4a
+4g
+=20
+4f
+4r}
+==
+!!!AGN: Ballade, Familie, Wiederfinden von Familienangehoerigen
+!! Inzipit = Variante zum
+!!Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Wilmens Esel
+!!!ARE: Europa, Mitteleuropa, Lothringen, Breisdorf ( Kr. Diedenhofen )
+!!!SCT: D0047
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  2/4; 3/4
+*M3/4
+*k[b-e-]
+*B-:
+{8f
+=1
+8b-
+8b-
+8b-
+8cc
+=2
+8dd
+8cc
+4b-}
+=3
+{8cc
+8b-
+8cc
+8dd
+=4
+8ee-
+16cc
+16cc
+4dd
+4dd}
+=5
+*M2/4
+{8ff
+8ee-
+8dd
+8cc
+=6
+8dd
+16cc
+16cc
+4b-}
+=7
+{8cc
+8cc
+8cc
+8dd
+=8
+8b-
+8b-
+4b-}
+=9
+{4cc
+8cc
+8b-
+=10
+8dd
+8cc
+8b-
+8a
+=11
+4g
+8r}
+==
+!!!AGN: Ballade, Schwank
+!! Heptatonik ( Ionisch, Schluss moduliert in parallele Molltonart)
+!!    Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der Essigkrug Wo ist der Mann aus diesem Haus,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Halsdorf ( Kr. Diedenhofen )
+!!!SCT: D0045
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-e-]
+*B-:
+{8f
+=1
+8b-
+8b-
+8f
+8f
+=2
+8g
+8g
+8f
+8r}
+=3
+{4b-
+8g
+8a
+=4
+4b-
+8r}
+{8f
+=5
+8d
+8e-
+8f
+8ee-
+=6
+4dd
+8b-}
+{8dd
+=7
+8cc
+8cc
+8b-
+8a
+=8
+4b-
+8r}
+{16f
+16f
+=9
+4b-
+8f
+16f
+16f
+=10
+4g
+8f}
+{8f
+=11
+4b-
+8g
+8a
+=12
+4b-
+8r}
+{8f
+=13
+8b-
+8b-
+8cc
+8ee-
+=14
+4dd
+8b-}
+{8dd
+=15
+8cc
+8cc
+8b-
+8a
+=16
+4b-
+8r}
+==
+!!!AGN: Scherzlied auf einen Hausstand
+!! Inzipit = Transposition zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der arme Bauer O, ich armer Lothringer Bur,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Bettringen b. Holvingen     (Kr. Forbach)
+!!!SCT: D0061
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*g:
+{8dd
+8dd
+=1
+4dd
+8dd
+8dd
+8b-
+8g
+=2
+2a}
+{8dd
+8ee-
+=3
+4.dd
+8dd
+8b-
+8g
+=4
+4a
+8r}
+{8cc
+8cc
+8cc
+=5
+4.cc
+8cc
+8dd
+8ee-
+=6
+4dd
+8r}
+{8cc
+8b-
+8a
+=7
+4g
+4a
+8b-
+8a
+=8
+4.g
+8r}
+==
+!!!AGN: Bauern - Klage
+!! Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Das Zauberross Es wollt' ein Maedchen frueh aufstehn,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0031
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[f#]
+*G:
+{8d
+8g
+8a
+=1
+4b
+4b
+8a
+8a
+=2
+4g
+8r}
+{8g
+8g
+8b
+=3
+4dd
+4dd
+8ee
+8ee
+8dd}
+{8cc
+8b
+8a
+=4
+4g
+4dd
+8cc
+8a
+=5
+4.g}
+==
+!!!AGN: Ballade, magisch, mythisch
+!! Taktart in ' FREI ' korrigiert
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der eifersuechtige Knabe Ich ging einmal spazieren
+!!!ARE: Europa, Mitteleuropa, Lothringen, Gebenhausen
+!!!SCT: D0026
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#]
+*G:
+{8dd
+=1
+4b
+8b
+4a
+8a
+=2
+4.g
+4d}
+{8g
+=3
+8g
+8g
+8a
+8b
+8g
+8a
+=4
+[4.b
+4b]}
+{8cc
+=5
+8b
+8dd
+8dd
+8ee
+8dd
+8cc
+=6
+4.b
+4.a}
+=7
+{4.g
+4.a
+=8
+8.dd
+16cc
+8b
+8cc
+8b
+8a
+=9
+[4.g
+4g]}
+==
+!!!AGN: Ballade, Liebe, Mord aus Eifersucht
+!! Inzipit = entfernte Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Petrus und Pilatus " Wo gehn wir dann hin wandern ?" sprach Petrus
+!!!ARE: Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )
+!!!SCT: D0019
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/2
+*k[b-e-]
+*g:
+{4d
+=1
+4g
+4ff#
+4g
+4a
+=2
+2b-
+2ffn}
+=3
+{2b
+2cc
+=4
+2dd
+4r}
+{4dd
+=5
+4ee-
+4dd
+4dd
+8cc
+8cc
+=6
+2dd
+4b-}
+{4dd
+=7
+4cc
+4b-
+4a
+4g
+=8
+2a
+2d}
+=9
+{4.g
+8g
+2f#
+=10
+2g
+4r}
+==
+!!!AGN: Kinder - Spiel
+!! Inzipit = Variante zum Lied, Verzierung
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Petrus und Pilatus " Wo gehn wir dann hin wandren ?" sprach Petrus.
+!!!ARE: Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )
+!!!SCT: D0019A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-e-]
+*g:
+{8d
+=1
+8g
+8ff#
+8g
+8a
+=2
+4b-
+4ffn}
+=3
+{4b-
+4cc
+=4
+4dd
+8r}
+{8dd
+=5
+8ee-
+8dd
+8dd
+16cc
+16cc
+=6
+4dd
+8b-}
+{8dd
+=7
+8cc
+8b-
+8a
+8g
+=8
+4a
+[4d
+=9
+4d]}
+{8g
+8g
+=10
+4f#
+4g
+=11
+4.g}
+==
+!!!AGN: Kinder - Spiel
+!! Variante zu D0019
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Gemalte Rosen Es ging ein Maedchen Wasser hol'n
+!!!ARE: Europa, Mitteleuropa, Lothringen, Gebenhausen
+!!!SCT: D0027
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/2
+*k[f#c#]
+*D:
+{4a
+=1
+4dd
+4a
+4a
+4a
+=2
+4b
+4a
+4a}
+{4a
+=3
+4.b
+8g
+4g
+4f#
+=4
+2f#
+2e}
+=5
+{2d
+2f#
+=6
+2.a
+4r}
+=7
+{2a
+2cc#
+=8
+2.ee}
+{4dd
+=9
+4cc#
+4b
+4a
+4g
+=10
+2g
+4f#}
+==
+!!!AGN: Ballade, Liebe
+!! Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Es fliegen zwei Tauben wohl ueber den Rhein,: sie kommen den ganzen Sommer nicht heim.
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0032
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*G:
+{4d
+=1
+4.g
+8a
+4b
+=2
+4a
+4a
+4d
+=3
+4e
+4f#
+4e
+=4
+2d}
+{4d
+=5
+4g
+4a
+4b
+=6
+4a
+4a
+4dd
+=7
+4.cc#
+8dd
+4ee
+=8
+2dd}
+{4dd
+=9
+4g
+4a
+4b
+=10
+4cc
+4b
+4a
+=11
+4g
+4b
+4a
+=12
+2g}
+==
+!!!AGN: Liebes - Lied
+!! Achttonskala ( Ionisch, modulierend in die Dominanttonart )
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: 's Geigenbuebele Als ich einmal kleins Buewele war,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Hambach
+!!!SCT: D0058
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*G:
+{4d
+=1
+4.g
+8f#
+4g
+=2
+2a
+4dd
+=3
+4.b
+8a
+4b
+=4
+2g}
+{4g
+=5
+4.a
+8b
+4cc
+=6
+4.dd
+8cc
+4b
+=7
+4.g
+8a
+4b
+=8
+2a}
+{4a
+=9
+4.dd
+8ee
+4dd
+=10
+8dd
+8cc
+4b
+4a
+=11
+4.g
+8d
+8g
+8b
+=12
+4.a
+8b}
+{4g
+=13
+4.a
+8b
+4cc
+=14
+4.dd
+8cc
+4b
+=15
+2a
+4dd
+=16
+2g}
+==
+!!!AGN: Ballade, magisch, mythisch
+!! haeufige Wiederholung eines rhythmischen Motivs; Verzierung;
+!!    Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Sieben Straeuss Es wollt ein Maedchen zum Tanze gehn.
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0034
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*d:
+{4a
+4a
+4g
+=1
+4.fn
+8g
+4a
+=2
+8a
+8g
+4fn
+[4e
+=3
+2.e]}
+=4
+{8g
+8g
+8g
+8g
+4a
+=5
+4.d
+8e
+4fn
+=6
+4e
+4d
+[4cn
+=7
+2cn]}
+{4cn
+=8
+2fn
+4g
+=9
+2a
+8g
+8fn
+=10
+2.e
+=11
+2.d}
+==
+!!!AGN: Ballade, vergebliche Werbung
+!! Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der verkleidete Markgrafensohn Es freit ein reicher Kaufmannssohn,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0033
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  4/8; 3/8; 2/8
+*M3/8
+*k[f#]
+*G:
+{8d
+8d
+8d
+=1
+*M4/8
+4g
+8f#
+8e
+=2
+8f#
+8g
+[4a
+=3
+*M3/8
+4.a]}
+=4
+{8a
+=5
+*M4/8
+8b
+8a
+8g
+8f#
+=6
+*M3/8
+4e
+8d}
+=7
+{8a
+=8
+8a
+8a
+8b
+=9
+*M4/8
+8a
+8a
+4dd
+=10
+*M3/8
+8cc
+8b
+8a
+=11
+4g
+8a}
+=12
+{8b
+=13
+*M2/8
+8cc
+8a
+=14
+*M3/8
+8b
+8a
+8g
+=15
+4.f#
+=16
+4.g}
+==
+!!!AGN: Ballade
+!! Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Die wiedergefundene Schwester Es reisen ihrer Herren alle dreie,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Hambach
+!!!SCT: D0060
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*F:
+{4c
+=1
+4f
+4f
+8f
+8f
+=2
+4g
+4g
+8a
+8a
+=3
+2.b-
+=4
+4f
+4r}
+{8a
+8b-
+=5
+4.cc
+8dd
+4cc
+=6
+4g
+4g
+4cc
+=7
+4cc
+4b-
+4a
+=8
+4g
+4r}
+{8.cc
+16b-
+=9
+4a
+4g
+4a
+=10
+4f
+4f
+4a
+=11
+4f
+4g
+4a
+=12
+4g
+4r}
+{4g
+=13
+4f
+4f
+4dd
+=14
+4.cc
+8b-
+8a
+8cc
+=15
+8cc
+8b-
+4a
+4g
+=16
+4f
+4r}
+{4g
+=17
+4f
+4f
+4dd
+=18
+4.cc
+8b-
+8a
+8cc
+=19
+8cc
+8b-
+4a
+4g
+=20
+4f
+4r}
+==
+!!!AGN: Ballade, Familie, Wiederfinden von Familienangehoerigen
+!! Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der Lindenschmied Es ist noch nit lang, als dieses geschah,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )
+!!!SCT: D0022
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[b-e-]
+*g:
+{16d
+16d
+=1
+4g
+8g
+4fn
+8fn
+=2
+8b-
+8dd
+8cc
+4b-}
+{8g
+=3
+4a
+8b-
+8cc
+8cc
+8b-
+=4
+8g
+8g
+8ff#
+4g}
+{8a
+=5
+8cc
+8dd
+8cc
+4b-
+8a
+=6
+4.g
+4fn}
+{8fn
+=7
+8b-
+8dd
+8cc
+4dd
+16dd
+16cc
+=8
+8b-
+8cc
+8dd
+4.cc}
+=9
+{4.dd
+8cc
+8b-
+8a
+=10
+8g
+8d
+8g
+8b-
+8a
+8g
+=11
+4.d
+4g}
+==
+!!!AGN: historisches Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Der verkleidete Reiter Es war einmal ein Reiter,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0036
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M6/8
+*k[f#]
+*G:
+{8g
+=1
+4g
+8g
+8g
+8a
+8g
+=2
+4.fn
+4g}
+{8a
+=3
+8b-
+8a
+8g
+8cc
+8b-
+8a
+=4
+[4.g
+4g]}
+{8g
+=5
+4b-
+8fn
+4b-
+8cc
+=6
+4.dd
+8dd
+8cc}
+{8cc
+=7
+8dd
+8dd
+8dd
+8g
+8a
+8g
+=8
+4.fn
+4g}
+{8a
+=9
+8b-
+8a
+8g
+8cc
+8b-
+8a
+=10
+[4.g
+4g]}
+==
+!!!AGN: Ballade
+!! Notenwert in Zeile 261 korrigiert
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Wiedersehn Wie schoen blueht sich es der gruene Wald,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0039
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-e-]
+*g:
+{4d
+=1
+4.g
+8a
+4b-
+=2
+4a
+4b-
+4a
+=3
+4g
+4f#
+4g
+=4
+2d}
+{4d
+=5
+2g
+4a
+=6
+4.dd
+8ee
+4dd
+=7
+4cc
+4b
+[4a
+=8
+4a]
+4r}
+{8b
+8a
+=9
+4g
+4g
+8dd
+8cc#
+=10
+4dd
+4dd
+8g
+8g
+=11
+4.g
+8f#
+4g
+=12
+2d}
+{4d
+=13
+4g
+4a
+[4dd
+=14
+2dd]
+8cc
+8b
+=15
+4.a
+8b
+4a
+=16
+2g}
+==
+!!!AGN: Ballade, Liebe, Wiedervereinigung der Liebenden
+!! Neuntonskala (beginnt in Moll, moduliert sofort nach Ionisch)
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Lazarus und der Prasser Der Lazarus leit auf dem Mist und schlief,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Gebenhausen
+!!!SCT: D0024
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{8c
+=1
+8.f
+16f
+8f
+8g
+=2
+4a
+8cc
+8b-
+=3
+4a
+4g
+=4
+4.f}
+{8f
+=5
+8.g
+16g
+8g
+8g
+=6
+4g
+8a
+8b-
+=7
+4cc
+8b-
+8a
+=8
+4g
+8r}
+{8f
+=9
+4a
+8a
+8b-
+=10
+4.cc
+8cc
+=11
+8b-
+8a
+8g
+8f
+=12
+4b-
+8r}
+{8g
+=13
+4cc
+8b-
+8g
+=14
+8f
+8cc
+8b-
+8g
+=15
+4a
+8g
+8c
+=16
+4f
+8r}
+==
+!!!AGN: Legenden - Lied
+!! Inzipit =  Variante
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Graf Friedrich Graf Friederich wollt ausreiten,
+!!!ARE: Europa, Mitteleuropa, Lothringen, Morsbronn ( Kr. Forbach )
+!!!SCT: D0010
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[b-]
+*F:
+{4c
+8f
+8f
+4f
+4.g
+8a
+8b-
+8a
+4g}
+=1
+{8a
+8g
+4f
+4c
+8f
+8f
+8g
+8a
+8b-
+8cc
+4g}
+{4.g
+8f
+8e
+8d
+8.c
+16d
+8c
+8c
+4f
+8g
+8g
+8a
+8f
+4g}
+{8b-
+8b-
+4a
+4g
+4f
+4c
+8f
+8g
+8a
+8a
+4g
+4f}
+==
+!!!AGN: Ballade, Familienereignisse
+!! Inzipit = entfernte Variante zum Lied ??
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Es fliegen zwei Tauben wohl ueber den Rhein,: sie kommen den ganzen Sommer nicht heim.
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0035A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[b-]
+*d:
+{4d
+=1
+4g
+4g
+4a
+=2
+4g
+4g
+4d
+=3
+4fn
+4g
+4fn
+=4
+2d}
+{4d
+=5
+4a
+4a
+4g
+=6
+4a
+4a
+4g
+=7
+4a
+4a
+4g
+=8
+2a}
+{4a
+=9
+4.d
+8e
+4fn
+=10
+4g
+4fn
+4e
+=11
+4d
+4d
+4c#
+=12
+2d}
+==
+!!!AGN: Liebes - Lied
+!! Variante zu D0035 und D0032
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Das vierte Gebot ( Der Teufel als Freier ) Nun hoeret an, ihr Elteren
+!!!ARE: Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )
+!!!SCT: D0021
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  4/4; 2/4
+*M2/4
+*k[f#c#]
+*D:
+{4f#
+=1
+4f#
+4e
+=2
+*M4/4
+2.d
+8d
+8e
+=3
+*M2/4
+4f#
+4g
+=4
+*M4/4
+2.a}
+{4f#
+=5
+*M2/4
+4g
+4a
+=6
+*M4/4
+2b
+4b
+4a
+=7
+*M2/4
+2g
+=8
+*M4/4
+2.f#}
+{4a
+=9
+*M2/4
+4a
+4f#
+=10
+*M4/4
+2.b
+4a
+=11
+*M2/4
+4g
+4b
+=12
+*M4/4
+2.a}
+{4a
+=13
+*M2/4
+4b
+8a
+8a
+=14
+*M4/4
+2a
+4g
+4g
+=15
+*M2/4
+4g
+8e
+8d
+=16
+*M4/4
+2.e}
+{4a
+=17
+*M2/4
+8b
+8b
+4cc#
+=18
+*M4/4
+2dd
+2a
+=19
+*M2/4
+2e
+=20
+2d
+4r}
+==
+!!!AGN: Zeitungs - Lied
+!! Verzierung; Inzipit = Variante
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Hoert allesamt was ich ereklaer' Wo kommet denn der Ehstand her
+!!!ARE: Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )
+!!!SCT: D0020
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[f#]
+*G:
+{4d
+4d
+4g
+4g
+4b
+8a
+8g
+8f#
+8e
+4.d}
+=1
+{8d
+=2
+4.cc
+8a
+4.b
+8b
+8a
+8g
+8f#
+8e
+4d}
+{4d
+=3
+2cc
+2b
+4a
+4r}
+{8g
+8a
+=4
+4b
+4cc
+8dd
+8cc
+4b
+8a
+8g
+8a
+8b
+4cc}
+{4a
+4b
+4cc
+8dd
+8g
+4a
+8g
+8f#
+4e
+4d
+8r}
+{8d
+=5
+4.g
+8b
+4.a
+8b
+4g
+4b
+4dd
+8cc
+8a
+=6
+2b
+2a
+2g}
+==
+!!!AGN: Hochzeits - Lied
+!! Caesuren nachtraeglich zugefuegt; Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Es fliegen zwei Tauben wohl ueber den Rhein, Sie kommen den ganzen Sommer nicht heim
+!!!ARE: Europa, Mitteleuropa, Lothringen, Weiler
+!!!SCT: D0035
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/4
+*k[f#]
+*G:
+{4g
+=1
+4dd
+4dd
+4cc
+=2
+4dd
+4dd
+4cc
+=3
+4dd
+4dd
+4cc
+=4
+[2.dd
+=5
+4dd]
+4r}
+{4dd
+=6
+4.g
+8a
+4b-
+=7
+4cc
+4b-
+4a
+=8
+4g
+4g
+4f#
+=9
+[2.g
+=10
+4g]
+4r}
+{4d
+=11
+4g
+4g
+4a
+=12
+4g
+4g
+4d
+=13
+4ffn
+4g
+4ffn
+=14
+[2.d
+=15
+4d]
+4r}
+{4g
+=16
+4dd
+4dd
+4cc
+=17
+4dd
+4dd
+4cc
+=18
+4dd
+4dd
+4cc
+=19
+[2.dd
+=20
+4dd]
+4r}
+{4dd
+=21
+4.g
+8a
+4b-
+=22
+4cc
+4b-
+4a
+=23
+4g
+4g
+4f#
+=24
+[2.g
+=25
+4g]
+4r}
+==
+!!!AGN: Liebes - Lied
+!! Inzipit = Variante zum Lied, beides Varianten zu Lied D0032
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!OTL: Wenn Gott zwei Liebchen zusammen tut und sie beisammen schlafen laesst
+!!!ARE: Europa, Mitteleuropa, Lothringen, Morsbach ( Kr. Forbach )
+!!!SCT: D0008
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Irregular meter.
+*MX
+*k[b-e-]
+*g:
+{4d
+4g
+8a
+=1
+2b-
+2a
+2g
+2a
+4r}
+{4d
+4g
+8a
+=2
+2b-
+2a
+2g
+2a
+4r}
+{8g
+8a
+4b-
+4cc
+=3
+2dd
+4b-
+4dd
+8cc
+8b-
+=4
+4.a
+8a}
+{4cc
+4b-
+4a
+=5
+4.g
+8d
+8g
+8a
+4b-
+4a
+=6
+2g
+4r}
+==
+!!!AGN: Ballade, Maerchen, Zaubermaerchen
+!! Zwei Strophenvarianten, 2. Strophe kodiert; Inzipit = Variante     zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
