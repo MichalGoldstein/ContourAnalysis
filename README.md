@@ -2,7 +2,9 @@
 
 Scripts for analysing melodic contour of monophonic audio file.
 
-If you want to analyse the Essen dataset, start from step 0: the humdrum2audio code.
+
+If you want to analyse the Essen dataset, start from step 0: humdrum2audio -- generate audio files from the Essen data.
+
 
 For all other audio files, or once you have created audio files for the Essen dataset,
 
